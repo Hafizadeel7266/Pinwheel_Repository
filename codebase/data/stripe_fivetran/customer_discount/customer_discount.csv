@@ -1,0 +1,6 @@
+customer_id,id,end,start,promotion_code,checkout_session,coupon_id,invoice_item_id,subscription_id,invoice_id,_fivetran_synced
+cus_MT6LZ34g9NivfZ,di_1MboDIFCPJnn9IgIk7hNST5q,,,,,E48IrcfP,,,,2025-02-16 00:30:21.573000+00:00
+cus_MoowGoUX1NnIIq,di_1M5BlQFCPJnn9IgIvFT8xVYq,,,,,E48IrcfP,,,,2025-07-19 00:29:49.104000+00:00
+cus_S9YH7fxJl81BSh,di_1RJHBAFCPJnn9IgIUi4zXU8R,,,promo_1Kj4e8FCPJnn9IgIKxvxeUlP,cs_live_b1RnpaUHrlgAsEeUAO86B6sBx1RpBOktCaIb8yBVmKpNXlXoAMXgPEM090,pBdwPfyh,,,,2025-04-30 00:31:06.411000+00:00
+cus_Ku4fBSfON1GVKa,di_1Qs2BHFCPJnn9IgIvBJ3Qwiu,,,,,1jxr2ccq,,,,2025-08-05 00:30:15.563000+00:00
+cus_QxQi95j9GSPObb,di_1Q5VrJFCPJnn9IgIwsD9UnwL,,,promo_1Q5VgAFCPJnn9IgIEvSUxv8e,cs_live_b1DbRXik5PBbFsvj7YN3uhGSgDhmvdag70byz9M2bmwjGDWmgVVN2O4ndD,RQF5eVfn,,,,2024-10-22 17:33:29.628000+00:00

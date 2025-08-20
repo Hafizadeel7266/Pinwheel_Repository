@@ -1,0 +1,2 @@
+debt_recovery_event_id,index,recovery_amount_currency_code,recovery_amount_currency_amount,group_begin_date,group_end_date,_fivetran_synced
+98RFcSPluaJYXrSaQoGnJawOrgg=,1,USD,-39.99,2022-08-03 20:04:47+00:00,,2023-05-10 17:31:50.549000+00:00

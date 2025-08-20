@@ -1,0 +1,1334 @@
+id,active,created,description,display_name,inclusive,jurisdiction,livemode,metadata,percentage,_fivetran_synced
+txr_1OseMLFCPJnn9IgIFOvNVuk6,False,2024-03-10 04:51:41+00:00,,Sales Tax,False,Oklahoma,True,{},5.995,2025-05-11 00:32:16.506000+00:00
+txr_1RNO0VFCPJnn9IgIncC0yvn0,False,2025-05-11 00:44:43+00:00,,VAT,False,Philippines,True,{},0.0,2025-05-12 00:34:10.466000+00:00
+txr_1NlFwTFCPJnn9IgIyCugP4Xe,False,2023-08-31 18:50:09+00:00,,Sales Tax,False,North Dakota,True,{},6.5,2025-05-14 00:32:55.497000+00:00
+txr_1OPP1lFCPJnn9IgIsIGv1PU8,False,2023-12-20 12:37:33+00:00,,Sales Tax,False,Arkansas,True,{},10.0,2025-05-15 00:32:55.353000+00:00
+txr_1RQ5SmFCPJnn9IgIAczdOr4J,False,2025-05-18 11:33:04+00:00,,Sales Tax,False,Oklahoma,True,{},8.995,2025-05-19 00:32:35.240000+00:00
+txr_1RQ5SmFCPJnn9IgIobUUKrCZ,False,2025-05-18 11:33:04+00:00,,Sales Tax,False,Oklahoma,True,{},8.995,2025-05-19 00:32:26.187000+00:00
+txr_1NB86hFCPJnn9IgI5Nj3lE4p,False,2023-05-24 03:11:23+00:00,,Sales Tax,False,Kansas,True,{},9.975,2025-05-20 00:32:47.768000+00:00
+txr_1RSiqIFCPJnn9IgIrk5GVMgu,False,2025-05-25 18:00:14+00:00,,Sales Tax,False,Wyoming,True,{},7.0,2025-05-26 00:33:29.066000+00:00
+txr_1QQfRoFCPJnn9IgI6O5u4N1S,False,2024-11-30 01:26:12+00:00,,Sales Tax,False,Illinois,True,{},7.1,2025-05-31 00:32:44+00:00
+txr_1Q0YaAFCPJnn9IgIuPbBrfvY,False,2024-09-19 00:50:54+00:00,,Sales Tax,False,Oklahoma,True,{},9.8,2025-06-03 00:32:41.864000+00:00
+txr_1RWRhpFCPJnn9IgI1G77oZIT,False,2025-06-05 00:30:53+00:00,,VAT,False,Philippines,True,{},12.0,2025-06-05 00:30:53.525000+00:00
+txr_1RXpedFCPJnn9IgIP7oR1tEe,False,2025-06-08 20:17:19+00:00,,Sales Tax,False,Oklahoma,True,{},4.5,2025-06-09 00:32:48.378000+00:00
+txr_1NoR0SFCPJnn9IgIsTiiPsy6,False,2023-09-09 13:15:24+00:00,,Sales Tax,False,Illinois,True,{},7.6,2025-06-11 00:30:58.140000+00:00
+txr_1NLx0mFCPJnn9IgInh2g2CxY,False,2023-06-22 23:34:00+00:00,,Sales Tax,False,Illinois,True,{},6.85,2025-06-13 00:33:02.058000+00:00
+txr_1RZGdtFCPJnn9IgIrLabSQIu,False,2025-06-12 19:18:29+00:00,,Sales Tax,True,Illinois,True,{},6.85,2025-06-13 00:33:02.058000+00:00
+txr_1QgqPvFCPJnn9IgIhR6gpIM4,False,2025-01-13 16:23:07+00:00,,Sales Tax,False,New Mexico,True,{},8.065,2025-06-14 00:32:31.574000+00:00
+txr_1N8MjyFCPJnn9IgIZxFrlH7p,False,2023-05-16 12:12:30+00:00,,Sales Tax,False,Colorado,True,{},9.045,2025-06-16 00:32:22.165000+00:00
+txr_1NpCVvFCPJnn9IgI9JauFfaD,False,2023-09-11 15:59:03+00:00,,Sales Tax,False,Nevada,True,{},7.6,2025-06-19 00:32:43.724000+00:00
+txr_1N9GojFCPJnn9IgIkdPBeXYZ,False,2023-05-19 00:05:09+00:00,,Sales Tax,False,Utah,True,{},7.95,2025-06-20 00:31:40.504000+00:00
+txr_1RPsH0FCPJnn9IgIHRTaMihY,False,2025-05-17 21:28:02+00:00,,Sales Tax,True,Missouri,True,{},6.475,2025-06-21 00:31:20.859000+00:00
+txr_1NkZgiFCPJnn9IgIZN8Oz0OO,False,2023-08-29 21:43:04+00:00,,Sales Tax,False,Oklahoma,True,{},5.5,2025-06-24 00:32:57.590000+00:00
+txr_1N8CkTFCPJnn9IgIPBPa2g1T,False,2023-05-16 01:32:21+00:00,,Sales Tax,False,California,True,{},8.375,2025-06-24 00:32:54.494000+00:00
+txr_1RdhEvFCPJnn9IgIQ1Etp6wN,False,2025-06-25 00:31:01+00:00,,Sales Tax,False,Arizona,True,{},8.0,2025-06-25 00:31:01.407000+00:00
+txr_1RdtkWFCPJnn9IgIMDIwNdhu,False,2025-06-25 13:52:28+00:00,,Sales Tax,False,Missouri,True,{},6.95,2025-06-26 00:33:16.824000+00:00
+txr_1Re3icFCPJnn9IgIdijlRFlG,False,2025-06-26 00:31:10+00:00,,Sales Tax,False,Oklahoma,True,{},6.8,2025-06-26 00:31:10.276000+00:00
+txr_1ORiEsFCPJnn9IgIxRLrpePW,False,2023-12-26 21:32:38+00:00,,Sales Tax,False,Colorado,True,{},6.4,2025-06-27 00:32:48.473000+00:00
+txr_1RQXgOFCPJnn9IgI2x4oCtPk,False,2025-05-19 17:41:00+00:00,,Sales Tax,True,Arizona,True,{},8.8,2025-07-03 00:32:57.344000+00:00
+txr_1Rhfo6FCPJnn9IgINZ4pzvWV,False,2025-07-05 23:47:46+00:00,,Sales Tax,False,Missouri,True,{},4.725,2025-07-06 00:33:01.497000+00:00
+txr_1RhyOLFCPJnn9IgI5atvFKSr,False,2025-07-06 19:38:25+00:00,,Sales Tax,True,Arkansas,True,{},7.5,2025-07-07 00:33:02.010000+00:00
+txr_1RiotGFCPJnn9IgI3WM9Veg0,False,2025-07-09 03:41:50+00:00,,Sales Tax,True,Louisiana,True,{},11.35,2025-07-10 00:32:44.898000+00:00
+txr_1NL3JgFCPJnn9IgItHjxNsHY,False,2023-06-20 12:05:48+00:00,,Sales Tax,False,Missouri,True,{},8.85,2025-07-11 00:32:42.249000+00:00
+txr_1RjRYmFCPJnn9IgIj0UCZx7m,False,2025-07-10 20:59:16+00:00,,Sales Tax,True,New Mexico,True,{},6.1875,2025-07-11 00:32:45.954000+00:00
+txr_1RjoCjFCPJnn9IgIZ6PdBj4L,False,2025-07-11 21:10:01+00:00,,Sales Tax,False,New York,True,{},8.5,2025-07-12 00:33:02.823000+00:00
+txr_1RjoCjFCPJnn9IgIxueuhP4K,False,2025-07-11 21:10:01+00:00,,Sales Tax,True,New York,True,{},8.5,2025-07-12 00:33:02.823000+00:00
+txr_1RXsWLFCPJnn9IgIbjqZwAgz,False,2025-06-08 23:20:57+00:00,,Sales Tax,True,Kansas,True,{},6.5,2025-07-13 00:31:25.463000+00:00
+txr_1Nr6ZIFCPJnn9IgI5ULNT7Ew,False,2023-09-16 22:02:24+00:00,,Sales Tax,False,Colorado,True,{},8.15,2025-07-14 00:32:52.771000+00:00
+txr_1ONISwFCPJnn9IgIw8KE1T5E,False,2023-12-14 17:12:54+00:00,,Sales Tax,False,Missouri,True,{},8.45,2025-07-16 00:32:44.124000+00:00
+txr_1OFhl8FCPJnn9IgIHauaToRw,False,2023-11-23 18:36:18+00:00,,Sales Tax,False,Oklahoma,True,{},9.0,2025-07-17 00:33:03.403000+00:00
+txr_1RlfjIFCPJnn9IgIq7sNMB4j,False,2025-07-17 00:31:20+00:00,,Sales Tax,False,Arizona,True,{},9.386,2025-07-17 00:31:20.481000+00:00
+txr_1JPNvBFCPJnn9IgIunLd9ZFz,False,2021-08-17 08:45:21+00:00,,Sales Tax,False,Maryland,True,{},6.0,2025-07-18 00:31:44.782000+00:00
+txr_1RSrWdFCPJnn9IgIxPa4lizV,False,2025-05-26 03:16:31+00:00,,Sales Tax,True,Virginia,True,{},7.0,2025-07-22 00:32:58.560000+00:00
+txr_1Rn7zfFCPJnn9IgIYYlxJ0O6,False,2025-07-21 00:54:15+00:00,,Sales Tax,True,Oklahoma,True,{},5.875,2025-07-22 00:32:56.215000+00:00
+txr_1RnU77FCPJnn9IgI71yx7s5a,False,2025-07-22 00:31:25+00:00,,Sales Tax,True,Utah,True,{},6.65,2025-07-22 00:31:25.986000+00:00
+txr_1NjAxeFCPJnn9IgI4uehGsCf,False,2023-08-26 01:06:46+00:00,,Sales Tax,False,Arizona,True,{},6.7,2025-07-23 00:33:18.697000+00:00
+txr_1Ohvg4FCPJnn9IgIfthTrm0c,False,2024-02-09 15:07:44+00:00,,Sales Tax,False,Wisconsin,True,{},7.9,2025-07-24 00:33:23.500000+00:00
+txr_1OF0H3FCPJnn9IgIGGJxC9JS,False,2023-11-21 20:10:21+00:00,,Sales Tax,False,Oklahoma,True,{},9.75,2025-07-24 00:33:23.498000+00:00
+txr_1RCmgTFCPJnn9IgIHT7gu5dh,False,2025-04-11 18:52:13+00:00,,Sales Tax,False,Oklahoma,True,{},8.7,2025-07-24 00:33:23.648000+00:00
+txr_1Ro3AsFCPJnn9IgIZn2vI0kz,False,2025-07-23 13:57:38+00:00,,Sales Tax,True,California,True,{},8.975,2025-07-24 00:33:19.797000+00:00
+txr_1PUHmwFCPJnn9IgI7Y8FNxOI,False,2024-06-22 00:26:42+00:00,,Sales Tax,False,Colorado,True,{},9.3,2025-07-25 00:33:16.598000+00:00
+txr_1RbSysFCPJnn9IgI9xqlv4zz,False,2025-06-18 20:53:14+00:00,,Sales Tax,True,Nevada,True,{},7.6,2025-07-26 00:32:37.476000+00:00
+txr_1NC7YyFCPJnn9IgI8BIPn4dR,False,2023-05-26 20:48:40+00:00,,Sales Tax,False,Kansas,True,{},8.0,2025-07-26 00:34:40.375000+00:00
+txr_1RQU3cFCPJnn9IgIvKJAb99E,False,2025-05-19 13:48:44+00:00,,Sales Tax,True,Alabama,True,{},9.5,2025-07-27 00:33:36.319000+00:00
+txr_1RQDwMFCPJnn9IgIsHJN8ZAO,False,2025-05-18 20:36:10+00:00,,Sales Tax,True,Illinois,True,{},7.75,2025-07-27 00:33:28.845000+00:00
+txr_1NJDpjFCPJnn9IgIvHjiWWME,False,2023-06-15 10:55:19+00:00,,Sales Tax,False,Missouri,True,{},8.35,2025-07-28 00:32:59.600000+00:00
+txr_1NaQ8NFCPJnn9IgIChn3pVgI,False,2023-08-01 21:29:39+00:00,,Sales Tax,False,Arkansas,True,{},8.5,2025-07-29 00:33:26.757000+00:00
+txr_1NRg5jFCPJnn9IgI9hVSaTAA,False,2023-07-08 18:42:47+00:00,,Sales Tax,False,Colorado,True,{},8.35,2025-07-29 00:33:26.499000+00:00
+txr_1RekVVFCPJnn9IgIcbCdfrkV,False,2025-06-27 22:12:29+00:00,,Sales Tax,True,California,True,{},8.25,2025-07-29 00:33:24.725000+00:00
+txr_1NDIhyFCPJnn9IgIaBAXCjXv,False,2023-05-30 02:54:50+00:00,,Sales Tax,False,Missouri,True,{},5.975,2025-07-29 00:31:56.939000+00:00
+txr_1N5zO4FCPJnn9IgIC2T0p5XR,False,2023-05-09 22:52:04+00:00,,Sales Tax,False,Colorado,True,{},9.055,2025-07-29 00:33:33.518000+00:00
+txr_1P9Sx3FCPJnn9IgIEBIbrHH5,False,2024-04-25 14:07:05+00:00,,Sales Tax,False,Alabama,True,{},9.75,2025-07-30 00:33:26.108000+00:00
+txr_1QmlD9FCPJnn9IgIbJGtLjZx,False,2025-01-30 00:02:23+00:00,,Sales Tax,False,New Mexico,True,{},7.565,2025-07-30 00:33:28.077000+00:00
+txr_1Rq520FCPJnn9IgIKm10qtnM,False,2025-07-29 04:20:52+00:00,,Sales Tax,True,Washington,True,{},7.8,2025-07-30 00:33:17.805000+00:00
+txr_1NK6mJFCPJnn9IgIg2OKw76w,False,2023-06-17 21:35:27+00:00,,Sales Tax,False,Minnesota,True,{},8.875,2025-07-31 00:31:33.172000+00:00
+txr_1OLSOBFCPJnn9IgIWzpTQr26,False,2023-12-09 15:24:23+00:00,,Sales Tax,False,North Dakota,True,{},7.0,2025-07-31 00:33:49.143000+00:00
+txr_1RhLEKFCPJnn9IgILOwUiH8Y,False,2025-07-05 01:49:28+00:00,,Sales Tax,True,Colorado,True,{},7.5,2025-07-31 00:33:38.071000+00:00
+txr_1No81VFCPJnn9IgIwLs8tKaA,False,2023-09-08 16:59:13+00:00,,Sales Tax,False,Missouri,True,{},5.225,2025-07-31 00:31:02.246000+00:00
+txr_1RqgpCFCPJnn9IgIozm5u2Sw,False,2025-07-30 20:42:10+00:00,,Sales Tax,True,Ohio,True,{},6.85,2025-07-31 00:33:39.075000+00:00
+txr_1N8WrjFCPJnn9IgIpThLJaKm,False,2023-05-16 23:01:11+00:00,,Sales Tax,False,Missouri,True,{},7.35,2025-08-01 00:31:02.024000+00:00
+txr_1RK2fhFCPJnn9IgIw33S9BFr,False,2025-05-01 19:21:25+00:00,,Sales Tax,False,Louisiana,True,{},8.5,2025-08-01 00:31:54.683000+00:00
+txr_1RX9ITFCPJnn9IgI8Tktxeyj,False,2025-06-06 23:03:37+00:00,,Sales Tax,True,Arizona,True,{},6.1,2025-08-01 00:31:47.648000+00:00
+txr_1ROStdFCPJnn9IgIhExoTHLz,False,2025-05-14 00:10:05+00:00,,Sales Tax,True,Nebraska,True,{},7.25,2025-08-01 00:31:08.105000+00:00
+txr_1RdtkWFCPJnn9IgIP3FnztW3,False,2025-06-25 13:52:28+00:00,,Sales Tax,False,Missouri,True,{},8.95,2025-08-01 00:31:14.126000+00:00
+txr_1NUXbFFCPJnn9IgIbcQEdASl,False,2023-07-16 16:15:09+00:00,,Sales Tax,False,Oklahoma,True,{},6.5,2025-05-18 00:33:21.478000+00:00
+txr_1NAJuHFCPJnn9IgIIUyQfQjJ,False,2023-05-21 21:35:13+00:00,,Sales Tax,False,Arizona,True,{},8.95,2025-05-22 00:33:01.565000+00:00
+txr_1NXZ5YFCPJnn9IgIX6fbwTCO,False,2023-07-25 00:26:56+00:00,,Sales Tax,False,New Mexico,True,{},8.125,2025-05-23 00:34:02.125000+00:00
+txr_1NAlcyFCPJnn9IgI397Dw8Ox,False,2023-05-23 03:11:12+00:00,,Sales Tax,False,Minnesota,True,{},6.875,2025-05-26 00:33:29.072000+00:00
+txr_1NDCJrFCPJnn9IgI8cDyQO4E,False,2023-05-29 20:05:31+00:00,,Sales Tax,False,Kansas,True,{},9.1,2025-05-29 00:32:39.386000+00:00
+txr_1PuIS2FCPJnn9IgIoBllOXtH,False,2024-09-01 18:24:38+00:00,,Sales Tax,False,Arizona,True,{},6.9,2025-06-02 00:36:09.674000+00:00
+txr_1RVJ2zFCPJnn9IgIqZDQ3RpM,False,2025-06-01 21:04:01+00:00,,Sales Tax,True,Arizona,True,{},6.9,2025-06-02 00:36:03.608000+00:00
+txr_1NCUQsFCPJnn9IgIlhSE4zF4,False,2023-05-27 21:13:50+00:00,,Sales Tax,False,Colorado,True,{},4.75,2025-06-03 00:32:40.184000+00:00
+txr_1JPO7OFCPJnn9IgIVBzuW78I,False,2021-08-17 08:57:58+00:00,,Sales Tax,False,Texas,True,{},6.25,2025-06-03 00:31:42.641000+00:00
+txr_1NdJ5MFCPJnn9IgIjqpsnWjP,False,2023-08-09 20:34:28+00:00,,Sales Tax,False,Oklahoma,True,{},9.375,2025-06-05 00:33:02.702000+00:00
+txr_1OF406FCPJnn9IgIzXiMBkWH,False,2023-11-22 00:09:06+00:00,,Sales Tax,False,Kansas,True,{},9.125,2025-06-06 00:32:42.894000+00:00
+txr_1RL79GFCPJnn9IgIWA43N7d1,False,2025-05-04 18:20:22+00:00,,Sales Tax,True,Oklahoma,True,{},5.8,2025-06-09 00:31:27.242000+00:00
+txr_1NA4b6FCPJnn9IgIzL6xYEsq,False,2023-05-21 05:14:24+00:00,,Sales Tax,False,Nebraska,True,{},6.5,2025-06-09 00:32:49.514000+00:00
+txr_1PaMF1FCPJnn9IgI3uVdk1lH,False,2024-07-08 18:24:47+00:00,,Sales Tax,False,Georgia,True,{},8.5,2025-06-12 00:32:39.167000+00:00
+txr_1RVDlRFCPJnn9IgIcBOPaEbE,False,2025-06-01 15:25:33+00:00,,Sales Tax,True,Tennessee,True,{},12.5,2025-06-14 00:32:31.666000+00:00
+txr_1RZi03FCPJnn9IgIrHrZev34,False,2025-06-14 00:31:11+00:00,,Sales Tax,False,Arizona,True,{},8.0,2025-06-14 00:31:11.534000+00:00
+txr_1N9dn7FCPJnn9IgIBtaC6Mnk,False,2023-05-20 00:37:01+00:00,,Sales Tax,False,Arizona,True,{},8.43,2025-06-15 00:32:39.863000+00:00
+txr_1OAFugFCPJnn9IgIahB6Zrp1,False,2023-11-08 17:51:38+00:00,,Sales Tax,False,Oklahoma,True,{},8.9,2025-06-15 00:32:37.734000+00:00
+txr_1N8OXnFCPJnn9IgIdgS2Bwf0,False,2023-05-16 14:08:03+00:00,,Sales Tax,False,Colorado,True,{},2.9,2025-06-20 00:32:53.181000+00:00
+txr_1RcboMFCPJnn9IgIhDaYEd6b,False,2025-06-22 00:31:06+00:00,,Sales Tax,False,Arizona,True,{},8.0,2025-06-22 00:31:06.446000+00:00
+txr_1N9JZ3FCPJnn9IgIIhR21laf,False,2023-05-19 03:01:09+00:00,,Sales Tax,False,Arizona,True,{},9.181,2025-06-24 00:33:01.575000+00:00
+txr_1RdKllFCPJnn9IgIPOwtnMIw,False,2025-06-24 00:31:25+00:00,,Sales Tax,False,Arizona,True,{},9.386,2025-06-24 00:31:25.624000+00:00
+txr_1RdhFbFCPJnn9IgIjx1KW5iS,False,2025-06-25 00:31:43+00:00,,Sales Tax,False,Arizona,True,{},8.0,2025-06-25 00:31:43.768000+00:00
+txr_1RdhFfFCPJnn9IgI5FXZjdaC,False,2025-06-25 00:31:47+00:00,,Sales Tax,False,Arizona,True,{},8.0,2025-06-25 00:31:48+00:00
+txr_1RemfhFCPJnn9IgIbKfxuHTG,False,2025-06-28 00:31:09+00:00,,Sales Tax,True,Oklahoma,True,{},6.05,2025-06-28 00:31:10.080000+00:00
+txr_1NDXenFCPJnn9IgIt750tJMD,False,2023-05-30 18:52:33+00:00,,Sales Tax,False,California,True,{},8.125,2025-06-29 00:32:41.618000+00:00
+txr_1NHzLAFCPJnn9IgIwvmIJlZY,False,2023-06-12 01:14:40+00:00,,Sales Tax,False,Minnesota,True,{},7.625,2025-07-01 00:34:07.273000+00:00
+txr_1NubZUFCPJnn9IgIPryQme8B,False,2023-09-26 13:45:04+00:00,,Sales Tax,False,Arkansas,True,{},6.875,2025-07-02 00:36:22.745000+00:00
+txr_1Rgb3YFCPJnn9IgI7cAcgmgS,False,2025-07-03 00:31:16+00:00,,Sales Tax,False,Washington,True,{},8.35,2025-07-03 00:31:16.509000+00:00
+txr_1Nun5hFCPJnn9IgIyoSa6f9C,False,2023-09-27 02:03:05+00:00,,Sales Tax,False,Arizona,True,{},1.5,2025-07-09 00:34:59.806000+00:00
+txr_1RjWJ5FCPJnn9IgI92A5I2DW,False,2025-07-11 02:03:23+00:00,,Sales Tax,True,Alaska,True,{},3.0,2025-07-12 00:32:57.648000+00:00
+txr_1O7Ni4FCPJnn9IgIMga9wgkw,False,2023-10-31 19:34:44+00:00,,Sales Tax,False,Missouri,True,{},6.475,2025-07-14 00:32:54.995000+00:00
+txr_1RSC3UFCPJnn9IgIjbOkYcQl,False,2025-05-24 06:59:40+00:00,,Sales Tax,True,Oklahoma,True,{},9.5,2025-07-15 00:32:51.321000+00:00
+txr_1NKiiiFCPJnn9IgIEeibk5xK,False,2023-06-19 14:06:16+00:00,,Sales Tax,False,Oklahoma,True,{},5.25,2025-07-16 00:32:44.122000+00:00
+txr_1RlIw1FCPJnn9IgIW8qnoRlw,False,2025-07-16 00:10:57+00:00,,Sales Tax,True,Kansas,True,{},9.15,2025-07-17 00:32:57.332000+00:00
+txr_1RkucwFCPJnn9IgIOLXH75ne,False,2025-07-14 22:13:38+00:00,,Sales Tax,True,Missouri,True,{},5.475,2025-07-17 00:33:02.974000+00:00
+txr_1RQgdEFCPJnn9IgICDUjq0s8,False,2025-05-20 03:14:20+00:00,,Sales Tax,True,New Mexico,True,{},7.4375,2025-07-18 00:32:50.509000+00:00
+txr_1RTsISFCPJnn9IgIvMWezJKe,False,2025-05-28 22:18:04+00:00,,Sales Tax,True,Arizona,True,{},6.6,2025-07-18 00:31:25.040000+00:00
+txr_1NVwjjFCPJnn9IgIz0rlSKDR,False,2023-07-20 13:17:43+00:00,,Sales Tax,False,Oklahoma,True,{},8.5,2025-07-18 00:32:55.571000+00:00
+txr_1RlvTXFCPJnn9IgIeilz4UBU,False,2025-07-17 17:20:07+00:00,,Sales Tax,True,Arizona,True,{},8.35,2025-07-18 00:32:54.245000+00:00
+txr_1Ncfl8FCPJnn9IgIN9ntO0Wz,False,2023-08-08 02:34:58+00:00,,Sales Tax,False,Nebraska,True,{},7.25,2025-07-20 00:33:15.797000+00:00
+txr_1RjObrFCPJnn9IgIwpApzxRg,False,2025-07-10 17:50:15+00:00,,Sales Tax,True,Oklahoma,True,{},8.417,2025-07-21 00:32:53.235000+00:00
+txr_1OCwiqFCPJnn9IgIOv0qdhFX,False,2023-11-16 03:58:32+00:00,,Sales Tax,False,Arizona,True,{},9.43,2025-07-21 00:32:56.581000+00:00
+txr_1RVMyxFCPJnn9IgIw1FEXXAV,False,2025-06-02 01:16:07+00:00,,Sales Tax,True,Minnesota,True,{},8.875,2025-07-22 00:32:56.206000+00:00
+txr_1NQBRJFCPJnn9IgIi95PFDil,False,2023-07-04 15:46:53+00:00,,Sales Tax,False,Virginia,True,{},7.0,2025-07-22 00:32:58.560000+00:00
+txr_1N9zxMFCPJnn9IgIVd4YDvH4,False,2023-05-21 00:17:04+00:00,,Sales Tax,False,Kansas,True,{},7.2,2025-07-22 00:31:37.818000+00:00
+txr_1NWl8gFCPJnn9IgIO19DJVE3,False,2023-07-22 19:06:50+00:00,,Sales Tax,False,Oklahoma,True,{},6.2,2025-07-23 00:33:27.060000+00:00
+txr_1QjrO2FCPJnn9IgIEzTPMPuM,False,2025-01-22 00:01:38+00:00,,Sales Tax,False,Colorado,True,{},9.47,2025-07-23 00:31:51.606000+00:00
+txr_1RMN8dFCPJnn9IgIabRqcpBa,False,2025-05-08 05:36:55+00:00,,Sales Tax,False,Washington,True,{},8.4,2025-07-23 00:33:37.919000+00:00
+txr_1RoCcGFCPJnn9IgIpXVK3yFT,False,2025-07-24 00:02:32+00:00,,Sales Tax,True,Oklahoma,True,{},9.75,2025-07-24 00:33:23.498000+00:00
+txr_1OB9xJFCPJnn9IgIWX9F63ZQ,False,2023-11-11 05:42:05+00:00,,Sales Tax,False,Utah,True,{},6.35,2025-07-25 00:33:09.560000+00:00
+txr_1NQ8Z7FCPJnn9IgIankkWFSG,False,2023-07-04 12:42:45+00:00,,Sales Tax,False,Oklahoma,True,{},5.313,2025-07-26 00:34:38.957000+00:00
+txr_1QpWqKFCPJnn9IgIjerYnpzj,False,2025-02-06 15:18:16+00:00,,Sales Tax,False,Kansas,True,{},8.25,2025-07-26 00:34:36.091000+00:00
+txr_1RpAa2FCPJnn9IgIKb9Aao5D,False,2025-07-26 16:04:14+00:00,,Sales Tax,True,Colorado,True,{},5.27,2025-07-27 00:33:32.980000+00:00
+txr_1NG01VFCPJnn9IgImisNOzqm,False,2023-06-06 13:34:09+00:00,,Sales Tax,False,Arkansas,True,{},8.0,2025-07-29 00:33:26.501000+00:00
+txr_1RQi8UFCPJnn9IgI7EgC7Vnf,False,2025-05-20 04:50:42+00:00,,Sales Tax,True,California,True,{},8.625,2025-07-29 00:33:27.163000+00:00
+txr_1RpyFtFCPJnn9IgIPcgNB4AK,False,2025-07-28 21:06:45+00:00,,Sales Tax,True,Arkansas,True,{},8.5,2025-07-29 00:33:26.757000+00:00
+txr_1NOP4wFCPJnn9IgIQmxPKei6,False,2023-06-29 17:56:26+00:00,,Sales Tax,False,Utah,True,{},8.85,2025-07-30 00:33:23.170000+00:00
+txr_1NvgZPFCPJnn9IgInfiCuSqu,False,2023-09-29 13:17:27+00:00,,Sales Tax,False,New Mexico,True,{},5.25,2025-07-30 00:33:22.106000+00:00
+txr_1N5uDKFCPJnn9IgIeJU9fqNG,False,2023-05-09 17:20:38+00:00,,Sales Tax,False,Ohio,True,{},6.75,2025-07-30 00:33:26.658000+00:00
+txr_1QlkCiFCPJnn9IgIhMGRzXZz,False,2025-01-27 04:45:44+00:00,,Sales Tax,False,Oklahoma,True,{},11.5,2025-07-30 00:31:03.533000+00:00
+txr_1PqlrzFCPJnn9IgIWu5Ne44u,False,2024-08-23 01:00:51+00:00,,Sales Tax,False,New Mexico,True,{},8.425,2025-07-30 00:31:52.306000+00:00
+txr_1JUwnSFCPJnn9IgIU5QzSbBh,False,2021-09-01 17:00:22+00:00,,Sales Tax,False,Utah,True,{},7.75,2025-07-30 00:32:02.515000+00:00
+txr_1N73AiFCPJnn9IgISzqcgSSK,False,2023-05-12 21:06:40+00:00,,Sales Tax,False,Colorado,True,{},8.5,2025-07-31 00:33:32.315000+00:00
+txr_1Rdb7JFCPJnn9IgIzmfDvkzl,False,2025-06-24 17:58:45+00:00,,Sales Tax,True,Tennessee,True,{},9.0,2025-07-31 00:31:40.840000+00:00
+txr_1NNmTxFCPJnn9IgI7ZDXmGtE,False,2023-06-28 00:43:41+00:00,,Sales Tax,False,Ohio,True,{},6.85,2025-07-31 00:33:39.075000+00:00
+txr_1RZcp2FCPJnn9IgIfSZ3YEKZ,False,2025-06-13 18:59:28+00:00,,Sales Tax,True,Washington,True,{},7.5,2025-08-01 00:34:28.079000+00:00
+txr_1N6bkmFCPJnn9IgIJEkjS9UF,False,2023-05-11 15:50:04+00:00,,Sales Tax,False,Ohio,True,{},7.25,2025-08-01 00:34:31.053000+00:00
+txr_1RTQIFFCPJnn9IgIrb9MBCNd,False,2025-05-27 16:23:59+00:00,,Sales Tax,True,Missouri,True,{},8.45,2025-08-01 00:31:54.093000+00:00
+txr_1RSiDMFCPJnn9IgIxbSMZqcy,False,2025-05-25 17:20:00+00:00,,Sales Tax,True,Minnesota,True,{},6.875,2025-08-01 00:31:01.461000+00:00
+txr_1Rq520FCPJnn9IgIt603DMhv,False,2025-07-29 04:20:52+00:00,,Sales Tax,False,Washington,True,{},7.8,2025-08-01 00:31:10.479000+00:00
+txr_1NQ0GzFCPJnn9IgIkazKySUH,False,2023-07-04 03:51:29+00:00,,Sales Tax,False,California,True,{},8.5,2025-08-01 00:33:11.279000+00:00
+txr_1RL7uSFCPJnn9IgIznbgAPPV,False,2025-05-04 19:09:08+00:00,,Sales Tax,True,California,True,{},8.5,2025-08-01 00:33:11.279000+00:00
+txr_1Rr5WEFCPJnn9IgIgrZ8EbZP,False,2025-07-31 23:04:14+00:00,,Sales Tax,False,Louisiana,True,{},10.99,2025-08-01 00:34:42.659000+00:00
+txr_1Rr6syFCPJnn9IgIeReNaLpo,False,2025-08-01 00:31:48+00:00,,Sales Tax,True,Georgia,True,{},9.0,2025-08-01 00:31:48.476000+00:00
+txr_1Rr6t9FCPJnn9IgIHn8Gf15B,False,2025-08-01 00:31:59+00:00,,Sales Tax,True,Oklahoma,True,{},8.85,2025-08-01 00:31:59.562000+00:00
+txr_1RSjVkFCPJnn9IgIRcfHV5Ju,False,2025-05-25 18:43:04+00:00,,Sales Tax,True,Arizona,True,{},5.6,2025-08-02 00:32:25.783000+00:00
+txr_1RXs0bFCPJnn9IgI8PsIi6oA,False,2025-06-08 22:48:09+00:00,,Sales Tax,False,Washington,True,{},9.9,2025-08-02 00:32:12.719000+00:00
+txr_1RlCcLFCPJnn9IgIymtWA1pD,False,2025-07-15 17:26:13+00:00,,Sales Tax,False,Washington,True,{},8.3,2025-08-02 00:32:56.586000+00:00
+txr_1Re2YxFCPJnn9IgI0eMM0dsO,False,2025-06-25 23:17:07+00:00,,Sales Tax,True,Colorado,True,{},8.1,2025-08-02 00:33:20.960000+00:00
+txr_1N9GoiFCPJnn9IgITQNUkRHM,False,2023-05-19 00:05:08+00:00,,Sales Tax,False,Vermont,True,{},7.0,2025-08-02 00:32:53.687000+00:00
+txr_1RZyXuFCPJnn9IgIolAfZlDO,False,2025-06-14 18:11:14+00:00,,Sales Tax,True,Vermont,True,{},7.0,2025-08-02 00:32:53.687000+00:00
+txr_1RRt1EFCPJnn9IgI8pS7ldIM,False,2025-05-23 10:40:04+00:00,,Sales Tax,False,Washington,True,{},9.0,2025-08-02 00:32:26.216000+00:00
+txr_1RbZcfFCPJnn9IgIZJTP7sEn,False,2025-06-19 03:58:45+00:00,,Sales Tax,True,Kansas,True,{},9.25,2025-08-02 00:33:00.428000+00:00
+txr_1N7uGnFCPJnn9IgIMcAsq1fl,False,2023-05-15 05:48:29+00:00,,Sales Tax,False,Arizona,True,{},9.85,2025-08-02 00:37:20.164000+00:00
+txr_1NE3mBFCPJnn9IgITEWROAtv,False,2023-06-01 05:10:19+00:00,,Sales Tax,True,North Carolina,True,{},7.0,2025-08-02 00:36:54.065000+00:00
+txr_1NE3mBFCPJnn9IgIzjNBN3x0,False,2023-06-01 05:10:19+00:00,,Sales Tax,True,Missouri,True,{},8.738,2025-08-02 00:36:54.066000+00:00
+txr_1NEEvOFCPJnn9IgIMRXkkUpp,False,2023-06-01 17:04:34+00:00,,Sales Tax,False,Illinois,True,{},9.5,2025-08-02 00:37:20.161000+00:00
+txr_1R98BfFCPJnn9IgIcpKhL6mX,False,2025-04-01 17:01:19+00:00,,Sales Tax,False,Wyoming,True,{},7.0,2025-08-02 00:37:23.960000+00:00
+txr_1RK0TkFCPJnn9IgI2mFqHM7X,False,2025-05-01 17:00:56+00:00,,Sales Tax,False,Louisiana,True,{},10.83,2025-08-02 00:37:20.165000+00:00
+txr_1N9IvHFCPJnn9IgI1hUXofub,False,2023-05-19 02:20:03+00:00,,Sales Tax,False,North Dakota,True,{},7.5,2025-08-02 00:37:41.634000+00:00
+txr_1NA0UpFCPJnn9IgIKaUwCgoK,False,2023-05-21 00:51:39+00:00,,Sales Tax,False,Arizona,True,{},6.1,2025-08-02 00:33:06.753000+00:00
+txr_1RVJw1FCPJnn9IgI3X1fgO0N,False,2025-06-01 22:00:53+00:00,,Sales Tax,True,New Mexico,True,{},8.1875,2025-08-02 00:37:31.145000+00:00
+txr_1RrN8TFCPJnn9IgIQHE3tkwe,False,2025-08-01 17:52:53+00:00,,Sales Tax,True,Oklahoma,True,{},6.25,2025-08-02 00:36:59.725000+00:00
+txr_1RrTMfFCPJnn9IgIlNRI6Bih,False,2025-08-02 00:31:57+00:00,,Sales Tax,True,Illinois,True,{},7.85,2025-08-02 00:31:57.984000+00:00
+txr_1Q7m3DFCPJnn9IgIlzNmcpWH,False,2024-10-08 22:38:43+00:00,,Sales Tax,False,Washington,True,{},10.2,2025-08-03 00:31:47.798000+00:00
+txr_1N6j7YFCPJnn9IgIatCjt6uh,False,2023-05-11 23:42:04+00:00,,Sales Tax,False,Oklahoma,True,{},6.25,2025-08-03 00:33:39.487000+00:00
+txr_1RdeL7FCPJnn9IgIAb0Nltyk,False,2025-06-24 21:25:13+00:00,,Sales Tax,True,Colorado,True,{},5.0,2025-08-03 00:31:49.676000+00:00
+txr_1RJKTOFCPJnn9IgI5vmdpI0P,False,2025-04-29 20:09:46+00:00,,Sales Tax,False,Washington,True,{},9.5,2025-08-04 00:33:26.002000+00:00
+txr_1RhAIGFCPJnn9IgI7VIvVRjl,False,2025-07-04 14:08:48+00:00,,Sales Tax,True,Alabama,True,{},6.0,2025-08-04 00:33:08.610000+00:00
+txr_1NSqY5FCPJnn9IgItGrWJtG7,False,2023-07-12 00:04:53+00:00,,Sales Tax,False,Kansas,True,{},9.4,2025-08-04 00:33:13.765000+00:00
+txr_1RJP2FFCPJnn9IgImjD7luhg,False,2025-04-30 01:02:03+00:00,,Sales Tax,False,Washington,True,{},10.6,2025-08-04 00:31:26.946000+00:00
+txr_1NljspFCPJnn9IgIVPBpOrt9,False,2023-09-02 02:48:23+00:00,,Sales Tax,False,Colorado,True,{},7.75,2025-08-04 00:33:15.819000+00:00
+txr_1Re47qFCPJnn9IgIJT88joMX,False,2025-06-26 00:57:14+00:00,,Sales Tax,True,Colorado,True,{},8.4,2025-08-04 00:33:09.846000+00:00
+txr_1RsCJ8FCPJnn9IgIDilDY5RW,False,2025-08-04 00:31:18+00:00,,Sales Tax,True,Oklahoma,True,{},8.85,2025-08-04 00:31:18.759000+00:00
+txr_1OV44tFCPJnn9IgIqGxXbwtp,False,2024-01-05 03:28:11+00:00,,Sales Tax,False,Alabama,True,{},6.75,2025-08-05 00:34:36.097000+00:00
+txr_1Nwp1DFCPJnn9IgIaIc7vMgs,False,2023-10-02 16:30:51+00:00,,Sales Tax,False,North Dakota,True,{},8.0,2025-08-05 00:34:22.084000+00:00
+txr_1OF6sDFCPJnn9IgIBQ6Syt0m,False,2023-11-22 03:13:09+00:00,,Sales Tax,False,Colorado,True,{},7.9,2025-08-05 00:34:26.006000+00:00
+txr_1ROgOUFCPJnn9IgIQ9CdfxP2,False,2025-05-14 14:34:50+00:00,,Sales Tax,True,Arizona,True,{},2.0,2025-08-05 00:34:17.572000+00:00
+txr_1NBOdxFCPJnn9IgIazb395Nr,False,2023-05-24 20:50:49+00:00,,Sales Tax,False,Missouri,True,{},8.413,2025-08-05 00:34:17.571000+00:00
+txr_1RrN6lFCPJnn9IgIkOuC53rG,False,2025-08-01 17:51:07+00:00,,Sales Tax,True,Ohio,True,{},6.5,2025-08-05 00:34:21.159000+00:00
+txr_1RVOEEFCPJnn9IgISwhvKt5T,False,2025-06-02 02:35:58+00:00,,Sales Tax,True,Colorado,True,{},4.9,2025-08-05 00:32:02.962000+00:00
+txr_1N6zMWFCPJnn9IgIORn5uBiC,False,2023-05-12 17:02:36+00:00,,Sales Tax,False,New Mexico,True,{},6.3125,2025-08-05 00:32:18.253000+00:00
+txr_1NL9htFCPJnn9IgIIqvvMIWl,False,2023-06-20 18:55:13+00:00,,Sales Tax,False,Arkansas,True,{},9.75,2025-08-06 00:33:46.978000+00:00
+txr_1RhcphFCPJnn9IgISlEdwb2Z,False,2025-07-05 20:37:13+00:00,,Sales Tax,False,Oklahoma,True,{},6.8,2025-08-06 00:33:47.137000+00:00
+txr_1RTaK4FCPJnn9IgIv15erQKS,False,2025-05-28 03:06:32+00:00,,Sales Tax,True,Arizona,True,{},9.3,2025-08-06 00:33:47.134000+00:00
+txr_1NGuNTFCPJnn9IgIW65szHOS,False,2023-06-09 01:44:35+00:00,,Sales Tax,False,Oklahoma,True,{},5.917,2025-08-06 00:32:06.559000+00:00
+txr_1RSSO2FCPJnn9IgIyrGbNXfe,False,2025-05-25 00:25:58+00:00,,Sales Tax,False,Texas,True,{},6.25,2025-08-06 00:34:02.236000+00:00
+txr_1RTCMNFCPJnn9IgIaMko3bqE,False,2025-05-27 01:31:19+00:00,,Sales Tax,True,Tennessee,True,{},9.5,2025-08-06 00:33:47.135000+00:00
+txr_1Oba1gFCPJnn9IgISzGtuq4Q,False,2024-01-23 02:47:48+00:00,,Sales Tax,False,Colorado,True,{},7.75,2025-08-06 00:33:40.765000+00:00
+txr_1RSU7nFCPJnn9IgIFTMtjBtS,False,2025-05-25 02:17:19+00:00,,,True,Alaska,True,{},0.0,2025-08-06 00:33:46.976000+00:00
+txr_1RmJQmFCPJnn9IgIKShzMgfV,False,2025-07-18 18:54:52+00:00,,Sales Tax,True,Minnesota,True,{},9.875,2025-08-06 00:31:53.294000+00:00
+txr_1RssRbFCPJnn9IgIbBTos8gB,False,2025-08-05 21:30:51+00:00,,Sales Tax,True,Ohio,True,{},7.0,2025-08-06 00:33:46.978000+00:00
+txr_1NmLWOFCPJnn9IgIWM6u4XGP,False,2023-09-03 18:59:44+00:00,,Sales Tax,False,Colorado,True,{},5.185,2025-08-07 00:31:13.624000+00:00
+txr_1QgePgFCPJnn9IgI4x3MWxCo,False,2025-01-13 03:34:04+00:00,,Sales Tax,False,Oklahoma,True,{},9.906,2025-08-07 00:31:04.255000+00:00
+txr_1RNbENFCPJnn9IgINQnWvc8N,False,2025-05-11 14:51:55+00:00,,Sales Tax,True,Colorado,True,{},4.25,2025-08-07 00:34:02.266000+00:00
+txr_1NGBeVFCPJnn9IgIIcuauN1A,False,2023-06-07 01:59:11+00:00,,Sales Tax,False,Colorado,True,{},4.25,2025-08-07 00:34:02.266000+00:00
+txr_1NQkxOFCPJnn9IgISm1gN1iH,False,2023-07-06 05:42:22+00:00,,Sales Tax,False,New Mexico,True,{},6.6875,2025-08-07 00:33:57.080000+00:00
+txr_1PZMocFCPJnn9IgILCJCsOUk,False,2024-07-06 00:49:26+00:00,,Sales Tax,False,Wisconsin,True,{},6.0,2025-08-07 00:33:58.463000+00:00
+txr_1RZBUnFCPJnn9IgIw5tFHsYg,False,2025-06-12 13:48:45+00:00,,Sales Tax,True,Oklahoma,True,{},5.75,2025-08-07 00:33:58.145000+00:00
+txr_1O1h9JFCPJnn9IgIAYTELgQV,False,2023-10-16 03:07:21+00:00,,Sales Tax,False,Utah,True,{},7.0,2025-08-07 00:34:17.480000+00:00
+txr_1RUdTLFCPJnn9IgIx8qzbbKJ,False,2025-05-31 00:40:27+00:00,,Sales Tax,False,Washington,True,{},8.6,2025-08-07 00:31:46.094000+00:00
+txr_1RLm51FCPJnn9IgIuF8rfgdB,False,2025-05-06 14:02:43+00:00,,Sales Tax,True,South Dakota,True,{},6.2,2025-08-07 00:34:01.694000+00:00
+txr_1RgT0SFCPJnn9IgIWzgWlV5V,False,2025-07-02 15:55:32+00:00,,Sales Tax,False,Utah,True,{},8.45,2025-08-07 00:34:05.786000+00:00
+txr_1RtCePFCPJnn9IgIbMZJf2Kc,False,2025-08-06 19:05:25+00:00,,Sales Tax,False,Alabama,True,{},7.75,2025-08-07 00:34:04.766000+00:00
+txr_1RUZjUFCPJnn9IgIfXweAwWC,False,2025-05-30 20:40:52+00:00,,Sales Tax,True,Louisiana,True,{},10.5,2025-08-08 00:33:41.384000+00:00
+txr_1RY8vLFCPJnn9IgIdr9Hks5z,False,2025-06-09 16:51:51+00:00,,Sales Tax,False,Washington,True,{},7.7,2025-08-08 00:33:37.593000+00:00
+txr_1RY8vLFCPJnn9IgIeLZayhvO,False,2025-06-09 16:51:51+00:00,,Sales Tax,True,Washington,True,{},7.7,2025-08-08 00:33:37.593000+00:00
+txr_1NczbvFCPJnn9IgI5TSkM0Gn,False,2023-08-08 23:46:47+00:00,,Sales Tax,False,Oklahoma,True,{},9.6,2025-08-08 00:31:23.426000+00:00
+txr_1QIPgDFCPJnn9IgIJGfol2b5,False,2024-11-07 06:58:57+00:00,,Sales Tax,False,Oklahoma,True,{},6.083,2025-08-08 00:33:39.348000+00:00
+txr_1N6fB7FCPJnn9IgIwTpPVP2T,False,2023-05-11 19:29:29+00:00,,Sales Tax,False,Colorado,True,{},3.75,2025-08-08 00:33:45.060000+00:00
+txr_1QdDMAFCPJnn9IgIQBQn61hv,False,2025-01-03 16:04:14+00:00,,Sales Tax,False,Colorado,True,{},8.1,2025-08-08 00:33:45.038000+00:00
+txr_1RMuKWFCPJnn9IgIKkzcqWXK,False,2025-05-09 17:03:24+00:00,,Sales Tax,True,Illinois,True,{},8.0,2025-08-08 00:33:39.428000+00:00
+txr_1RrOgKFCPJnn9IgI3hy7ub4I,False,2025-08-01 19:31:56+00:00,,Sales Tax,False,Oklahoma,True,{},5.906,2025-08-08 00:33:45.064000+00:00
+txr_1RtKe7FCPJnn9IgIuZghF0kJ,False,2025-08-07 03:37:39+00:00,,Sales Tax,False,Colorado,True,{},8.13,2025-08-08 00:33:37.594000+00:00
+txr_1NB11TFCPJnn9IgIMBcnDPZr,False,2023-05-23 19:37:31+00:00,,Sales Tax,False,Kansas,True,{},8.5,2025-08-09 00:33:37.982000+00:00
+txr_1N6bgpFCPJnn9IgINQ9Lxxo3,False,2023-05-11 15:45:59+00:00,,Sales Tax,False,Colorado,True,{},7.96,2025-08-09 00:33:38.038000+00:00
+txr_1NEEvPFCPJnn9IgITxb9kg6n,False,2023-06-01 17:04:35+00:00,,Sales Tax,False,Oklahoma,True,{},5.375,2025-08-09 00:33:43.677000+00:00
+txr_1QpKNZFCPJnn9IgInXKrFMTZ,False,2025-02-06 01:59:45+00:00,,Sales Tax,False,Louisiana,True,{},9.0,2025-08-09 00:33:40.873000+00:00
+txr_1N9GonFCPJnn9IgIwJqmlVPn,False,2023-05-19 00:05:13+00:00,,Sales Tax,False,Alaska,True,{},5.0,2025-08-09 00:33:39.117000+00:00
+txr_1Nr2isFCPJnn9IgImADwL0w5,False,2023-09-16 17:56:02+00:00,,,False,Armed Forces Europe,True,{},0.0,2025-08-09 00:33:53.476000+00:00
+txr_1N6xX8FCPJnn9IgIgj1IFqhJ,False,2023-05-12 15:05:26+00:00,,Sales Tax,False,Colorado,True,{},3.85,2025-08-09 00:33:45.255000+00:00
+txr_1N8NvpFCPJnn9IgIo3NsqFsl,False,2023-05-16 13:28:49+00:00,,Sales Tax,False,Missouri,True,{},6.225,2025-08-09 00:31:33.060000+00:00
+txr_1N6ePoFCPJnn9IgI5jp9uz7b,False,2023-05-11 18:40:36+00:00,,Sales Tax,False,Kansas,True,{},9.6,2025-08-09 00:33:54.901000+00:00
+txr_1N6cQ9FCPJnn9IgI3MEN1VkH,False,2023-05-11 16:32:49+00:00,,Sales Tax,False,California,True,{},9.5,2025-08-09 00:33:41.534000+00:00
+txr_1N6jPPFCPJnn9IgItLDPg40Q,False,2023-05-12 00:00:31+00:00,,Sales Tax,False,Missouri,True,{},9.475,2025-08-09 00:32:00.797000+00:00
+txr_1PaQznFCPJnn9IgIgfwBcpxp,False,2024-07-08 23:29:23+00:00,,Sales Tax,False,Oklahoma,True,{},4.875,2025-08-10 00:33:25.116000+00:00
+txr_1N96bQFCPJnn9IgIfuNsochI,False,2023-05-18 13:10:44+00:00,,Sales Tax,False,Ohio,True,{},6.5,2025-08-10 00:31:28.171000+00:00
+txr_1RajVTFCPJnn9IgI3ZRugAxL,False,2025-06-16 20:19:51+00:00,,Sales Tax,True,Kansas,True,{},9.5,2025-08-10 00:31:22.631000+00:00
+txr_1NCWRsFCPJnn9IgIC7XmqlDD,False,2023-05-27 23:23:00+00:00,,Sales Tax,False,Missouri,True,{},5.225,2025-08-10 00:33:30.424000+00:00
+txr_1RiotGFCPJnn9IgIYSiiv3nF,False,2025-07-09 03:41:50+00:00,,Sales Tax,False,Louisiana,True,{},11.35,2025-08-10 00:33:24.416000+00:00
+txr_1RN04ZFCPJnn9IgIJMDRWE0f,False,2025-05-09 23:11:19+00:00,,Sales Tax,False,Washington,True,{},8.7,2025-08-10 00:33:30.537000+00:00
+txr_1N6dx7FCPJnn9IgImDFAMq3R,False,2023-05-11 18:10:57+00:00,,Sales Tax,False,Colorado,True,{},7.5,2025-08-10 00:31:33.288000+00:00
+txr_1NBJ3HFCPJnn9IgIf1gQkNcv,False,2023-05-24 14:52:35+00:00,,Sales Tax,False,Colorado,True,{},5.9,2025-08-10 00:33:27.732000+00:00
+txr_1RWQzCFCPJnn9IgIQwypCyNF,False,2025-06-04 23:44:46+00:00,,Sales Tax,True,Alabama,True,{},6.5,2025-08-10 00:31:31.265000+00:00
+txr_1Ncx5lFCPJnn9IgIzlBX2fvd,False,2023-08-08 21:05:25+00:00,,Sales Tax,False,Alabama,True,{},6.5,2025-08-10 00:31:31.265000+00:00
+txr_1N7VHpFCPJnn9IgIUixjk1Hr,False,2023-05-14 03:07:53+00:00,,Sales Tax,False,Oklahoma,True,{},4.85,2025-08-10 00:31:55.453000+00:00
+txr_1NqmP5FCPJnn9IgI0ja5K7ao,False,2023-09-16 00:30:31+00:00,,Sales Tax,False,Idaho,True,{},1.0,2025-08-10 00:33:30.264000+00:00
+txr_1NCXglFCPJnn9IgIgpMKzLm4,False,2023-05-28 00:42:27+00:00,,Sales Tax,False,Colorado,True,{},4.5,2025-08-10 00:31:00.272000+00:00
+txr_1QPCOfFCPJnn9IgIsUbHPrCH,False,2024-11-26 00:12:53+00:00,,Sales Tax,False,Oklahoma,True,{},9.995,2025-08-11 00:31:16.498000+00:00
+txr_1Nxa7YFCPJnn9IgIVQAkMLQv,False,2023-10-04 18:48:32+00:00,,Sales Tax,False,Minnesota,True,{},8.625,2025-08-11 00:33:39.421000+00:00
+txr_1N626KFCPJnn9IgI3ejXTYDg,False,2023-05-10 01:45:56+00:00,,Sales Tax,False,Missouri,True,{},7.475,2025-08-11 00:33:24.858000+00:00
+txr_1RNFWdFCPJnn9IgIglnv6LAb,False,2025-05-10 15:41:19+00:00,,Sales Tax,True,Oklahoma,True,{},8.25,2025-08-11 00:33:27.563000+00:00
+txr_1PelmqFCPJnn9IgISc7N1kBX,False,2024-07-20 22:29:56+00:00,,Sales Tax,False,Idaho,True,{},7.0,2025-08-11 00:31:45.008000+00:00
+txr_1NAJg3FCPJnn9IgIcVAV0LTJ,False,2023-05-21 21:20:31+00:00,,Sales Tax,False,Oklahoma,True,{},5.667,2025-08-11 00:31:02.139000+00:00
+txr_1RMDt2FCPJnn9IgID0tm7bpw,False,2025-05-07 19:44:12+00:00,,Sales Tax,True,Nevada,True,{},8.265,2025-08-11 00:31:28.812000+00:00
+txr_1RUy0tFCPJnn9IgI4AuhG1Tj,False,2025-05-31 22:36:27+00:00,,Sales Tax,False,Washington,True,{},9.1,2025-08-11 00:30:57.147000+00:00
+txr_1NP7B5FCPJnn9IgI7xKpQoJL,False,2023-07-01 17:01:43+00:00,,Sales Tax,False,New Mexico,True,{},6.1875,2025-08-11 00:33:30.153000+00:00
+txr_1NAMCAFCPJnn9IgIHtr72fuy,False,2023-05-22 00:01:50+00:00,,Sales Tax,False,Arkansas,True,{},7.0,2025-08-11 00:31:21.892000+00:00
+txr_1RC1NFFCPJnn9IgIMRbOWC25,False,2025-04-09 16:21:13+00:00,,Sales Tax,False,North Dakota,True,{},6.0,2025-08-11 00:33:38.486000+00:00
+txr_1N8khBFCPJnn9IgIU3VOp1pT,False,2023-05-17 13:47:13+00:00,,Sales Tax,False,Arkansas,True,{},9.5,2025-08-11 00:33:30.284000+00:00
+txr_1RgCeXFCPJnn9IgIBQEKk9tl,False,2025-07-01 22:27:49+00:00,,Sales Tax,True,North Carolina,True,{},7.5,2025-08-11 00:33:29.786000+00:00
+txr_1QcVRrFCPJnn9IgIiSkaYbXX,False,2025-01-01 17:11:11+00:00,,Sales Tax,False,Louisiana,True,{},10.75,2025-08-11 00:33:30.286000+00:00
+txr_1N5xJFFCPJnn9IgIbit4G5Wy,False,2023-05-09 20:38:57+00:00,,Sales Tax,False,Washington,True,{},9.4,2025-08-11 00:31:30.342000+00:00
+txr_1Ruac2FCPJnn9IgIX9AQhzQC,False,2025-08-10 14:52:42+00:00,,Sales Tax,False,North Dakota,True,{},6.0,2025-08-11 00:33:27.225000+00:00
+txr_1Rui2IFCPJnn9IgIVL2khr1K,False,2025-08-10 22:48:18+00:00,,Sales Tax,True,Oklahoma,True,{},8.85,2025-08-11 00:33:29.431000+00:00
+txr_1N62P6FCPJnn9IgI2MtvBXVH,False,2023-05-10 02:05:20+00:00,,Sales Tax,False,Arkansas,True,{},8.625,2025-08-12 00:33:49.937000+00:00
+txr_1QcVRrFCPJnn9IgI8cSSjRRJ,False,2025-01-01 17:11:11+00:00,,Sales Tax,False,Louisiana,True,{},10.25,2025-08-12 00:31:28.961000+00:00
+txr_1PxguLFCPJnn9IgIhy6whZTM,False,2024-09-11 03:07:53+00:00,,Sales Tax,False,Colorado,True,{},6.375,2025-08-12 00:33:46.519000+00:00
+txr_1QgAG0FCPJnn9IgIcdrSVq13,False,2025-01-11 19:22:04+00:00,,Sales Tax,False,Louisiana,True,{},11.0,2025-08-12 00:33:53.698000+00:00
+txr_1OSn8DFCPJnn9IgIhO0ne7BR,False,2023-12-29 20:58:13+00:00,,Sales Tax,False,Arkansas,True,{},8.125,2025-08-12 00:33:53.852000+00:00
+txr_1RWRG0FCPJnn9IgIDPBLLRv4,False,2025-06-05 00:02:08+00:00,,Sales Tax,True,Oklahoma,True,{},9.375,2025-08-12 00:31:45.391000+00:00
+txr_1RLDyKFCPJnn9IgINxaqciik,False,2025-05-05 01:37:32+00:00,,Sales Tax,True,Wisconsin,True,{},5.0,2025-08-12 00:33:53.869000+00:00
+txr_1QefHxFCPJnn9IgIg2qrjO1v,False,2025-01-07 16:05:53+00:00,,Sales Tax,False,Utah,True,{},8.65,2025-08-12 00:33:57.063000+00:00
+txr_1N6H2CFCPJnn9IgIWs1U8K0A,False,2023-05-10 17:42:40+00:00,,Sales Tax,False,New York,True,{},7.0,2025-08-12 00:33:46.180000+00:00
+txr_1RVdNpFCPJnn9IgIWzJGfPOE,False,2025-06-02 18:46:53+00:00,,Sales Tax,False,South Carolina,True,{},6.0,2025-08-12 00:31:21.396000+00:00
+txr_1N6cEaFCPJnn9IgIdFY99DZX,False,2023-05-11 16:20:52+00:00,,Sales Tax,False,Nevada,True,{},8.375,2025-08-12 00:33:49.539000+00:00
+txr_1N5ybYFCPJnn9IgIgybOrbjE,False,2023-05-09 22:01:56+00:00,,Sales Tax,False,Arkansas,True,{},8.75,2025-08-12 00:31:18.844000+00:00
+txr_1N6ZafFCPJnn9IgImjcUYCay,False,2023-05-11 13:31:29+00:00,,Sales Tax,False,Missouri,True,{},7.95,2025-08-12 00:33:47.064000+00:00
+txr_1N6GSzFCPJnn9IgIRMFhTHAg,False,2023-05-10 17:06:17+00:00,,Sales Tax,False,Nebraska,True,{},7.25,2025-08-12 00:33:53.697000+00:00
+txr_1RY5wBFCPJnn9IgIPnOfFMKh,False,2025-06-09 13:40:31+00:00,,Sales Tax,True,Louisiana,True,{},10.55,2025-08-12 00:31:41.441000+00:00
+txr_1Rj47OFCPJnn9IgIu5shYjl3,False,2025-07-09 19:57:26+00:00,,Sales Tax,True,Oklahoma,True,{},8.625,2025-08-12 00:33:54.025000+00:00
+txr_1RUszfFCPJnn9IgIBUAWdXIm,False,2025-05-31 17:14:51+00:00,,Sales Tax,True,Ohio,True,{},7.0,2025-08-12 00:31:45.845000+00:00
+txr_1RSQz0FCPJnn9IgIZ9U6L61b,False,2025-05-24 22:56:02+00:00,,Sales Tax,True,Minnesota,True,{},8.375,2025-08-12 00:33:46.522000+00:00
+txr_1N7LSiFCPJnn9IgIo6UWJxjF,False,2023-05-13 16:38:28+00:00,,Sales Tax,False,Alaska,True,{},3.0,2025-08-12 00:33:47.062000+00:00
+txr_1NFi4yFCPJnn9IgIMkWwgf5D,False,2023-06-05 18:24:32+00:00,,Sales Tax,False,Missouri,True,{},5.725,2025-08-12 00:33:53.397000+00:00
+txr_1RQFamFCPJnn9IgIqZEKOaOR,False,2025-05-18 22:22:00+00:00,,Sales Tax,True,Wisconsin,True,{},5.9,2025-08-12 00:31:25.105000+00:00
+txr_1NdbGSFCPJnn9IgI0jijimE3,False,2023-08-10 15:59:08+00:00,,Sales Tax,False,Vermont,True,{},7.0,2025-08-12 00:30:56.941000+00:00
+txr_1NC9IbFCPJnn9IgI72SPxezn,False,2023-05-26 22:39:53+00:00,,Sales Tax,False,Nebraska,True,{},7.5,2025-08-12 00:33:53.868000+00:00
+txr_1N6PW4FCPJnn9IgIy41YhDww,False,2023-05-11 02:46:04+00:00,,Sales Tax,False,Missouri,True,{},5.6,2025-08-12 00:33:51.419000+00:00
+txr_1RP5NiFCPJnn9IgInxSCSslF,False,2025-05-15 17:15:42+00:00,,Sales Tax,False,Texas,True,{},6.75,2025-08-12 00:31:40.719000+00:00
+txr_1RJMsrFCPJnn9IgIcsCOWwnc,False,2025-04-29 22:44:13+00:00,,Sales Tax,True,Kansas,True,{},8.5,2025-08-12 00:31:00.714000+00:00
+txr_1NAKLGFCPJnn9IgIZ3iUZCSn,False,2023-05-21 22:03:06+00:00,,Sales Tax,False,Oklahoma,True,{},8.5,2025-08-12 00:31:20.224000+00:00
+txr_1RV2bRFCPJnn9IgICDF8jsWg,False,2025-06-01 03:30:29+00:00,,Sales Tax,True,Utah,True,{},6.75,2025-08-12 00:31:45.370000+00:00
+txr_1N6F7vFCPJnn9IgIAXpR656U,False,2023-05-10 15:40:27+00:00,,Sales Tax,False,California,True,{},9.0,2025-08-12 00:33:51.420000+00:00
+txr_1N619DFCPJnn9IgINuOjxYRB,False,2023-05-10 00:44:51+00:00,,Sales Tax,False,Arkansas,True,{},8.625,2025-08-12 00:34:06.903000+00:00
+txr_1N8QA0FCPJnn9IgIpwZWKkDQ,False,2023-05-16 15:51:36+00:00,,Sales Tax,False,Missouri,True,{},5.475,2025-08-01 00:34:27.434000+00:00
+txr_1RVYBMFCPJnn9IgIH4DQzEHx,False,2025-06-02 13:13:40+00:00,,Sales Tax,True,Oklahoma,True,{},9.8,2025-08-01 00:33:10.548000+00:00
+txr_1Q0YaAFCPJnn9IgI8bFRLjeZ,False,2024-09-19 00:50:54+00:00,,Sales Tax,False,Oklahoma,True,{},9.8,2025-08-01 00:33:10.548000+00:00
+txr_1NftVAFCPJnn9IgIc5avtSjG,False,2023-08-16 23:51:48+00:00,,Sales Tax,False,Arkansas,True,{},7.0,2025-08-01 00:34:30.666000+00:00
+txr_1OKTlXFCPJnn9IgIcUqcoKwf,False,2023-12-06 22:40:27+00:00,,Sales Tax,False,Arizona,True,{},8.1,2025-08-01 00:31:32.040000+00:00
+txr_1RWTBeFCPJnn9IgIdpiEBrEX,False,2025-06-05 02:05:46+00:00,,Sales Tax,True,Kansas,True,{},9.125,2025-08-02 00:32:33.130000+00:00
+txr_1RRt1EFCPJnn9IgIktqAo6WX,False,2025-05-23 10:40:04+00:00,,Sales Tax,True,Washington,True,{},9.0,2025-08-02 00:32:26.216000+00:00
+txr_1N6Q5lFCPJnn9IgIKzm1DNWM,False,2023-05-11 03:22:57+00:00,,Sales Tax,False,Illinois,True,{},6.6,2025-08-02 00:33:01.341000+00:00
+txr_1NEEvYFCPJnn9IgIa6nWWncg,False,2023-06-01 17:04:44+00:00,,Sales Tax,False,Missouri,True,{},7.725,2025-08-02 00:32:21.727000+00:00
+txr_1NE3mCFCPJnn9IgI3HgxO1EB,False,2023-06-01 05:10:20+00:00,,Sales Tax,True,Georgia,True,{},8.0,2025-08-02 00:36:54.066000+00:00
+txr_1NwHufFCPJnn9IgIdHvE7XiY,False,2023-10-01 05:09:53+00:00,,Sales Tax,True,Missouri,True,{},5.475,2025-08-02 00:36:54.066000+00:00
+txr_1Rc7rpFCPJnn9IgIGI5IQvOJ,False,2025-06-20 16:32:41+00:00,,Sales Tax,True,New Mexico,True,{},6.875,2025-08-02 00:33:06.871000+00:00
+txr_1N76OLFCPJnn9IgIbfuJjwnn,False,2023-05-13 00:32:57+00:00,,Sales Tax,False,Missouri,True,{},8.35,2025-08-02 00:37:06.424000+00:00
+txr_1NB1ZhFCPJnn9IgI2IW7v8Wl,False,2023-05-23 20:12:53+00:00,,Sales Tax,False,Alaska,True,{},2.5,2025-08-02 00:37:42.406000+00:00
+txr_1N7oAoFCPJnn9IgI3yjBy3i9,False,2023-05-14 23:17:54+00:00,,Sales Tax,False,Illinois,True,{},7.0,2025-08-02 00:37:32.322000+00:00
+txr_1RdfRPFCPJnn9IgIuoA6bn02,False,2025-06-24 22:35:47+00:00,,Sales Tax,True,Colorado,True,{},9.055,2025-08-02 00:33:19.744000+00:00
+txr_1R0uP4FCPJnn9IgIMxrtOwUe,False,2025-03-10 00:41:10+00:00,,Sales Tax,False,Washington,True,{},8.5,2025-08-02 00:32:13.076000+00:00
+txr_1RaJgcFCPJnn9IgINmqKBOtU,False,2025-06-15 16:45:38+00:00,,Sales Tax,False,New York,True,{},8.625,2025-08-02 00:32:48.187000+00:00
+txr_1RrFjxFCPJnn9IgIwjaCZwAL,False,2025-08-01 09:59:05+00:00,,Sales Tax,True,Alabama,True,{},8.75,2025-08-02 00:36:56.022000+00:00
+txr_1RdGWGFCPJnn9IgIwIYjrkUf,False,2025-06-23 19:59:08+00:00,,Sales Tax,True,Colorado,True,{},9.15,2025-08-03 00:33:42.700000+00:00
+txr_1PpMU8FCPJnn9IgI1t2JbQN4,False,2024-08-19 03:42:24+00:00,,Sales Tax,False,Washington,True,{},10.3,2025-08-03 00:33:36.415000+00:00
+txr_1Pm6XxFCPJnn9IgIvnIOr2HQ,False,2024-08-10 04:04:53+00:00,,Sales Tax,False,Washington,True,{},8.1,2025-08-03 00:33:49.775000+00:00
+txr_1RUyyFFCPJnn9IgIfQ8YuuG1,False,2025-05-31 23:37:47+00:00,,Sales Tax,False,Washington,True,{},9.8,2025-08-03 00:31:51.612000+00:00
+txr_1Qwe19FCPJnn9IgIGno6CM2i,False,2025-02-26 06:22:51+00:00,,Sales Tax,False,Colorado,True,{},9.15,2025-08-03 00:33:53.041000+00:00
+txr_1NIBFdFCPJnn9IgIH3H6NYxb,False,2023-06-12 13:57:45+00:00,,Sales Tax,False,Kansas,True,{},8.975,2025-08-03 00:33:39.487000+00:00
+txr_1RJP2FFCPJnn9IgIX7CwCae9,False,2025-04-30 01:02:03+00:00,,Sales Tax,True,Washington,True,{},10.6,2025-08-04 00:31:26.946000+00:00
+txr_1NBMtVFCPJnn9IgILOeX3mMD,False,2023-05-24 18:58:45+00:00,,Sales Tax,False,Colorado,True,{},5.0,2025-08-04 00:33:17.521000+00:00
+txr_1Rs7w4FCPJnn9IgI3slHNH6c,False,2025-08-03 19:51:12+00:00,,Sales Tax,True,Colorado,True,{},7.75,2025-08-04 00:33:15.819000+00:00
+txr_1N72r5FCPJnn9IgIBMoR0ENf,False,2023-05-12 20:46:23+00:00,,Sales Tax,False,Colorado,True,{},4.9,2025-08-05 00:34:22.083000+00:00
+txr_1PyEtQFCPJnn9IgI5akQke5x,False,2024-09-12 15:25:12+00:00,,Sales Tax,False,Colorado,True,{},8.7,2025-08-05 00:31:59.374000+00:00
+txr_1RgcpuFCPJnn9IgIxGeNuoOU,False,2025-07-03 02:25:18+00:00,,Sales Tax,True,Arizona,True,{},9.1,2025-08-05 00:34:17.572000+00:00
+txr_1Pt2kNFCPJnn9IgIuY24q4Qd,False,2024-08-29 07:26:23+00:00,,,False,Guam,True,{},0.0,2025-08-05 00:34:19.451000+00:00
+txr_1Ro91RFCPJnn9IgIFBfGhI00,False,2025-07-23 20:12:17+00:00,,Sales Tax,True,Oklahoma,True,{},10.05,2025-08-05 00:32:03.818000+00:00
+txr_1NEzh6FCPJnn9IgIWOatl1OX,False,2023-06-03 19:00:56+00:00,,Sales Tax,False,Texas,True,{},6.5,2025-08-05 00:34:23.463000+00:00
+txr_1Ro91RFCPJnn9IgI3FkAC0zO,False,2025-07-23 20:12:17+00:00,,Sales Tax,False,Oklahoma,True,{},10.05,2025-08-05 00:34:22.079000+00:00
+txr_1Ni51RFCPJnn9IgI0XYBasiJ,False,2023-08-23 00:34:09+00:00,,Sales Tax,False,California,True,{},8.35,2025-08-06 00:33:46.383000+00:00
+txr_1RRgOKFCPJnn9IgITS9Nm1KJ,False,2025-05-22 21:11:04+00:00,,Sales Tax,True,Oklahoma,True,{},8.917,2025-08-06 00:33:46.384000+00:00
+txr_1NSRtxFCPJnn9IgIfI87JcrY,False,2023-07-10 21:45:49+00:00,,Sales Tax,False,Oklahoma,True,{},8.917,2025-08-06 00:33:46.384000+00:00
+txr_1Q6hwqFCPJnn9IgISOilPtTH,False,2024-10-06 00:03:44+00:00,,Sales Tax,False,Missouri,True,{},8.675,2025-08-06 00:33:48.288000+00:00
+txr_1OVFy9FCPJnn9IgIl0OBMW1T,False,2024-01-05 16:10:01+00:00,,Sales Tax,False,New Mexico,True,{},6.25,2025-08-06 00:33:43.565000+00:00
+txr_1QdjkXFCPJnn9IgIbJuOpnIr,False,2025-01-05 02:39:33+00:00,,Sales Tax,False,Louisiana,True,{},9.35,2025-08-06 00:33:40.889000+00:00
+txr_1RTaK3FCPJnn9IgIVKVsISYa,False,2025-05-28 03:06:31+00:00,,Sales Tax,False,Arizona,True,{},9.3,2025-08-06 00:34:02.294000+00:00
+txr_1RVPIlFCPJnn9IgIET0MXu8Z,False,2025-06-02 03:44:43+00:00,,Sales Tax,True,Nebraska,True,{},7.5,2025-08-06 00:31:40.502000+00:00
+txr_1N6jPLFCPJnn9IgIRmzYXm7B,False,2023-05-12 00:00:27+00:00,,Sales Tax,False,California,True,{},10.0,2025-08-06 00:33:40.762000+00:00
+txr_1RbS6qFCPJnn9IgIPdZJJ1Ev,False,2025-06-18 19:57:24+00:00,,Sales Tax,True,Louisiana,True,{},10.0,2025-08-07 00:31:46.881000+00:00
+txr_1NnlehFCPJnn9IgIASXgAeHG,False,2023-09-07 17:06:11+00:00,,Sales Tax,False,Oklahoma,True,{},9.95,2025-08-07 00:34:01.939000+00:00
+txr_1NM1h5FCPJnn9IgIONLGKdsh,False,2023-06-23 04:33:59+00:00,,Sales Tax,False,Arizona,True,{},7.6,2025-08-07 00:31:15.089000+00:00
+txr_1Rr624FCPJnn9IgIPEk64ZlZ,False,2025-07-31 23:37:08+00:00,,Sales Tax,True,Missouri,True,{},8.6,2025-08-07 00:34:02.822000+00:00
+txr_1N7ReZFCPJnn9IgIHcPUBmGm,False,2023-05-13 23:15:07+00:00,,Sales Tax,False,Arkansas,True,{},10.0,2025-08-07 00:31:11.059000+00:00
+txr_1RdGvLFCPJnn9IgIVciA1E29,False,2025-06-23 20:25:03+00:00,,Sales Tax,True,Utah,True,{},7.0,2025-08-07 00:34:05.789000+00:00
+txr_1NwT1XFCPJnn9IgIM9aumAJf,False,2023-10-01 17:01:43+00:00,,Sales Tax,False,Oklahoma,True,{},6.0,2025-08-07 00:31:26.874000+00:00
+txr_1N7SO6FCPJnn9IgIx22Ex8yK,False,2023-05-14 00:02:10+00:00,,Sales Tax,False,Oklahoma,True,{},5.0,2025-08-07 00:31:05.279000+00:00
+txr_1NFPFMFCPJnn9IgIGMi62vfd,False,2023-06-04 22:18:00+00:00,,Sales Tax,False,Colorado,True,{},8.53,2025-08-07 00:34:05.785000+00:00
+txr_1N8AUYFCPJnn9IgI0ipo74s0,False,2023-05-15 23:07:46+00:00,,Sales Tax,False,California,True,{},7.5,2025-08-07 00:32:08.614000+00:00
+txr_1RVK2uFCPJnn9IgIKhRZi9xP,False,2025-06-01 22:08:00+00:00,,Sales Tax,False,Washington,True,{},10.4,2025-08-07 00:31:43.947000+00:00
+txr_1ReJWfFCPJnn9IgIsM3GJXVf,False,2025-06-26 17:23:53+00:00,,Sales Tax,True,California,True,{},9.125,2025-08-07 00:33:57.079000+00:00
+txr_1RVK2uFCPJnn9IgIyy4MEV7x,False,2025-06-01 22:08:00+00:00,,Sales Tax,True,Washington,True,{},10.4,2025-08-07 00:31:43.947000+00:00
+txr_1RNg0kFCPJnn9IgI7PBuALrB,False,2025-05-11 19:58:10+00:00,,Sales Tax,True,Washington,True,{},10.1,2025-08-08 00:31:38.571000+00:00
+txr_1RDcP7FCPJnn9IgIGTlWaMuQ,False,2025-04-14 02:05:45+00:00,,Sales Tax,False,Missouri,True,{},6.925,2025-08-08 00:31:31.329000+00:00
+txr_1QhIrYFCPJnn9IgIfBz94c8t,False,2025-01-14 22:45:32+00:00,,Sales Tax,False,Washington,True,{},9.6,2025-08-08 00:31:02.254000+00:00
+txr_1RUWjAFCPJnn9IgI0QYS6Q1I,False,2025-05-30 17:28:20+00:00,,Sales Tax,True,Iowa,True,{},6.0,2025-08-08 00:32:01.321000+00:00
+txr_1NBiimFCPJnn9IgIcE3K6li9,False,2023-05-25 18:17:08+00:00,,Sales Tax,False,Oklahoma,True,{},9.1,2025-08-08 00:33:38.498000+00:00
+txr_1N6fvPFCPJnn9IgIoI1auSjI,False,2023-05-11 20:17:19+00:00,,Sales Tax,False,Missouri,True,{},8.238,2025-08-08 00:33:44.244000+00:00
+txr_1RX2sQFCPJnn9IgItrZclZ6y,False,2025-06-06 16:12:18+00:00,,Sales Tax,False,Alabama,True,{},8.75,2025-08-08 00:33:52.937000+00:00
+txr_1RrFjxFCPJnn9IgILnK1fsTD,False,2025-08-01 09:59:05+00:00,,Sales Tax,False,Alabama,True,{},8.75,2025-08-08 00:33:38.500000+00:00
+txr_1QvYkUFCPJnn9IgIw1njfdxL,False,2025-02-23 06:33:10+00:00,,Sales Tax,False,California,True,{},8.975,2025-08-08 00:31:13.906000+00:00
+txr_1NEEvXFCPJnn9IgIG7iyet81,False,2023-06-01 17:04:43+00:00,,Sales Tax,False,Arizona,True,{},6.9,2025-08-08 00:33:41.464000+00:00
+txr_1RVNSKFCPJnn9IgIyGOdROqC,False,2025-06-02 01:46:28+00:00,,Sales Tax,True,Colorado,True,{},5.185,2025-08-08 00:31:34.278000+00:00
+txr_1PZFJJFCPJnn9IgI3AVFn4LE,False,2024-07-05 16:48:37+00:00,,Sales Tax,False,Arkansas,True,{},7.875,2025-08-08 00:31:20.161000+00:00
+txr_1RcT2yFCPJnn9IgIjlEuEu61,False,2025-06-21 15:09:36+00:00,,Sales Tax,True,Wyoming,True,{},6.0,2025-08-08 00:31:38.201000+00:00
+txr_1RNNdAFCPJnn9IgIYBOBjGy3,False,2025-05-11 00:20:36+00:00,,Sales Tax,True,Washington,True,{},8.9,2025-08-08 00:32:03.015000+00:00
+txr_1RT8UfFCPJnn9IgIxPcMP6DG,False,2025-05-26 21:23:37+00:00,,Sales Tax,True,Washington,True,{},10.3,2025-08-08 00:31:58.941000+00:00
+txr_1RUy0tFCPJnn9IgIohV2Q0vI,False,2025-05-31 22:36:27+00:00,,Sales Tax,True,Washington,True,{},9.1,2025-08-08 00:31:35.688000+00:00
+txr_1NAc8eFCPJnn9IgIC8P1x2w6,False,2023-05-22 17:03:16+00:00,,Sales Tax,False,Arizona,True,{},6.712,2025-08-08 00:33:41.380000+00:00
+txr_1RrOgKFCPJnn9IgIlx3xAfFb,False,2025-08-01 19:31:56+00:00,,Sales Tax,False,Oklahoma,True,{},5.906,2025-08-08 00:33:56.645000+00:00
+txr_1RtOXcFCPJnn9IgISOlg7wtf,False,2025-08-07 07:47:12+00:00,,Sales Tax,True,California,True,{},9.5,2025-08-08 00:33:39.460000+00:00
+txr_1Rtc1QFCPJnn9IgI39xAzM2s,False,2025-08-07 22:10:52+00:00,,Sales Tax,True,Kansas,True,{},9.6,2025-08-08 00:33:45.386000+00:00
+txr_1Ri3brFCPJnn9IgIAeMHTeME,False,2025-07-07 01:12:43+00:00,,Sales Tax,True,Louisiana,True,{},9.25,2025-08-09 00:31:39.151000+00:00
+txr_1OCwibFCPJnn9IgIe3xtL0ip,False,2023-11-16 03:58:17+00:00,,Sales Tax,False,Arizona,True,{},6.43,2025-08-09 00:31:38.970000+00:00
+txr_1NGYtgFCPJnn9IgIwONq5eFw,False,2023-06-08 02:48:24+00:00,,Sales Tax,False,Kansas,True,{},6.5,2025-08-09 00:33:38.041000+00:00
+txr_1NAMukFCPJnn9IgI6gvjZx3G,False,2023-05-22 00:47:54+00:00,,Sales Tax,False,Arizona,True,{},6.6,2025-08-09 00:33:43.811000+00:00
+txr_1NGoKgFCPJnn9IgIFa583ncf,False,2023-06-08 19:17:18+00:00,,Sales Tax,False,Arizona,True,{},9.6,2025-08-09 00:33:45.254000+00:00
+txr_1NAxj8FCPJnn9IgI3zPGoJOb,False,2023-05-23 16:06:22+00:00,,Sales Tax,False,Oklahoma,True,{},9.313,2025-08-09 00:33:56.643000+00:00
+txr_1RQaw0FCPJnn9IgIFTulTnP6,False,2025-05-19 21:09:20+00:00,,,True,New Hampshire,True,{},0.0,2025-08-09 00:33:39.434000+00:00
+txr_1N6nhrFCPJnn9IgIbaXAcqzP,False,2023-05-12 04:35:51+00:00,,Sales Tax,False,Colorado,True,{},8.2,2025-08-09 00:33:43.675000+00:00
+txr_1RKPKLFCPJnn9IgIzmgK1kOA,False,2025-05-02 19:32:53+00:00,,Sales Tax,True,North Carolina,True,{},7.25,2025-08-09 00:33:37.849000+00:00
+txr_1O5zVkFCPJnn9IgIUXkypq06,False,2023-10-27 23:32:16+00:00,,Sales Tax,False,Arizona,True,{},7.8,2025-08-09 00:33:52.298000+00:00
+txr_1ORmRKFCPJnn9IgIEwzTHieS,False,2023-12-27 02:01:46+00:00,,Sales Tax,False,Colorado,True,{},9.25,2025-08-09 00:33:37.172000+00:00
+txr_1RMElIFCPJnn9IgI3lqPAbXU,False,2025-05-07 20:40:16+00:00,,Sales Tax,True,West Virginia,True,{},6.0,2025-08-10 00:31:31.730000+00:00
+txr_1N9sYlFCPJnn9IgIBjzt5csT,False,2023-05-20 16:23:11+00:00,,Sales Tax,False,Arkansas,True,{},10.75,2025-08-10 00:31:05.890000+00:00
+txr_1NNjAHFCPJnn9IgIHc0jl84U,False,2023-06-27 21:11:09+00:00,,Sales Tax,False,Kansas,True,{},7.975,2025-08-10 00:31:05.815000+00:00
+txr_1PlCOQFCPJnn9IgIzkv832IK,False,2024-08-07 16:07:18+00:00,,Sales Tax,False,Arizona,True,{},8.6,2025-08-10 00:33:38.050000+00:00
+txr_1RPR0PFCPJnn9IgIL5SLXur4,False,2025-05-16 16:21:05+00:00,,Sales Tax,True,Oklahoma,True,{},9.0,2025-08-10 00:31:26.175000+00:00
+txr_1RSYnfFCPJnn9IgIFZgnKJ6A,False,2025-05-25 07:16:51+00:00,,Sales Tax,True,California,True,{},9.375,2025-08-10 00:33:26.070000+00:00
+txr_1NEEvWFCPJnn9IgIBa7JXJmC,False,2023-06-01 17:04:42+00:00,,Sales Tax,False,Utah,True,{},6.85,2025-08-10 00:33:23.895000+00:00
+txr_1RN04ZFCPJnn9IgI83z388YD,False,2025-05-09 23:11:19+00:00,,Sales Tax,True,Washington,True,{},8.7,2025-08-10 00:33:30.537000+00:00
+txr_1NDTiZFCPJnn9IgIAhasTF8H,False,2023-05-30 14:40:11+00:00,,Sales Tax,False,Colorado,True,{},7.5,2025-08-10 00:33:24.749000+00:00
+txr_1N6hGwFCPJnn9IgIuhHKNy6t,False,2023-05-11 21:43:38+00:00,,Sales Tax,False,California,True,{},8.25,2025-08-10 00:33:25.087000+00:00
+txr_1RTscWFCPJnn9IgIoCOkFCEI,False,2025-05-28 22:38:48+00:00,,Sales Tax,True,Nebraska,True,{},7.0,2025-08-10 00:33:30.425000+00:00
+txr_1N5zV3FCPJnn9IgIsTmHfNBA,False,2023-05-09 22:59:17+00:00,,Sales Tax,False,Utah,True,{},7.15,2025-08-10 00:33:30.624000+00:00
+txr_1N9YQiFCPJnn9IgII3f03Xfg,False,2023-05-19 18:53:32+00:00,,Sales Tax,False,Illinois,True,{},10.0,2025-08-10 00:33:31.097000+00:00
+txr_1RPTV8FCPJnn9IgI1hr50jYx,False,2025-05-16 19:00:58+00:00,,Sales Tax,True,Ohio,True,{},6.5,2025-08-10 00:31:33.439000+00:00
+txr_1RdHVFFCPJnn9IgIaafIP2cX,False,2025-06-23 21:02:09+00:00,,Sales Tax,True,Nevada,True,{},8.375,2025-08-10 00:31:35.867000+00:00
+txr_1NQ8Z1FCPJnn9IgIRTExXNrA,False,2023-07-04 12:42:39+00:00,,Sales Tax,False,Oklahoma,True,{},9.313,2025-08-10 00:31:26.061000+00:00
+txr_1NFnJyFCPJnn9IgIQq4OPbNp,False,2023-06-06 00:00:22+00:00,,Sales Tax,False,Illinois,True,{},6.5,2025-08-10 00:30:57.565000+00:00
+txr_1N6cYSFCPJnn9IgIJzMZEnSb,False,2023-05-11 16:41:24+00:00,,Sales Tax,False,Colorado,True,{},5.65,2025-08-10 00:31:43.943000+00:00
+txr_1N6ULlFCPJnn9IgIGHzPfcZ0,False,2023-05-11 07:55:45+00:00,,Sales Tax,False,Washington,True,{},10.6,2025-08-10 00:33:30.625000+00:00
+txr_1N6fB7FCPJnn9IgIMZofaoEE,False,2023-05-11 19:29:29+00:00,,Sales Tax,False,Colorado,True,{},4.75,2025-08-10 00:31:00.272000+00:00
+txr_1Ru1xMFCPJnn9IgI1XFRaTuF,False,2025-08-09 01:52:24+00:00,,Sales Tax,False,Alabama,True,{},4.0,2025-08-10 00:33:24.748000+00:00
+txr_1PocTBFCPJnn9IgIe9ulVQFe,False,2024-08-17 02:34:21+00:00,,Sales Tax,False,Utah,True,{},6.6,2025-08-11 00:31:24.223000+00:00
+txr_1Qn2poFCPJnn9IgIGdy4zHIP,False,2025-01-30 18:51:28+00:00,,Sales Tax,False,Arkansas,True,{},8.875,2025-08-11 00:33:30.282000+00:00
+txr_1NAgrpFCPJnn9IgI0XbSJB8L,False,2023-05-22 22:06:13+00:00,,Sales Tax,False,Missouri,True,{},5.6,2025-08-11 00:31:00.188000+00:00
+txr_1NEEvMFCPJnn9IgIgIWuoMoU,False,2023-06-01 17:04:32+00:00,,Sales Tax,False,Arizona,True,{},8.35,2025-08-11 00:31:18.818000+00:00
+txr_1PXcT0FCPJnn9IgIERUMyJky,False,2024-07-01 05:07:54+00:00,,Sales Tax,True,Vermont,True,{},6.0,2025-08-11 00:33:24.417000+00:00
+txr_1RVIaqFCPJnn9IgIeXv29YpO,False,2025-06-01 20:34:56+00:00,,Sales Tax,True,Washington,True,{},9.4,2025-08-11 00:31:30.342000+00:00
+txr_1OlcSbFCPJnn9IgII35qEmBB,False,2024-02-19 19:25:05+00:00,,Sales Tax,False,Colorado,True,{},8.685,2025-08-11 00:33:24.857000+00:00
+txr_1RPn4QFCPJnn9IgIgbir0Xpl,False,2025-05-17 15:54:42+00:00,,Sales Tax,True,Ohio,True,{},7.75,2025-08-11 00:31:18.393000+00:00
+txr_1O8UdXFCPJnn9IgI9SmWfkbF,False,2023-11-03 21:10:39+00:00,,Sales Tax,False,Minnesota,True,{},8.525,2025-08-11 00:33:27.735000+00:00
+txr_1N61hgFCPJnn9IgIAqXwZ7hR,False,2023-05-10 01:20:28+00:00,,Sales Tax,False,Illinois,True,{},10.5,2025-08-11 00:33:24.860000+00:00
+txr_1NDnErFCPJnn9IgIYxAqjay3,False,2023-05-31 11:30:49+00:00,,Sales Tax,False,Missouri,True,{},5.85,2025-08-11 00:33:24.859000+00:00
+txr_1RsX5wFCPJnn9IgIK5nwKf8F,False,2025-08-04 22:43:05+00:00,,Sales Tax,True,Georgia,True,{},9.0,2025-08-11 00:31:31.168000+00:00
+txr_1RKsopFCPJnn9IgIStX1DsHk,False,2025-05-04 03:02:19+00:00,,Sales Tax,True,Minnesota,True,{},8.125,2025-08-11 00:33:27.735000+00:00
+txr_1N81xNFCPJnn9IgIurry0niL,False,2023-05-15 14:00:57+00:00,,Sales Tax,False,Arizona,True,{},8.8,2025-08-11 00:31:16.689000+00:00
+txr_1OommrFCPJnn9IgIBRvSYZ7c,False,2024-02-28 13:03:05+00:00,,Sales Tax,False,Tennessee,True,{},9.25,2025-08-11 00:33:38.196000+00:00
+txr_1N7QUbFCPJnn9IgIBNeYZNrr,False,2023-05-13 22:00:45+00:00,,Sales Tax,False,Washington,True,{},9.3,2025-08-11 00:33:27.561000+00:00
+txr_1NDUStFCPJnn9IgIvmaoEO4f,False,2023-05-30 15:28:03+00:00,,Sales Tax,False,North Carolina,True,{},7.5,2025-08-11 00:33:29.786000+00:00
+txr_1RKGWDFCPJnn9IgIpmcFkHdR,False,2025-05-02 10:08:33+00:00,,Sales Tax,True,Georgia,True,{},7.0,2025-08-11 00:33:24.419000+00:00
+txr_1N60MjFCPJnn9IgIVPu6nIH3,False,2023-05-09 23:54:45+00:00,,Sales Tax,False,Illinois,True,{},8.35,2025-08-11 00:31:43.226000+00:00
+txr_1N6Mk6FCPJnn9IgI5Fu2duoW,False,2023-05-10 23:48:22+00:00,,Sales Tax,False,Colorado,True,{},4.9,2025-08-11 00:33:29.944000+00:00
+txr_1NAf33FCPJnn9IgId7jpl3Sy,False,2023-05-22 20:09:41+00:00,,Sales Tax,False,Colorado,True,{},6.7,2025-08-11 00:33:24.359000+00:00
+txr_1NAMC8FCPJnn9IgIZqVC4UuH,False,2023-05-22 00:01:48+00:00,,Sales Tax,False,Colorado,True,{},8.65,2025-08-12 00:30:57.025000+00:00
+txr_1QHPZ2FCPJnn9IgIUjPtpmXB,False,2024-11-04 12:39:24+00:00,,Sales Tax,False,District of Columbia,True,{},6.0,2025-08-12 00:34:08.383000+00:00
+txr_1NEEvTFCPJnn9IgISDpXpssk,False,2023-06-01 17:04:39+00:00,,Sales Tax,False,Missouri,True,{},8.412,2025-08-12 00:30:56.948000+00:00
+txr_1RO6xJFCPJnn9IgIHnXFwGh5,False,2025-05-13 00:44:25+00:00,,Sales Tax,True,Ohio,True,{},7.25,2025-08-12 00:31:27.676000+00:00
+txr_1N741xFCPJnn9IgIvGQldWdC,False,2023-05-12 22:01:41+00:00,,Sales Tax,False,Oklahoma,True,{},8.625,2025-08-12 00:33:54.025000+00:00
+txr_1N6h4fFCPJnn9IgI7fU7GVIE,False,2023-05-11 21:30:57+00:00,,Sales Tax,False,Oklahoma,True,{},5.2,2025-08-12 00:33:53.856000+00:00
+txr_1RjYgFFCPJnn9IgIZJps1twH,False,2025-07-11 04:35:27+00:00,,Sales Tax,False,Washington,True,{},9.08,2025-08-12 00:33:46.181000+00:00
+txr_1N5z80FCPJnn9IgIOMtdwNnh,False,2023-05-09 22:35:28+00:00,,Sales Tax,False,Kansas,True,{},9.25,2025-08-12 00:33:51.416000+00:00
+txr_1QrAIvFCPJnn9IgIiZNO2T4I,False,2025-02-11 03:38:33+00:00,,Sales Tax,False,Tennessee,True,{},9.5,2025-08-12 00:34:06.996000+00:00
+txr_1NFpmVFCPJnn9IgIv3m1nc8F,False,2023-06-06 02:37:59+00:00,,Sales Tax,False,Illinois,True,{},6.25,2025-08-12 00:33:54.027000+00:00
+txr_1RJblKFCPJnn9IgIBo8UCNEy,False,2025-04-30 14:37:26+00:00,,Sales Tax,False,Rhode Island,True,{},7.0,2025-08-12 00:34:04.628000+00:00
+txr_1N6P5yFCPJnn9IgI4g3kTJpV,False,2023-05-11 02:19:06+00:00,,Sales Tax,False,Illinois,True,{},8.75,2025-08-12 00:31:22.104000+00:00
+txr_1N8yGCFCPJnn9IgIDADehVU2,False,2023-05-18 04:16:16+00:00,,Sales Tax,False,California,True,{},9.125,2025-08-12 00:33:51.413000+00:00
+txr_1RtFocFCPJnn9IgIr4cK2Z1e,False,2025-08-06 22:28:10+00:00,,Sales Tax,True,Ohio,True,{},8.0,2025-08-12 00:33:46.522000+00:00
+txr_1N7SO6FCPJnn9IgIjabauCpw,False,2023-05-14 00:02:10+00:00,,Sales Tax,False,Colorado,True,{},7.4,2025-08-12 00:31:25.618000+00:00
+txr_1ROlBcFCPJnn9IgIF501EP6n,False,2025-05-14 19:41:52+00:00,,Sales Tax,True,Nebraska,True,{},5.5,2025-08-12 00:33:46.521000+00:00
+txr_1ROV3gFCPJnn9IgI3kcQRP3X,False,2025-05-14 02:28:36+00:00,,Sales Tax,True,Illinois,True,{},8.25,2025-08-12 00:33:53.858000+00:00
+txr_1RQJfCFCPJnn9IgI8rYYaG1d,False,2025-05-19 02:42:50+00:00,,Sales Tax,True,Kansas,True,{},7.5,2025-08-12 00:33:47.066000+00:00
+txr_1RJIlGFCPJnn9IgIiR9f4XLq,False,2025-04-29 18:20:06+00:00,,Sales Tax,True,Missouri,True,{},5.95,2025-08-12 00:31:56.222000+00:00
+txr_1RMCSBFCPJnn9IgItKniPrEm,False,2025-05-07 18:12:23+00:00,,Sales Tax,True,Arkansas,True,{},8.625,2025-08-12 00:31:41.960000+00:00
+txr_1N6doUFCPJnn9IgIRa6s35tL,False,2023-05-11 18:02:02+00:00,,Sales Tax,False,Oklahoma,True,{},5.875,2025-08-12 00:33:51.415000+00:00
+txr_1RY5wBFCPJnn9IgImSaS9RxB,False,2025-06-09 13:40:31+00:00,,Sales Tax,False,Louisiana,True,{},10.55,2025-08-12 00:31:41.441000+00:00
+txr_1N7JbUFCPJnn9IgIcXrIo7nj,False,2023-05-13 14:39:24+00:00,,Sales Tax,False,Missouri,True,{},9.679,2025-08-12 00:31:25.134000+00:00
+txr_1N6afhFCPJnn9IgI4FFxtlmT,False,2023-05-11 14:40:45+00:00,,Sales Tax,False,Missouri,True,{},6.35,2025-08-12 00:31:57.914000+00:00
+txr_1RLVTXFCPJnn9IgItiWZy8hQ,False,2025-05-05 20:18:55+00:00,,Sales Tax,True,Illinois,True,{},10.0,2025-08-12 00:31:43.024000+00:00
+txr_1RsEuzFCPJnn9IgIIOgBI670,False,2025-08-04 03:18:33+00:00,,Sales Tax,True,Ohio,True,{},6.75,2025-08-12 00:33:53.869000+00:00
+txr_1N6d9eFCPJnn9IgIIY6pjdmU,False,2023-05-11 17:19:50+00:00,,Sales Tax,False,Colorado,True,{},3.53,2025-08-12 00:31:10.480000+00:00
+txr_1N614EFCPJnn9IgIeyrb3Ypq,False,2023-05-10 00:39:42+00:00,,Sales Tax,False,Missouri,True,{},9.238,2025-08-12 00:31:31.700000+00:00
+txr_1N7IucFCPJnn9IgIFOet4HC0,False,2023-05-13 13:55:06+00:00,,Sales Tax,False,Ohio,True,{},7.75,2025-08-12 00:32:06.649000+00:00
+txr_1NeRLKFCPJnn9IgItogjlB4f,False,2023-08-12 23:35:38+00:00,,Sales Tax,False,Utah,True,{},6.75,2025-08-12 00:31:45.370000+00:00
+txr_1NBREbFCPJnn9IgI6mJVQXTN,False,2023-05-24 23:36:49+00:00,,Sales Tax,False,Oklahoma,True,{},10.0,2025-08-12 00:32:11.234000+00:00
+txr_1RJGKpFCPJnn9IgIGT8v04sc,False,2025-04-29 15:44:39+00:00,,Sales Tax,True,Georgia,True,{},8.0,2025-08-12 00:33:50.292000+00:00
+txr_1N6xCZFCPJnn9IgIdxaTQnQu,False,2023-05-12 14:44:11+00:00,,Sales Tax,False,Minnesota,True,{},7.375,2025-08-12 00:33:47.065000+00:00
+txr_1RJlbjFCPJnn9IgIV9uUffof,False,2025-05-01 01:08:11+00:00,,Sales Tax,True,Florida,True,{},6.5,2025-08-12 00:31:10.549000+00:00
+txr_1N5w8zFCPJnn9IgIGAJE2pQc,False,2023-05-09 19:24:17+00:00,,Sales Tax,False,Washington,True,{},7.8,2025-08-12 00:34:06.388000+00:00
+txr_1N5o67FCPJnn9IgIBztmc3Nr,False,2023-05-09 10:48:47+00:00,,Sales Tax,False,Florida,True,{},6.5,2025-08-12 00:33:50.290000+00:00
+txr_1OTorGFCPJnn9IgIlFdzBLZx,False,2024-01-01 17:00:58+00:00,,Sales Tax,False,Colorado,True,{},4.35,2025-08-12 00:33:53.852000+00:00
+txr_1N6fc6FCPJnn9IgI2r4VXNT1,False,2023-05-11 19:57:22+00:00,,Sales Tax,False,Georgia,True,{},8.0,2025-08-12 00:33:50.292000+00:00
+txr_1N5sjjFCPJnn9IgIdURTzKu4,False,2023-05-09 15:45:59+00:00,,Sales Tax,False,Washington,True,{},9.2,2025-08-12 00:33:46.839000+00:00
+txr_1N5pEgFCPJnn9IgIyUEOY1VT,False,2023-05-09 12:01:42+00:00,,Sales Tax,False,Ohio,True,{},7.0,2025-08-12 00:31:45.845000+00:00
+txr_1RKUDwFCPJnn9IgIifLrkFvG,False,2025-05-03 00:46:36+00:00,,Sales Tax,True,Connecticut,True,{},6.35,2025-08-12 00:33:53.696000+00:00
+txr_1Rv4IMFCPJnn9IgIz9UEP4ID,False,2025-08-11 22:34:22+00:00,,Sales Tax,True,Illinois,True,{},6.25,2025-08-12 00:33:54.027000+00:00
+txr_1NLah9FCPJnn9IgIXjXQzRd7,False,2023-06-21 23:44:15+00:00,,Sales Tax,False,Illinois,True,{},6.75,2025-08-13 00:34:04.318000+00:00
+txr_1RgchXFCPJnn9IgIsx5LAT3q,False,2025-07-03 02:16:39+00:00,,Sales Tax,True,Ohio,True,{},7.5,2025-08-13 00:31:45.961000+00:00
+txr_1O1h9VFCPJnn9IgIcZeAkYd8,False,2023-10-16 03:07:33+00:00,,Sales Tax,False,Utah,True,{},6.9,2025-08-13 00:31:33.488000+00:00
+txr_1QgX0hFCPJnn9IgIlHQrKjFk,False,2025-01-12 19:39:47+00:00,,Sales Tax,False,Colorado,True,{},8.96,2025-08-13 00:34:07.405000+00:00
+txr_1N5snaFCPJnn9IgI7l4MAz8s,False,2023-05-09 15:49:58+00:00,,Sales Tax,False,Kansas,True,{},9.475,2025-08-13 00:34:04.971000+00:00
+txr_1N6uhvFCPJnn9IgI2ssc53Zv,False,2023-05-12 12:04:23+00:00,,Sales Tax,False,Colorado,True,{},8.4,2025-08-13 00:34:02.987000+00:00
+txr_1NAcurFCPJnn9IgI7h3QwqCK,False,2023-05-22 17:53:05+00:00,,Sales Tax,False,Oklahoma,True,{},9.75,2025-08-13 00:31:33.487000+00:00
+txr_1N8lLHFCPJnn9IgILSYwZ3fQ,False,2023-05-17 14:28:39+00:00,,Sales Tax,False,Missouri,True,{},9.488,2025-08-13 00:31:39.455000+00:00
+txr_1NBlicFCPJnn9IgIRA2r5dxF,False,2023-05-25 21:29:10+00:00,,Sales Tax,False,Arkansas,True,{},11.0,2025-08-13 00:34:16.620000+00:00
+txr_1NC8SFFCPJnn9IgIbnORphb2,False,2023-05-26 21:45:47+00:00,,Sales Tax,False,California,True,{},10.75,2025-08-13 00:34:04.972000+00:00
+txr_1P1dnkFCPJnn9IgItBF5Jpek,False,2024-04-04 00:05:08+00:00,,Sales Tax,False,Washington,True,{},9.8,2025-08-13 00:34:07.639000+00:00
+txr_1Nfiq1FCPJnn9IgIoStAEGpH,False,2023-08-16 12:28:37+00:00,,Sales Tax,False,Alabama,True,{},9.0,2025-08-13 00:31:38.645000+00:00
+txr_1NDCuoFCPJnn9IgIHOuMvDnu,False,2023-05-29 20:43:42+00:00,,Sales Tax,False,Kansas,True,{},9.0,2025-08-13 00:31:30.735000+00:00
+txr_1NDCrGFCPJnn9IgIJ9B6yunz,False,2023-05-29 20:40:02+00:00,,Sales Tax,False,California,True,{},8.625,2025-08-13 00:31:36.764000+00:00
+txr_1N9GoqFCPJnn9IgI7gez4jWu,False,2023-05-19 00:05:16+00:00,,Sales Tax,False,Missouri,True,{},5.475,2025-08-13 00:34:17.536000+00:00
+txr_1N6SDeFCPJnn9IgIaTtui6Fv,False,2023-05-11 05:39:14+00:00,,Sales Tax,False,California,True,{},8.5,2025-08-13 00:34:00.747000+00:00
+txr_1N6E4iFCPJnn9IgIo6oMcgpr,False,2023-05-10 14:33:04+00:00,,Sales Tax,False,Wyoming,True,{},6.0,2025-08-13 00:31:15.508000+00:00
+txr_1RJesfFCPJnn9IgI0jd81fm0,False,2025-04-30 17:57:13+00:00,,Sales Tax,True,New York,True,{},8.875,2025-08-13 00:34:04.317000+00:00
+txr_1N87xfFCPJnn9IgIDXRKuboR,False,2023-05-15 20:25:39+00:00,,Sales Tax,False,Missouri,True,{},4.225,2025-08-13 00:34:07.956000+00:00
+txr_1N5xzTFCPJnn9IgIDGVUTh4M,False,2023-05-09 21:22:35+00:00,,Sales Tax,False,Georgia,True,{},7.0,2025-08-13 00:32:06.028000+00:00
+txr_1N9GojFCPJnn9IgIVXeLDX03,False,2023-05-19 00:05:09+00:00,,Sales Tax,False,Colorado,True,{},8.685,2025-08-13 00:31:29.957000+00:00
+txr_1N6o6NFCPJnn9IgIU7zKw1vO,False,2023-05-12 05:01:11+00:00,,Sales Tax,False,Oklahoma,True,{},8.75,2025-08-13 00:34:00.576000+00:00
+txr_1N9KaDFCPJnn9IgIGvxj8tOG,False,2023-05-19 04:06:25+00:00,,Sales Tax,False,Colorado,True,{},8.2,2025-08-13 00:31:08.803000+00:00
+txr_1RJD1XFCPJnn9IgIk3yjm4wv,False,2025-04-29 12:12:31+00:00,,Sales Tax,True,Virginia,True,{},6.0,2025-08-13 00:34:09.407000+00:00
+txr_1NBrydFCPJnn9IgIP6XHcjud,False,2023-05-26 04:10:07+00:00,,Sales Tax,False,Kansas,True,{},8.25,2025-08-13 00:32:04.927000+00:00
+txr_1N5w8uFCPJnn9IgIXD91HajO,False,2023-05-09 19:24:12+00:00,,Sales Tax,False,Texas,True,{},7.25,2025-08-13 00:34:15.137000+00:00
+txr_1Rf9ngFCPJnn9IgIf5auDpyc,False,2025-06-29 01:12:56+00:00,,Sales Tax,True,Washington,True,{},8.3,2025-08-13 00:34:00.575000+00:00
+txr_1NA0UrFCPJnn9IgIPO0oVXAg,False,2023-05-21 00:51:41+00:00,,Sales Tax,False,Oklahoma,True,{},8.417,2025-08-13 00:31:39.774000+00:00
+txr_1N6jPTFCPJnn9IgIch7DbL9C,False,2023-05-12 00:00:35+00:00,,Sales Tax,False,Oklahoma,True,{},5.25,2025-08-13 00:32:08.502000+00:00
+txr_1RJxa7FCPJnn9IgIwClqKKkx,False,2025-05-01 13:55:19+00:00,,Sales Tax,False,Utah,True,{},7.3,2025-08-13 00:34:04.971000+00:00
+txr_1N5ybaFCPJnn9IgIReDSQrie,False,2023-05-09 22:01:58+00:00,,Sales Tax,False,California,True,{},8.35,2025-08-13 00:34:08.419000+00:00
+txr_1N8F39FCPJnn9IgIm1gP7VJm,False,2023-05-16 03:59:47+00:00,,Sales Tax,False,Illinois,True,{},6.75,2025-08-13 00:34:18.164000+00:00
+txr_1N6uhmFCPJnn9IgI3T5U0R7H,False,2023-05-12 12:04:14+00:00,,Sales Tax,False,Colorado,True,{},5.4,2025-08-13 00:34:08.420000+00:00
+txr_1N5w6tFCPJnn9IgIKqEGfWqo,False,2023-05-09 19:22:07+00:00,,Sales Tax,False,California,True,{},8.625,2025-08-13 00:31:43.566000+00:00
+txr_1NP7AxFCPJnn9IgIYh2eu7gI,False,2023-07-01 17:01:35+00:00,,Sales Tax,False,New Mexico,True,{},7.625,2025-08-13 00:34:07.637000+00:00
+txr_1RK8pUFCPJnn9IgIp7ZaDQpV,False,2025-05-02 01:55:56+00:00,,Sales Tax,True,Maryland,True,{},6.0,2025-08-13 00:34:07.406000+00:00
+txr_1RKKKGFCPJnn9IgIb6moKag4,False,2025-05-02 14:12:28+00:00,,Sales Tax,True,Alabama,True,{},10.0,2025-08-13 00:34:01.487000+00:00
+txr_1N8awaFCPJnn9IgIdjTFO04h,False,2023-05-17 03:22:28+00:00,,Sales Tax,False,Missouri,True,{},5.85,2025-08-13 00:34:07.895000+00:00
+txr_1R98BWFCPJnn9IgID53DtVfp,False,2025-04-01 17:01:10+00:00,,Sales Tax,False,California,True,{},11.25,2025-08-13 00:34:07.956000+00:00
+txr_1N8PrKFCPJnn9IgIGyKeLcyt,False,2023-05-16 15:32:18+00:00,,Sales Tax,False,California,True,{},7.875,2025-08-13 00:34:00.576000+00:00
+txr_1N5zVcFCPJnn9IgIQnMOyeN6,False,2023-05-09 22:59:52+00:00,,Sales Tax,False,Washington,True,{},8.0,2025-08-13 00:31:50.817000+00:00
+txr_1N6j3bFCPJnn9IgIIIZ77B0q,False,2023-05-11 23:37:59+00:00,,Sales Tax,False,Colorado,True,{},4.25,2025-08-13 00:34:18.927000+00:00
+txr_1N8RfGFCPJnn9IgIFVu0ovBP,False,2023-05-16 17:27:58+00:00,,Sales Tax,False,Kansas,True,{},8.5,2025-08-13 00:31:35.327000+00:00
+txr_1N6I95FCPJnn9IgI9ZFmQrPF,False,2023-05-10 18:53:51+00:00,,Sales Tax,False,Washington,True,{},8.6,2025-08-13 00:34:07.406000+00:00
+txr_1N6EytFCPJnn9IgIpAEEKZ5z,False,2023-05-10 15:31:07+00:00,,Sales Tax,False,Oklahoma,True,{},6.0,2025-05-11 00:32:19.080000+00:00
+txr_1RNkI7FCPJnn9IgIarONW1Ux,False,2025-05-12 00:32:23+00:00,,VAT,False,Philippines,True,{},12.0,2025-05-12 00:32:23.463000+00:00
+txr_1OB1b4FCPJnn9IgI9ObCBeNo,False,2023-11-10 20:46:34+00:00,,Sales Tax,False,Kansas,True,{},9.0,2025-05-14 00:32:51.713000+00:00
+txr_1OBQ0JFCPJnn9IgIDxkttxyz,False,2023-11-11 22:50:15+00:00,,Sales Tax,False,Mississippi,True,{},7.25,2025-05-14 00:33:05.767000+00:00
+txr_1NmpPwFCPJnn9IgIuqc9m8wg,False,2023-09-05 02:55:04+00:00,,Sales Tax,False,North Dakota,True,{},7.25,2025-05-19 00:32:29.645000+00:00
+txr_1RQHbvFCPJnn9IgIsoKSUuZW,False,2025-05-19 00:31:19+00:00,,Sales Tax,False,Wyoming,True,{},7.0,2025-05-19 00:31:19.172000+00:00
+txr_1PIg0XFCPJnn9IgIJyFx2Cpp,False,2024-05-20 23:52:45+00:00,,Sales Tax,False,Oklahoma,True,{},6.1,2025-05-22 00:32:02.305000+00:00
+txr_1NAJXrFCPJnn9IgIY6Fs8FvC,False,2023-05-21 21:12:03+00:00,,Sales Tax,False,Arkansas,True,{},7.75,2025-05-27 00:30:57.996000+00:00
+txr_1N7M4vFCPJnn9IgI3z8BiwdT,False,2023-05-13 17:17:57+00:00,,Sales Tax,False,Colorado,True,{},7.7,2025-05-28 00:32:35.557000+00:00
+txr_1RK2CUFCPJnn9IgIEEFOZVqG,False,2025-05-01 18:51:14+00:00,,Sales Tax,True,Arkansas,True,{},8.25,2025-06-05 00:31:30.878000+00:00
+txr_1OAva0FCPJnn9IgIuCKALqhP,False,2023-11-10 14:21:04+00:00,,Sales Tax,False,North Dakota,True,{},7.75,2025-06-06 00:32:48.931000+00:00
+txr_1RWIg7FCPJnn9IgIjKiF3Od7,False,2025-06-04 14:52:31+00:00,,Sales Tax,True,Utah,True,{},8.25,2025-06-07 00:33:01.059000+00:00
+txr_1NdvLbFCPJnn9IgIPapQ3wm4,False,2023-08-11 13:25:47+00:00,,Sales Tax,False,Kansas,True,{},6.5,2025-06-09 00:32:49.435000+00:00
+txr_1JPNRnFCPJnn9IgILy61BUdV,False,2021-08-17 08:14:59+00:00,,Sales Tax,False,California,True,{},7.25,2025-06-12 00:31:40.159000+00:00
+txr_1N8VZmFCPJnn9IgIBFP4xYKq,False,2023-05-16 21:38:34+00:00,,Sales Tax,False,Colorado,True,{},4.4,2025-06-14 00:32:29.710000+00:00
+txr_1RanQfFCPJnn9IgIAH5HjgqN,False,2025-06-17 00:31:09+00:00,,Sales Tax,False,Arizona,True,{},8.0,2025-06-17 00:31:09.627000+00:00
+txr_1NhhojFCPJnn9IgIJhfwPTQT,False,2023-08-21 23:47:29+00:00,,Sales Tax,False,Oklahoma,True,{},9.35,2025-06-21 00:32:45.443000+00:00
+txr_1OyFRmFCPJnn9IgIn8htSUxh,False,2024-03-25 15:28:26+00:00,,Sales Tax,False,Utah,True,{},9.05,2025-06-26 00:33:17.193000+00:00
+txr_1RdtkWFCPJnn9IgIOmnrl3QN,False,2025-06-25 13:52:28+00:00,,Sales Tax,False,Missouri,True,{},6.95,2025-06-26 00:33:16.824000+00:00
+txr_1ReQCJFCPJnn9IgIXy1JJVdU,False,2025-06-27 00:31:19+00:00,,Sales Tax,False,Washington,True,{},8.35,2025-06-27 00:31:19.607000+00:00
+txr_1PPD4uFCPJnn9IgIWmExT8eT,False,2024-06-08 00:24:16+00:00,,Sales Tax,False,Colorado,True,{},8.66,2025-06-29 00:32:41.394000+00:00
+txr_1Rf99NFCPJnn9IgIHIXumdxV,False,2025-06-29 00:31:17+00:00,,Sales Tax,False,Oklahoma,True,{},6.8,2025-06-29 00:31:17.535000+00:00
+txr_1Rf99QFCPJnn9IgIBfGwjCGo,False,2025-06-29 00:31:20+00:00,,Sales Tax,True,Arizona,True,{},9.1,2025-06-29 00:31:21.139000+00:00
+txr_1RfVccFCPJnn9IgITUmDt3je,False,2025-06-30 00:30:58+00:00,,Sales Tax,False,Utah,True,{},8.45,2025-06-30 00:30:59.126000+00:00
+txr_1NFPtdFCPJnn9IgIcNlUXD7F,False,2023-06-04 22:59:37+00:00,,Sales Tax,False,Oklahoma,True,{},5.8,2025-07-01 00:34:07.039000+00:00
+txr_1QK1IyFCPJnn9IgIBtXnX0mN,False,2024-11-11 17:21:36+00:00,,Retail Delivery Fee,False,Colorado,True,{},0.0,2025-07-01 00:34:02.743000+00:00
+txr_1QhboOFCPJnn9IgI9wxAYXoy,False,2025-01-15 18:59:32+00:00,,Sales Tax,False,Utah,True,{},8.25,2025-07-03 00:32:54.108000+00:00
+txr_1NCqU4FCPJnn9IgI9M6aWlKI,False,2023-05-28 20:46:36+00:00,,Sales Tax,False,Colorado,True,{},7.4,2025-07-03 00:33:00.053000+00:00
+txr_1RRxGsFCPJnn9IgIIqtnwBYr,False,2025-05-23 15:12:30+00:00,,Sales Tax,True,Georgia,True,{},7.75,2025-07-04 00:31:29.547000+00:00
+txr_1Rhfo6FCPJnn9IgIuALgoFWG,False,2025-07-05 23:47:46+00:00,,Sales Tax,False,Missouri,True,{},4.725,2025-07-06 00:33:01.497000+00:00
+txr_1Ri2xFFCPJnn9IgIrQBIuNZL,False,2025-07-07 00:30:45+00:00,,Sales Tax,False,New Mexico,True,{},8.39,2025-07-07 00:30:45.799000+00:00
+txr_1RiM4xFCPJnn9IgIF1lEny8F,False,2025-07-07 20:55:59+00:00,,Sales Tax,True,Colorado,True,{},4.5,2025-07-08 00:32:54.800000+00:00
+txr_1NHGHOFCPJnn9IgIDCjFrXCZ,False,2023-06-10 01:07:46+00:00,,Sales Tax,False,California,True,{},7.975,2025-07-09 00:32:48.013000+00:00
+txr_1JPNeAFCPJnn9IgIJQaPfxVy,False,2021-08-17 08:27:46+00:00,,Sales Tax,False,Indiana,True,{},7.0,2025-07-12 00:31:42.208000+00:00
+txr_1RjrLfFCPJnn9IgI7I1O8mKY,False,2025-07-12 00:31:27+00:00,,Sales Tax,True,Georgia,True,{},9.0,2025-07-12 00:31:27.653000+00:00
+txr_1RjM0cFCPJnn9IgI9ENqT2EA,False,2025-07-10 15:03:38+00:00,,Sales Tax,False,Colorado,True,{},8.05,2025-07-13 00:33:13.519000+00:00
+txr_1Nhx2XFCPJnn9IgIgMUirvhO,False,2023-08-22 16:02:45+00:00,,Sales Tax,False,Kansas,True,{},9.15,2025-07-17 00:32:57.332000+00:00
+txr_1JPNXmFCPJnn9IgItM5YUAqU,False,2021-08-17 08:21:10+00:00,,Sales Tax,False,Florida,True,{},6.5,2025-07-17 00:31:48.757000+00:00
+txr_1RlBhyFCPJnn9IgITmZoFS1m,False,2025-07-15 16:27:58+00:00,,Sales Tax,True,Ohio,True,{},7.8,2025-07-18 00:32:56.257000+00:00
+txr_1QPCOfFCPJnn9IgIcE9wXNda,False,2024-11-26 00:12:53+00:00,,Sales Tax,False,Oklahoma,True,{},9.995,2025-07-18 00:32:55.831000+00:00
+txr_1Rlj1ZFCPJnn9IgIrh01325v,False,2025-07-17 04:02:25+00:00,,Sales Tax,True,Oklahoma,True,{},9.995,2025-07-18 00:32:55.831000+00:00
+txr_1OWOAtFCPJnn9IgIHDweLG8b,False,2024-01-08 19:07:51+00:00,,Sales Tax,False,Arizona,True,{},10.1,2025-07-19 00:31:44.840000+00:00
+txr_1N6fpIFCPJnn9IgI0bANiGON,False,2023-05-11 20:11:00+00:00,,Sales Tax,False,Nebraska,True,{},7.5,2025-07-20 00:33:12.598000+00:00
+txr_1P5vGVFCPJnn9IgIz0m5HNbJ,False,2024-04-15 19:32:31+00:00,,Sales Tax,False,Minnesota,True,{},9.775,2025-07-22 00:32:58.708000+00:00
+txr_1QjvQwFCPJnn9IgId71D3T3c,False,2025-01-22 04:20:54+00:00,,Sales Tax,False,Missouri,True,{},8.1,2025-07-23 00:33:27.269000+00:00
+txr_1NAMCGFCPJnn9IgIjOfMzmuv,False,2023-05-22 00:01:56+00:00,,Sales Tax,False,Alabama,True,{},7.625,2025-07-23 00:32:02.218000+00:00
+txr_1KDZJLFCPJnn9IgIamj9wrDX,False,2022-01-02 19:01:43+00:00,,Sales Tax,False,Oklahoma,True,{},5.9,2025-07-23 00:31:47.219000+00:00
+txr_1NBPrZFCPJnn9IgIkRWbjwET,False,2023-05-24 22:08:57+00:00,,Sales Tax,False,Kansas,True,{},9.725,2025-07-24 00:31:35.954000+00:00
+txr_1NfBQBFCPJnn9IgIiTqrRUkF,False,2023-08-15 00:47:43+00:00,,Sales Tax,False,Colorado,True,{},6.55,2025-07-24 00:33:24.393000+00:00
+txr_1N5xKoFCPJnn9IgIcue2rlp4,False,2023-05-09 20:40:34+00:00,,Sales Tax,False,California,True,{},9.625,2025-07-26 00:34:40.370000+00:00
+txr_1RopnIFCPJnn9IgIlEqjuLQJ,False,2025-07-25 17:52:32+00:00,,Sales Tax,True,Kansas,True,{},8.25,2025-07-26 00:34:36.091000+00:00
+txr_1N8ag8FCPJnn9IgIZs6M11I0,False,2023-05-17 03:05:28+00:00,,Sales Tax,False,New Mexico,True,{},7.5625,2025-07-27 00:33:33.675000+00:00
+txr_1N9fDHFCPJnn9IgI7wPEHUHT,False,2023-05-20 02:08:07+00:00,,Sales Tax,False,Illinois,True,{},7.75,2025-07-27 00:33:28.844000+00:00
+txr_1NGrZJFCPJnn9IgIjeKaBlCS,False,2023-06-08 22:44:37+00:00,,Sales Tax,False,Colorado,True,{},5.27,2025-07-27 00:33:32.980000+00:00
+txr_1NF0XTFCPJnn9IgIQzuPxst2,False,2023-06-03 19:55:03+00:00,,Sales Tax,False,New York,True,{},8.25,2025-07-29 00:33:27.277000+00:00
+txr_1NePSAFCPJnn9IgIHxESKmx3,False,2023-08-12 21:34:34+00:00,,Sales Tax,False,Colorado,True,{},9.055,2025-07-29 00:33:20.853000+00:00
+txr_1RpyeqFCPJnn9IgIldnIZ9ZO,False,2025-07-28 21:32:32+00:00,,Sales Tax,True,Colorado,True,{},3.75,2025-07-29 00:33:27.115000+00:00
+txr_1Rq1RvFCPJnn9IgIfw90T9t6,False,2025-07-29 00:31:23+00:00,,Sales Tax,True,Georgia,True,{},9.0,2025-07-29 00:31:23.237000+00:00
+txr_1RptGDFCPJnn9IgIfMYv9zkz,False,2025-07-28 15:46:45+00:00,,Sales Tax,True,New Mexico,True,{},7.9375,2025-07-30 00:31:50.076000+00:00
+txr_1Rq3ZqFCPJnn9IgIzHkpumYJ,False,2025-07-29 02:47:42+00:00,,Sales Tax,True,Washington,True,{},10.2,2025-07-30 00:33:18.176000+00:00
+txr_1OG4m3FCPJnn9IgIcqrdBRuf,False,2023-11-24 19:10:47+00:00,,Sales Tax,False,Oklahoma,True,{},5.667,2025-07-31 00:33:39.072000+00:00
+txr_1N83eQFCPJnn9IgIHvIv9F3t,False,2023-05-15 15:49:30+00:00,,Sales Tax,False,Missouri,True,{},6.35,2025-07-31 00:33:39.742000+00:00
+txr_1NJ2kbFCPJnn9IgIWECMU5DB,False,2023-06-14 23:05:17+00:00,,Sales Tax,False,Illinois,True,{},9.0,2025-07-31 00:33:36.152000+00:00
+txr_1N6CeOFCPJnn9IgIF0B33J1b,False,2023-05-10 13:01:48+00:00,,Sales Tax,False,Minnesota,True,{},7.625,2025-07-31 00:33:38.951000+00:00
+txr_1NC1y2FCPJnn9IgIjwSWS8Yt,False,2023-05-26 14:50:10+00:00,,Sales Tax,False,Ohio,True,{},8.0,2025-07-31 00:33:35.225000+00:00
+txr_1OtgqHFCPJnn9IgIktJki448,False,2024-03-13 01:42:53+00:00,,Sales Tax,False,Colorado,True,{},8.05,2025-07-31 00:33:31.436000+00:00
+txr_1RJNz5FCPJnn9IgIOu6nOJy8,False,2025-04-29 23:54:43+00:00,,Sales Tax,False,Oklahoma,True,{},10.499,2025-07-31 00:32:06.568000+00:00
+txr_1NDG2EFCPJnn9IgIUtLqznnp,False,2023-05-30 00:03:34+00:00,,Sales Tax,False,Oklahoma,True,{},4.625,2025-07-31 00:32:01.237000+00:00
+txr_1Qg6K5FCPJnn9IgIzcD6zR7u,False,2025-01-11 15:10:01+00:00,,Sales Tax,False,Louisiana,True,{},5.0,2025-07-31 00:32:01.279000+00:00
+txr_1N6xT7FCPJnn9IgI8mTMpy5m,False,2023-05-12 15:01:17+00:00,,Sales Tax,False,Colorado,True,{},8.6,2025-07-31 00:33:31.737000+00:00
+txr_1Rf9OKFCPJnn9IgII2zi5Xo4,False,2025-06-29 00:46:44+00:00,,Sales Tax,True,Missouri,True,{},8.1,2025-08-01 00:32:08.908000+00:00
+txr_1PZvn7FCPJnn9IgIHtD39ofK,False,2024-07-07 14:10:13+00:00,,Sales Tax,False,Oklahoma,True,{},10.0,2025-08-01 00:34:30.475000+00:00
+txr_1NZCmAFCPJnn9IgIouOVOP6G,False,2023-07-29 13:01:42+00:00,,Sales Tax,False,Illinois,True,{},8.75,2025-05-13 00:34:08.294000+00:00
+txr_1PFQiRFCPJnn9IgIaIT9E3Q1,False,2024-05-12 00:56:39+00:00,,Sales Tax,False,Wisconsin,True,{},6.0,2025-05-13 00:34:06.294000+00:00
+txr_1O5a80FCPJnn9IgIDDlwzFDy,False,2023-10-26 20:26:04+00:00,,Sales Tax,False,California,True,{},7.5,2025-05-17 00:33:21.040000+00:00
+txr_1PH4TxFCPJnn9IgIlOuvG59y,False,2024-05-16 13:36:29+00:00,,Sales Tax,False,Colorado,True,{},8.9,2025-05-21 00:33:19.277000+00:00
+txr_1RTnk4FCPJnn9IgIZ0BVxf4u,False,2025-05-28 17:26:16+00:00,,Sales Tax,True,Kansas,True,{},9.1,2025-05-29 00:32:39.386000+00:00
+txr_1JSmTqFCPJnn9IgIVJPjAUOt,False,2021-08-26 17:35:10+00:00,,Sales Tax,False,Hawaii,True,{},4.5,2025-06-02 00:33:14.869000+00:00
+txr_1PYDruFCPJnn9IgI5902zKn0,False,2024-07-02 21:04:06+00:00,,Sales Tax,False,Washington,True,{},9.3,2025-06-06 00:32:48.572000+00:00
+txr_1PFT5SFCPJnn9IgIeUDNZxxQ,False,2024-05-12 03:28:34+00:00,,Sales Tax,False,Alabama,True,{},7.5,2025-06-13 00:33:02.621000+00:00
+txr_1POIiIFCPJnn9IgIycXdXVdN,False,2024-06-05 12:13:10+00:00,,Sales Tax,False,Colorado,True,{},8.96,2025-06-14 00:31:29.079000+00:00
+txr_1RL8laFCPJnn9IgI05Xis5d9,False,2025-05-04 20:04:02+00:00,,Sales Tax,True,North Dakota,True,{},6.5,2025-06-14 00:31:16.275000+00:00
+txr_1N8PzGFCPJnn9IgIZJVt5uYQ,False,2023-05-16 15:40:30+00:00,,Sales Tax,False,Wyoming,True,{},5.0,2025-06-14 00:32:31.262000+00:00
+txr_1NzL2NFCPJnn9IgIu0d9U2GD,False,2023-10-09 15:06:27+00:00,,Sales Tax,False,Arkansas,True,{},9.875,2025-06-14 00:32:28.786000+00:00
+txr_1Nh2YrFCPJnn9IgIGsV5nvst,False,2023-08-20 03:44:21+00:00,,Sales Tax,False,Tennessee,True,{},12.25,2025-06-15 00:32:40.397000+00:00
+txr_1RP8UzFCPJnn9IgI9LUGUEpN,False,2025-05-15 20:35:25+00:00,,Sales Tax,True,Kansas,True,{},9.975,2025-06-20 00:31:25.037000+00:00
+txr_1Nb8eHFCPJnn9IgIpgKJefFj,False,2023-08-03 21:01:33+00:00,,Sales Tax,False,Kansas,True,{},9.25,2025-06-20 00:32:49.524000+00:00
+txr_1NAZjEFCPJnn9IgI6IEprdts,False,2023-05-22 14:28:52+00:00,,Sales Tax,False,Colorado,True,{},6.9,2025-06-22 00:32:24.558000+00:00
+txr_1JUwnSFCPJnn9IgIQ0gF7H7B,False,2021-09-01 17:00:22+00:00,,Sales Tax,False,Louisiana,True,{},8.95,2025-06-22 00:31:15.633000+00:00
+txr_1O6uo6FCPJnn9IgICEJcvOrP,False,2023-10-30 12:43:02+00:00,,Sales Tax,False,Oklahoma,True,{},5.8,2025-06-23 00:32:42.444000+00:00
+txr_1NAMpvFCPJnn9IgIW89TnS8X,False,2023-05-22 00:42:55+00:00,,Sales Tax,False,Colorado,True,{},6.4,2025-06-23 00:32:40.911000+00:00
+txr_1NE2XnFCPJnn9IgIFEj4BlXq,False,2023-06-01 03:51:23+00:00,,Sales Tax,False,New Mexico,True,{},7.125,2025-06-23 00:31:34.794000+00:00
+txr_1OHI3nFCPJnn9IgIPm00fC9n,False,2023-11-28 03:34:07+00:00,,Sales Tax,False,California,True,{},9.875,2025-06-26 00:33:17.192000+00:00
+txr_1Re3ixFCPJnn9IgI10RXAJlt,False,2025-06-26 00:31:31+00:00,,Sales Tax,False,Oklahoma,True,{},10.05,2025-06-26 00:31:32.110000+00:00
+txr_1NGLAiFCPJnn9IgIjHjnWNaG,False,2023-06-07 12:09:04+00:00,,Sales Tax,False,Oklahoma,True,{},5.917,2025-06-28 00:32:29.787000+00:00
+txr_1OO5FwFCPJnn9IgIvIYJl9uF,False,2023-12-16 21:18:44+00:00,,Sales Tax,False,Arkansas,True,{},9.375,2025-06-29 00:32:37.208000+00:00
+txr_1Rf98pFCPJnn9IgI9jtobz1u,False,2025-06-29 00:30:43+00:00,,Sales Tax,False,Oklahoma,True,{},6.8,2025-06-29 00:30:43.866000+00:00
+txr_1Q3joIFCPJnn9IgIWJ83S2eS,False,2024-09-27 19:26:38+00:00,,Sales Tax,False,Missouri,True,{},7.85,2025-06-30 00:32:24.551000+00:00
+txr_1RfVcIFCPJnn9IgIxGMF8qtO,False,2025-06-30 00:30:38+00:00,,Sales Tax,False,Arizona,True,{},8.0,2025-06-30 00:30:38.149000+00:00
+txr_1QWh8IFCPJnn9IgIqB7j422n,False,2024-12-16 16:26:58+00:00,,Sales Tax,False,Arizona,True,{},8.8,2025-07-03 00:33:09.356000+00:00
+txr_1RhgULFCPJnn9IgIWi4fuY0O,False,2025-07-06 00:31:25+00:00,,Sales Tax,True,Oklahoma,True,{},10.05,2025-07-06 00:31:25.445000+00:00
+txr_1NFQgOFCPJnn9IgIn7dL6Ksw,False,2023-06-04 23:50:00+00:00,,Sales Tax,False,Colorado,True,{},5.9,2025-07-10 00:32:48.317000+00:00
+txr_1NDoBbFCPJnn9IgINDsBcGdS,False,2023-05-31 12:31:31+00:00,,Sales Tax,False,Illinois,True,{},7.35,2025-07-10 00:32:45.207000+00:00
+txr_1RdGvRFCPJnn9IgIe2byEiNC,False,2025-06-23 20:25:09+00:00,,Sales Tax,True,Utah,True,{},7.55,2025-07-12 00:33:05.733000+00:00
+txr_1RjoCjFCPJnn9IgIBBZUUETh,False,2025-07-11 21:10:01+00:00,,Sales Tax,False,New York,True,{},8.5,2025-07-12 00:33:14.956000+00:00
+txr_1OUGN0FCPJnn9IgIK5Qjfmyy,False,2024-01-02 22:23:34+00:00,,Sales Tax,False,California,True,{},9.625,2025-07-14 00:32:56.712000+00:00
+txr_1OgruuFCPJnn9IgIumFNo23K,False,2024-02-06 16:54:40+00:00,,Sales Tax,False,Oklahoma,True,{},9.5,2025-07-15 00:32:51.321000+00:00
+txr_1N5s5XFCPJnn9IgIyDkU4B7W,False,2023-05-09 15:04:27+00:00,,Sales Tax,False,Nevada,True,{},8.265,2025-07-15 00:32:51.186000+00:00
+txr_1RlNDhFCPJnn9IgI0wiidVOu,False,2025-07-16 04:45:29+00:00,,Sales Tax,True,Missouri,True,{},7.725,2025-07-17 00:32:56.906000+00:00
+txr_1RlfjOFCPJnn9IgIcIsJwdGL,False,2025-07-17 00:31:26+00:00,,Sales Tax,True,Illinois,True,{},7.85,2025-07-17 00:31:26.190000+00:00
+txr_1Qf3OHFCPJnn9IgIEMvcAyuL,False,2025-01-08 17:50:01+00:00,,Sales Tax,False,Colorado,True,{},8.1,2025-07-19 00:33:08.789000+00:00
+txr_1RmOgBFCPJnn9IgInEYn4yPt,False,2025-07-19 00:31:07+00:00,,Sales Tax,False,Utah,True,{},9.55,2025-07-19 00:31:07.705000+00:00
+txr_1NDKPjFCPJnn9IgIX1liiKWU,False,2023-05-30 04:44:07+00:00,,Sales Tax,False,California,True,{},7.875,2025-07-21 00:32:58.582000+00:00
+txr_1NRQt6FCPJnn9IgItM5gNNQd,False,2023-07-08 02:28:44+00:00,,Sales Tax,False,Oklahoma,True,{},8.417,2025-07-21 00:32:53.235000+00:00
+txr_1N6d9eFCPJnn9IgIJvX6Gpig,False,2023-05-11 17:19:50+00:00,,Sales Tax,False,Colorado,True,{},8.715,2025-07-21 00:32:55.307000+00:00
+txr_1NqxEOFCPJnn9IgI1oVBhxml,False,2023-09-16 12:04:12+00:00,,Sales Tax,False,Alabama,True,{},7.25,2025-07-22 00:33:01.486000+00:00
+txr_1N7BtjFCPJnn9IgI50eOFhBQ,False,2023-05-13 06:25:43+00:00,,Sales Tax,False,Ohio,True,{},7.0,2025-07-22 00:33:01.924000+00:00
+txr_1NEax2FCPJnn9IgIFKRb9Sho,False,2023-06-02 16:35:44+00:00,,Sales Tax,False,Oklahoma,True,{},5.875,2025-07-22 00:32:56.215000+00:00
+txr_1RZJjBFCPJnn9IgIp2gLQ7Rk,False,2025-06-12 22:36:09+00:00,,Sales Tax,True,Utah,True,{},6.35,2025-07-23 00:33:18.010000+00:00
+txr_1NAPyBFCPJnn9IgIZDT6qhbm,False,2023-05-22 04:03:39+00:00,,Sales Tax,False,Missouri,True,{},6.1,2025-07-23 00:33:18.129000+00:00
+txr_1RGpMxFCPJnn9IgIDdOwbqlW,False,2025-04-22 22:32:47+00:00,,Sales Tax,False,Ohio,True,{},8.25,2025-07-23 00:33:27.268000+00:00
+txr_1RMN8dFCPJnn9IgIifl5vsBL,False,2025-05-08 05:36:55+00:00,,Sales Tax,True,Washington,True,{},8.4,2025-07-23 00:33:26.954000+00:00
+txr_1PPd6uFCPJnn9IgII6RqTK6i,False,2024-06-09 04:12:04+00:00,,Sales Tax,False,Arizona,True,{},9.7,2025-07-24 00:33:17.618000+00:00
+txr_1QGJFJFCPJnn9IgI6GHDkTAb,False,2024-11-01 11:42:29+00:00,,Sales Tax,False,Missouri,True,{},7.725,2025-07-24 00:33:24.070000+00:00
+txr_1Ro95lFCPJnn9IgICS5Wv126,False,2025-07-23 20:16:45+00:00,,Sales Tax,False,Arizona,True,{},9.386,2025-07-24 00:33:24.391000+00:00
+txr_1RoCF1FCPJnn9IgIzKtk1yoy,False,2025-07-23 23:38:31+00:00,,Sales Tax,True,Wisconsin,True,{},7.9,2025-07-24 00:33:23.500000+00:00
+txr_1N8UqSFCPJnn9IgI2QNuguWA,False,2023-05-16 20:51:44+00:00,,Sales Tax,False,New Mexico,True,{},7.3125,2025-07-25 00:33:09.189000+00:00
+txr_1OLurXFCPJnn9IgIcU11ma3l,False,2023-12-10 21:48:35+00:00,,Sales Tax,False,Arizona,True,{},9.9,2025-07-25 00:33:17.246000+00:00
+txr_1N6jPNFCPJnn9IgIm1mM65Ue,False,2023-05-12 00:00:29+00:00,,Sales Tax,False,Colorado,True,{},4.65,2025-07-25 00:33:17.248000+00:00
+txr_1RdoRAFCPJnn9IgIK8kAdBtw,False,2025-06-25 08:12:08+00:00,,,True,Guernsey,True,{},0.0,2025-07-26 00:34:31.157000+00:00
+txr_1NZIb4FCPJnn9IgIeuzTbS7D,False,2023-07-29 19:14:38+00:00,,Sales Tax,False,Wyoming,True,{},6.0,2025-07-26 00:34:38.976000+00:00
+txr_1R9zMyFCPJnn9IgIOJlKF8od,False,2025-04-04 01:48:32+00:00,,Sales Tax,False,Oklahoma,True,{},5.999,2025-07-26 00:34:36.097000+00:00
+txr_1RonZnFCPJnn9IgIJlwCAkai,False,2025-07-25 15:30:27+00:00,,Sales Tax,False,Utah,True,{},9.55,2025-07-26 00:34:34.132000+00:00
+txr_1NRPQsFCPJnn9IgI0c0EMl1J,False,2023-07-08 00:55:30+00:00,,Sales Tax,False,Kansas,True,{},9.5,2025-07-27 00:33:28.899000+00:00
+txr_1NCUVAFCPJnn9IgIINEPibje,False,2023-05-27 21:18:16+00:00,,Sales Tax,False,Missouri,True,{},9.7,2025-07-28 00:33:00.559000+00:00
+txr_1NaQ4LFCPJnn9IgIPg7qx56G,False,2023-08-01 21:25:29+00:00,,Sales Tax,False,Oklahoma,True,{},8.75,2025-07-28 00:33:01.018000+00:00
+txr_1N707OFCPJnn9IgI3cf5dqKi,False,2023-05-12 17:51:02+00:00,,Sales Tax,False,Missouri,True,{},5.95,2025-07-28 00:33:00.560000+00:00
+txr_1N8xlBFCPJnn9IgILmtfBpvA,False,2023-05-18 03:44:13+00:00,,Sales Tax,False,California,True,{},8.875,2025-07-29 00:33:27.114000+00:00
+txr_1PWn4GFCPJnn9IgIBCAvqa6f,False,2024-06-28 22:14:56+00:00,,Sales Tax,False,Oklahoma,True,{},9.85,2025-07-29 00:33:27.110000+00:00
+txr_1RpylFFCPJnn9IgIttQuXQZ2,False,2025-07-28 21:39:09+00:00,,Sales Tax,True,California,True,{},8.875,2025-07-29 00:33:27.114000+00:00
+txr_1RdMzoFCPJnn9IgIwpfjAOA1,False,2025-06-24 02:54:04+00:00,,Sales Tax,True,Colorado,True,{},8.15,2025-07-30 00:31:42.907000+00:00
+txr_1NXyqIFCPJnn9IgIR1FmAMc3,False,2023-07-26 03:56:54+00:00,,Sales Tax,False,New Mexico,True,{},7.9375,2025-07-30 00:33:39.602000+00:00
+txr_1RjM0cFCPJnn9IgIytst46dv,False,2025-07-10 15:03:38+00:00,,Sales Tax,True,Colorado,True,{},8.05,2025-07-31 00:33:31.436000+00:00
+txr_1RnQaVFCPJnn9IgIjwan4t25,False,2025-07-21 20:45:31+00:00,,Sales Tax,True,Washington,True,{},8.5,2025-07-31 00:33:39.738000+00:00
+txr_1NSKDQFCPJnn9IgIfjddiCwy,False,2023-07-10 13:33:24+00:00,,Sales Tax,False,Arkansas,True,{},8.25,2025-07-31 00:33:34.940000+00:00
+txr_1OKYv3FCPJnn9IgIKu1aBZso,False,2023-12-07 04:10:37+00:00,,Sales Tax,False,North Dakota,True,{},7.0,2025-07-31 00:33:35.888000+00:00
+txr_1RZcp2FCPJnn9IgIeQlX8B3r,False,2025-06-13 18:59:28+00:00,,Sales Tax,False,Washington,True,{},7.5,2025-08-01 00:34:40.343000+00:00
+txr_1RWLPqFCPJnn9IgI2T6f6EyP,False,2025-06-04 17:47:54+00:00,,Sales Tax,True,South Carolina,True,{},8.0,2025-08-01 00:32:04.128000+00:00
+txr_1QkXdAFCPJnn9IgI2tSAIBu1,False,2025-01-23 21:08:04+00:00,,Sales Tax,False,Louisiana,True,{},8.5,2025-08-01 00:31:54.683000+00:00
+txr_1NDqeVFCPJnn9IgIG3z3fnW2,False,2023-05-31 15:09:31+00:00,,Sales Tax,False,Arkansas,True,{},7.625,2025-08-01 00:34:27.043000+00:00
+txr_1NfC5LFCPJnn9IgIZplHFs5q,False,2023-08-15 01:30:15+00:00,,Sales Tax,False,Illinois,True,{},7.5,2025-08-01 00:34:24.033000+00:00
+txr_1N8ogZFCPJnn9IgIaBRqHyrc,False,2023-05-17 18:02:51+00:00,,Sales Tax,False,Vermont,True,{},6.0,2025-08-01 00:31:03.434000+00:00
+txr_1N7STnFCPJnn9IgIQWx1XBYm,False,2023-05-14 00:08:03+00:00,,Sales Tax,False,Kansas,True,{},9.1,2025-08-01 00:34:24.153000+00:00
+txr_1RSJazFCPJnn9IgIdNofUCqP,False,2025-05-24 15:02:45+00:00,,Sales Tax,True,Arizona,True,{},8.1,2025-08-01 00:31:32.040000+00:00
+txr_1Rr5WEFCPJnn9IgITFPBXJji,False,2025-07-31 23:04:14+00:00,,Sales Tax,True,Louisiana,True,{},10.99,2025-08-01 00:34:30.899000+00:00
+txr_1Rr6t2FCPJnn9IgIeKYBJGmu,False,2025-08-01 00:31:52+00:00,,Sales Tax,True,Ohio,True,{},7.0,2025-08-01 00:31:52.388000+00:00
+txr_1RU6z9FCPJnn9IgIJm1FJm3t,False,2025-05-29 13:59:07+00:00,,Sales Tax,False,Texas,True,{},7.0,2025-08-02 00:31:59.461000+00:00
+txr_1RRQaRFCPJnn9IgIaDTAkbjI,False,2025-05-22 04:18:31+00:00,,Sales Tax,True,Colorado,True,{},8.35,2025-08-02 00:33:08.602000+00:00
+txr_1RRQaRFCPJnn9IgID27jFSSG,False,2025-05-22 04:18:31+00:00,,Sales Tax,False,Colorado,True,{},8.35,2025-08-02 00:33:08.602000+00:00
+txr_1QSX45FCPJnn9IgIEjPYUDb2,False,2024-12-05 04:53:25+00:00,,Sales Tax,False,Arizona,True,{},9.2,2025-08-02 00:37:32.316000+00:00
+txr_1NB2bNFCPJnn9IgIsLxQgkPx,False,2023-05-23 21:18:41+00:00,,Sales Tax,False,Arizona,True,{},5.6,2025-08-02 00:32:25.783000+00:00
+txr_1RSjVjFCPJnn9IgIz9rcRvfV,False,2025-05-25 18:43:03+00:00,,Sales Tax,False,Arizona,True,{},5.6,2025-08-02 00:32:25.783000+00:00
+txr_1RKLRrFCPJnn9IgIC2y3BGyH,False,2025-05-02 15:24:23+00:00,,Sales Tax,True,New York,True,{},7.0,2025-08-02 00:33:06.089000+00:00
+txr_1RWM4dFCPJnn9IgI4r2j95TY,False,2025-06-04 18:30:03+00:00,,Sales Tax,True,Missouri,True,{},9.013,2025-08-02 00:33:02.550000+00:00
+txr_1RXs0bFCPJnn9IgInwAaNwtr,False,2025-06-08 22:48:09+00:00,,Sales Tax,True,Washington,True,{},9.9,2025-08-02 00:32:12.719000+00:00
+txr_1OnpPsFCPJnn9IgIgzYvGHYz,False,2024-02-25 21:39:24+00:00,,Sales Tax,False,New York,True,{},7.0,2025-08-02 00:33:06.089000+00:00
+txr_1RLRq5FCPJnn9IgIUKrJMnBQ,False,2025-05-05 16:25:57+00:00,,Sales Tax,True,Washington,True,{},10.5,2025-08-02 00:32:59.830000+00:00
+txr_1NB5PIFCPJnn9IgIA2j07tT3,False,2023-05-24 00:18:24+00:00,,Sales Tax,False,Ohio,True,{},7.75,2025-08-02 00:33:17.134000+00:00
+txr_1RZCJRFCPJnn9IgIfNGvf9IJ,False,2025-06-12 14:41:05+00:00,,Sales Tax,True,Utah,True,{},6.9,2025-08-02 00:32:21.297000+00:00
+txr_1RTyAHFCPJnn9IgI4JOZufHF,False,2025-05-29 04:34:01+00:00,,Sales Tax,True,Louisiana,True,{},9.0,2025-08-02 00:31:58.788000+00:00
+txr_1RPAK9FCPJnn9IgINfIujJtY,False,2025-05-15 22:32:21+00:00,,Sales Tax,True,Arizona,True,{},6.3,2025-08-02 00:33:19.156000+00:00
+txr_1OBlDfFCPJnn9IgI2tYimxU6,False,2023-11-12 21:29:27+00:00,,Sales Tax,False,Colorado,True,{},4.0,2025-08-02 00:37:20.160000+00:00
+txr_1NE3mBFCPJnn9IgIG7tFJ2wM,False,2023-06-01 05:10:19+00:00,,Sales Tax,True,Georgia,True,{},6.0,2025-08-02 00:36:54.065000+00:00
+txr_1N8NqcFCPJnn9IgIXkmjhNnk,False,2023-05-16 13:23:26+00:00,,Sales Tax,False,Kansas,True,{},9.125,2025-08-02 00:37:23.955000+00:00
+txr_1PBdG3FCPJnn9IgIeQ97L1og,False,2024-05-01 13:31:39+00:00,,Sales Tax,False,Oklahoma,True,{},9.875,2025-08-02 00:36:58.034000+00:00
+txr_1NAeT2FCPJnn9IgIZoq83trV,False,2023-05-22 19:32:28+00:00,,Sales Tax,False,Alaska,True,{},6.0,2025-08-02 00:36:54.344000+00:00
+txr_1NfmrAFCPJnn9IgI9wDmuEPe,False,2023-08-16 16:46:04+00:00,,Sales Tax,False,Illinois,True,{},8.35,2025-08-03 00:33:36.412000+00:00
+txr_1NEbqOFCPJnn9IgIbIgTBzsx,False,2023-06-02 17:32:56+00:00,,Sales Tax,False,Oklahoma,True,{},10.25,2025-08-03 00:33:40.198000+00:00
+txr_1NC4NaFCPJnn9IgIN78xjmBz,False,2023-05-26 17:24:42+00:00,,Sales Tax,False,Alaska,True,{},7.85,2025-08-03 00:33:42.859000+00:00
+txr_1RMJIqFCPJnn9IgIcLQzMuft,False,2025-05-08 01:31:12+00:00,,Sales Tax,True,Missouri,True,{},5.6,2025-08-03 00:33:40.195000+00:00
+txr_1RUyyFFCPJnn9IgIQSKN2sfd,False,2025-05-31 23:37:47+00:00,,Sales Tax,True,Washington,True,{},9.8,2025-08-03 00:31:51.612000+00:00
+txr_1RrV2fFCPJnn9IgIzLIjF7lO,False,2025-08-02 02:19:25+00:00,,Sales Tax,True,Colorado,True,{},8.685,2025-08-03 00:33:36.411000+00:00
+txr_1RrVTSFCPJnn9IgI3ItPdzV6,False,2025-08-02 02:47:06+00:00,,Sales Tax,True,Oklahoma,True,{},9.583,2025-08-03 00:33:35.522000+00:00
+txr_1RJKTOFCPJnn9IgIX97DZujZ,False,2025-04-29 20:09:46+00:00,,Sales Tax,True,Washington,True,{},9.5,2025-08-04 00:33:08.996000+00:00
+txr_1OCNAlFCPJnn9IgIvXJynbpr,False,2023-11-14 14:00:59+00:00,,Sales Tax,False,Colorado,True,{},8.4,2025-08-04 00:33:09.846000+00:00
+txr_1RUdXMFCPJnn9IgIGUGNXXYa,False,2025-05-31 00:44:36+00:00,,Sales Tax,True,Colorado,True,{},6.9,2025-08-04 00:31:29.110000+00:00
+txr_1Rs9XhFCPJnn9IgIkT8RA2hP,False,2025-08-03 21:34:09+00:00,,Sales Tax,True,Missouri,True,{},7.475,2025-08-04 00:33:16.483000+00:00
+txr_1RIaQLFCPJnn9IgI7uYsQQ2C,False,2025-04-27 18:59:33+00:00,,Sales Tax,False,Colorado,True,{},8.7,2025-08-05 00:34:26.392000+00:00
+txr_1PXvK7FCPJnn9IgIgUxcDkTF,False,2024-07-02 01:15:59+00:00,,Sales Tax,False,Minnesota,True,{},8.625,2025-08-05 00:34:18.303000+00:00
+txr_1O9w6eFCPJnn9IgIe7pmrHB7,False,2023-11-07 20:42:40+00:00,,Sales Tax,False,Arizona,True,{},9.1,2025-08-05 00:34:36.467000+00:00
+txr_1RpM6UFCPJnn9IgIKYudIBd0,False,2025-07-27 04:22:30+00:00,,Sales Tax,True,Alabama,True,{},6.75,2025-08-05 00:34:18.286000+00:00
+txr_1RUYXZFCPJnn9IgIFcJ2pBFS,False,2025-05-30 19:24:29+00:00,,,True,Delaware,True,{},0.0,2025-08-06 00:31:41.619000+00:00
+txr_1N6iKxFCPJnn9IgIgTLwoREE,False,2023-05-11 22:51:51+00:00,,Sales Tax,False,Illinois,True,{},7.35,2025-08-07 00:31:36.640000+00:00
+txr_1ReJIiFCPJnn9IgI1hRvluvL,False,2025-06-26 17:09:28+00:00,,Sales Tax,True,Louisiana,True,{},10.75,2025-08-07 00:31:44.452000+00:00
+txr_1PidBlFCPJnn9IgIlgLGfjUm,False,2024-07-31 14:07:37+00:00,,Sales Tax,False,Arizona,True,{},10.0,2025-08-07 00:34:02.825000+00:00
+txr_1NDG2HFCPJnn9IgIANz6cnDZ,False,2023-05-30 00:03:37+00:00,,Sales Tax,False,Missouri,True,{},7.225,2025-08-07 00:33:58.148000+00:00
+txr_1O1uKNFCPJnn9IgIfiRdkx7g,False,2023-10-16 17:11:39+00:00,,Sales Tax,False,Oklahoma,True,{},5.75,2025-08-07 00:33:58.145000+00:00
+txr_1RZaBcFCPJnn9IgI7nClgt8X,False,2025-06-13 16:10:36+00:00,,Sales Tax,True,Missouri,True,{},6.225,2025-08-07 00:31:18.181000+00:00
+txr_1ReJIiFCPJnn9IgISLkJo8iY,False,2025-06-26 17:09:28+00:00,,Sales Tax,False,Louisiana,True,{},10.75,2025-08-07 00:31:44.452000+00:00
+txr_1NuHODFCPJnn9IgIltKMNSrT,False,2023-09-25 16:12:05+00:00,,Sales Tax,False,Louisiana,True,{},10.0,2025-08-07 00:31:46.881000+00:00
+txr_1N8tNSFCPJnn9IgI8sUGPlfd,False,2023-05-17 23:03:26+00:00,,Sales Tax,False,Colorado,True,{},7.53,2025-08-07 00:34:05.390000+00:00
+txr_1O5e5GFCPJnn9IgIze8vP67A,False,2023-10-27 00:39:30+00:00,,Sales Tax,False,Arizona,True,{},6.3,2025-08-07 00:31:47.247000+00:00
+txr_1NFnJzFCPJnn9IgIYomfNAP7,False,2023-06-06 00:00:23+00:00,,Sales Tax,False,Kansas,True,{},7.0,2025-08-07 00:32:11.401000+00:00
+txr_1RtFBnFCPJnn9IgIdr3f4BLO,False,2025-08-06 21:48:03+00:00,,Sales Tax,True,Idaho,True,{},1.0,2025-08-07 00:34:05.787000+00:00
+txr_1Ra2xoFCPJnn9IgIrdCKYxiC,False,2025-06-14 22:54:16+00:00,,Sales Tax,True,Arizona,True,{},6.35,2025-08-08 00:30:59.585000+00:00
+txr_1RUZjUFCPJnn9IgIRBNTxeqk,False,2025-05-30 20:40:52+00:00,,Sales Tax,False,Louisiana,True,{},10.5,2025-08-08 00:33:55.432000+00:00
+txr_1N894nFCPJnn9IgIghkg3SWr,False,2023-05-15 21:37:05+00:00,,Sales Tax,False,Washington,True,{},7.7,2025-08-08 00:33:40.775000+00:00
+txr_1N6ixfFCPJnn9IgIGrtHxlYP,False,2023-05-11 23:31:51+00:00,,Sales Tax,False,Oklahoma,True,{},5.313,2025-08-08 00:33:41.462000+00:00
+txr_1QHAlHFCPJnn9IgIugc0KzLo,False,2024-11-03 20:51:03+00:00,,Retail Delivery Fee,False,Minnesota,True,{},0.0,2025-08-08 00:33:45.035000+00:00
+txr_1N98IKFCPJnn9IgIrB3VkBty,False,2023-05-18 14:59:08+00:00,,Sales Tax,False,Illinois,True,{},8.0,2025-08-08 00:33:39.428000+00:00
+txr_1QdiayFCPJnn9IgIXJkmfcIk,False,2025-01-05 01:25:36+00:00,,Sales Tax,False,California,True,{},8.975,2025-08-08 00:30:54.875000+00:00
+txr_1N64lXFCPJnn9IgIiiS2V0Ud,False,2023-05-10 04:36:39+00:00,,Sales Tax,False,Missouri,True,{},7.85,2025-08-08 00:33:37.800000+00:00
+txr_1PMvIoFCPJnn9IgI3QeYBIqv,False,2024-06-01 17:01:10+00:00,,Sales Tax,False,Colorado,True,{},3.87,2025-08-08 00:33:45.058000+00:00
+txr_1NEEvQFCPJnn9IgI22RV2Wms,False,2023-06-01 17:04:36+00:00,,Sales Tax,False,Arkansas,True,{},6.875,2025-08-08 00:33:38.035000+00:00
+txr_1RtKe8FCPJnn9IgI8gYlxt1b,False,2025-08-07 03:37:40+00:00,,Sales Tax,True,Colorado,True,{},8.13,2025-08-08 00:33:37.594000+00:00
+txr_1RtKe8FCPJnn9IgIYjHaRNQ4,False,2025-08-07 03:37:40+00:00,,Sales Tax,False,Colorado,True,{},8.13,2025-08-08 00:33:52.744000+00:00
+txr_1NAkIMFCPJnn9IgI599bNdhl,False,2023-05-23 01:45:50+00:00,,Sales Tax,False,Oklahoma,True,{},8.975,2025-08-09 00:33:38.419000+00:00
+txr_1RjBY3FCPJnn9IgIpfUHzrdH,False,2025-07-10 03:53:27+00:00,,Sales Tax,True,California,True,{},10.75,2025-08-09 00:33:45.257000+00:00
+txr_1N7SOAFCPJnn9IgIAkMREYqS,False,2023-05-14 00:02:14+00:00,,Sales Tax,False,Arizona,True,{},6.43,2025-08-09 00:31:38.970000+00:00
+txr_1QCLa7FCPJnn9IgICaaexkXF,False,2024-10-21 13:23:35+00:00,,Sales Tax,False,Alabama,True,{},5.0,2025-08-09 00:31:38.925000+00:00
+txr_1RKOvoFCPJnn9IgI4lPOjIpj,False,2025-05-02 19:07:32+00:00,,Sales Tax,True,Alabama,True,{},5.0,2025-08-09 00:31:38.925000+00:00
+txr_1NAOv8FCPJnn9IgIfOFiErNa,False,2023-05-22 02:56:26+00:00,,Sales Tax,False,Mississippi,True,{},7.0,2025-08-09 00:33:38.411000+00:00
+txr_1N6N61FCPJnn9IgI2z5wJyb9,False,2023-05-11 00:11:01+00:00,,Sales Tax,False,Alabama,True,{},7.0,2025-08-09 00:33:43.810000+00:00
+txr_1RmOBxFCPJnn9IgIW5QtDHHh,False,2025-07-18 23:59:53+00:00,,Sales Tax,True,West Virginia,True,{},7.0,2025-08-09 00:33:45.258000+00:00
+txr_1OTorGFCPJnn9IgIbmN21K9i,False,2024-01-01 17:00:58+00:00,,Sales Tax,False,Wisconsin,True,{},7.9,2025-08-09 00:31:06.981000+00:00
+txr_1N9vSiFCPJnn9IgIZ37kkyiO,False,2023-05-20 19:29:08+00:00,,Sales Tax,False,Oklahoma,True,{},8.25,2025-08-09 00:33:38.041000+00:00
+txr_1QdhMjFCPJnn9IgIGmebmmMZ,False,2025-01-05 00:06:49+00:00,,Sales Tax,False,Utah,True,{},7.05,2025-08-09 00:33:44.633000+00:00
+txr_1N8NvwFCPJnn9IgIlUKZt0jz,False,2023-05-16 13:28:56+00:00,,Sales Tax,False,Missouri,True,{},8.725,2025-08-09 00:33:37.847000+00:00
+txr_1Qdjh1FCPJnn9IgI35SGQIAO,False,2025-01-05 02:35:55+00:00,,Sales Tax,False,Louisiana,True,{},10.99,2025-08-09 00:33:43.969000+00:00
+txr_1N6ceBFCPJnn9IgICyg1ZcnA,False,2023-05-11 16:47:19+00:00,,Sales Tax,False,Kansas,True,{},7.85,2025-08-09 00:33:45.253000+00:00
+txr_1N81JGFCPJnn9IgIAy045VUc,False,2023-05-15 13:19:30+00:00,,Sales Tax,False,Arkansas,True,{},9.375,2025-08-09 00:31:34.601000+00:00
+txr_1N6yA8FCPJnn9IgI0aIbAXkJ,False,2023-05-12 15:45:44+00:00,,Sales Tax,False,Missouri,True,{},6.225,2025-08-09 00:31:33.326000+00:00
+txr_1ObWsmFCPJnn9IgIgRr2xKH8,False,2024-01-22 23:26:24+00:00,,Sales Tax,False,Colorado,True,{},2.5,2025-08-09 00:33:39.443000+00:00
+txr_1RaeItFCPJnn9IgIJSRGDZ8m,False,2025-06-16 14:46:31+00:00,,Sales Tax,True,Colorado,True,{},7.96,2025-08-09 00:33:38.039000+00:00
+txr_1RthgiFCPJnn9IgIASZ6CvD4,False,2025-08-08 04:13:52+00:00,,Sales Tax,True,Missouri,True,{},8.725,2025-08-09 00:33:37.847000+00:00
+txr_1RtnmGFCPJnn9IgIHPkAhY4b,False,2025-08-08 10:44:00+00:00,,,True,Armed Forces Europe,True,{},0.0,2025-08-09 00:33:39.435000+00:00
+txr_1OO2jzFCPJnn9IgI2B5sqCeU,False,2023-12-16 18:37:35+00:00,,Sales Tax,False,Missouri,True,{},9.013,2025-08-10 00:33:30.266000+00:00
+txr_1RgbWqFCPJnn9IgIbAUZTgjA,False,2025-07-03 01:01:32+00:00,,Sales Tax,True,Minnesota,True,{},8.525,2025-08-10 00:31:33.921000+00:00
+txr_1RNEofFCPJnn9IgIax4npla0,False,2025-05-10 14:55:53+00:00,,Sales Tax,True,Illinois,True,{},9.0,2025-08-10 00:31:34.960000+00:00
+txr_1NDy0AFCPJnn9IgIIPjaFHNf,False,2023-05-31 23:00:22+00:00,,Sales Tax,False,Missouri,True,{},9.013,2025-08-10 00:33:30.266000+00:00
+txr_1Rp7tkFCPJnn9IgIzLntmW3c,False,2025-07-26 13:12:24+00:00,,Sales Tax,True,Missouri,True,{},6.975,2025-08-10 00:33:25.086000+00:00
+txr_1RipEiFCPJnn9IgIcsuBlQcd,False,2025-07-09 04:04:00+00:00,,Sales Tax,False,Washington,True,{},8.35,2025-08-10 00:33:24.415000+00:00
+txr_1Pi3wDFCPJnn9IgIx6wK7cOd,False,2024-07-30 00:29:13+00:00,,Sales Tax,False,Alabama,True,{},6.0,2025-08-10 00:33:38.343000+00:00
+txr_1RLXOkFCPJnn9IgIiY5slkrA,False,2025-05-05 22:22:06+00:00,,Sales Tax,True,New York,True,{},8.125,2025-08-10 00:31:32.219000+00:00
+txr_1RWQzCFCPJnn9IgItl8RbkRY,False,2025-06-04 23:44:46+00:00,,Sales Tax,False,Alabama,True,{},6.5,2025-08-10 00:31:31.265000+00:00
+txr_1N8NQdFCPJnn9IgI4zUE5kII,False,2023-05-16 12:56:35+00:00,,Sales Tax,False,North Dakota,True,{},5.0,2025-08-10 00:33:25.114000+00:00
+txr_1N5xsyFCPJnn9IgIJSE2JdoO,False,2023-05-09 21:15:52+00:00,,Sales Tax,False,Oklahoma,True,{},9.0,2025-08-10 00:33:30.622000+00:00
+txr_1NDvKwFCPJnn9IgIZPe6gq9h,False,2023-05-31 20:09:38+00:00,,Sales Tax,False,Colorado,True,{},6.5,2025-08-10 00:33:24.417000+00:00
+txr_1N6FZAFCPJnn9IgIwLgynKeS,False,2023-05-10 16:08:36+00:00,,Sales Tax,False,California,True,{},9.25,2025-08-10 00:31:08.311000+00:00
+txr_1Ru1xMFCPJnn9IgIEFyLVUjT,False,2025-08-09 01:52:24+00:00,,Sales Tax,True,Alabama,True,{},4.0,2025-08-10 00:33:24.748000+00:00
+txr_1N8olgFCPJnn9IgIgyO4fyhl,False,2023-05-17 18:08:08+00:00,,Sales Tax,False,Alaska,True,{},8.0,2025-08-11 00:31:11.326000+00:00
+txr_1N6lebFCPJnn9IgINU15ipjA,False,2023-05-12 02:24:21+00:00,,Sales Tax,False,Oklahoma,True,{},8.517,2025-08-11 00:33:24.856000+00:00
+txr_1RJZYEFCPJnn9IgI0QgrPQxf,False,2025-04-30 12:15:46+00:00,,Sales Tax,True,Arkansas,True,{},9.5,2025-08-11 00:33:30.284000+00:00
+txr_1OnZoAFCPJnn9IgIGZDhuntL,False,2024-02-25 04:59:26+00:00,,Sales Tax,False,Alabama,True,{},5.5,2025-08-11 00:33:40.175000+00:00
+txr_1RPqiEFCPJnn9IgIdBoH6edE,False,2025-05-17 19:48:02+00:00,,Sales Tax,True,Illinois,True,{},7.0,2025-08-11 00:31:01.944000+00:00
+txr_1N61EoFCPJnn9IgIUrUEXB5g,False,2023-05-10 00:50:38+00:00,,Sales Tax,False,Illinois,True,{},9.25,2025-08-11 00:33:29.876000+00:00
+txr_1NGTRJFCPJnn9IgImzMoVIT2,False,2023-06-07 20:58:45+00:00,,Sales Tax,False,California,True,{},9.0,2025-08-11 00:33:29.432000+00:00
+txr_1NAoFkFCPJnn9IgIKjuGA1ga,False,2023-05-23 05:59:24+00:00,,Sales Tax,False,Nevada,True,{},7.6,2025-08-11 00:33:27.735000+00:00
+txr_1QcVM7FCPJnn9IgICLRPXBij,False,2025-01-01 17:05:15+00:00,,Sales Tax,False,New Mexico,True,{},6.4975,2025-08-11 00:30:47.911000+00:00
+txr_1N8lJqFCPJnn9IgI2foPUSUF,False,2023-05-17 14:27:10+00:00,,Sales Tax,False,Colorado,True,{},6.9,2025-08-11 00:30:53.057000+00:00
+txr_1QeoyrFCPJnn9IgIfnPbiZhL,False,2025-01-08 02:26:49+00:00,,Sales Tax,False,Louisiana,True,{},9.75,2025-08-11 00:31:22.276000+00:00
+txr_1RrS5PFCPJnn9IgIFDJrWj6h,False,2025-08-01 23:10:03+00:00,,Sales Tax,True,Ohio,True,{},7.8,2025-08-11 00:33:27.561000+00:00
+txr_1RfsyuFCPJnn9IgI1ix3hLaN,False,2025-07-01 01:27:32+00:00,,Sales Tax,False,Arizona,True,{},8.0,2025-08-11 00:33:27.225000+00:00
+txr_1N6jPOFCPJnn9IgIIchulmRs,False,2023-05-12 00:00:30+00:00,,Sales Tax,False,Illinois,True,{},7.5,2025-08-11 00:33:30.284000+00:00
+txr_1N6DMKFCPJnn9IgIHM5FqiWo,False,2023-05-10 13:47:12+00:00,,Sales Tax,False,Virginia,True,{},7.0,2025-08-11 00:31:23.846000+00:00
+txr_1NAf33FCPJnn9IgI2ePWRrx1,False,2023-05-22 20:09:41+00:00,,Sales Tax,False,Colorado,True,{},6.7,2025-08-11 00:33:36.613000+00:00
+txr_1N611PFCPJnn9IgIjuyuCJfU,False,2023-05-10 00:36:47+00:00,,Sales Tax,False,California,True,{},10.25,2025-08-11 00:33:24.388000+00:00
+txr_1R9knCFCPJnn9IgIUMmKiSjm,False,2025-04-03 10:14:38+00:00,,Sales Tax,False,North Dakota,True,{},7.75,2025-08-11 00:31:10.703000+00:00
+txr_1P0oEEFCPJnn9IgIDmoikpiY,False,2024-04-01 17:01:02+00:00,,Sales Tax,False,Georgia,True,{},8.5,2025-08-11 00:33:24.856000+00:00
+txr_1NDxySFCPJnn9IgIWaGENZSR,False,2023-05-31 22:58:36+00:00,,Sales Tax,False,North Dakota,True,{},8.0,2025-08-11 00:31:48.394000+00:00
+txr_1N8mcPFCPJnn9IgIiXXYwjGH,False,2023-05-17 15:50:25+00:00,,Sales Tax,False,Arkansas,True,{},10.5,2025-08-11 00:31:46.570000+00:00
+txr_1RLRS5FCPJnn9IgID2UF6kh9,False,2025-05-05 16:01:09+00:00,,Sales Tax,True,Colorado,True,{},8.2,2025-08-11 00:33:24.418000+00:00
+txr_1N6Dr5FCPJnn9IgIM5H9oUph,False,2023-05-10 14:18:59+00:00,,Sales Tax,False,Georgia,True,{},8.9,2025-08-11 00:33:30.284000+00:00
+txr_1RuR7zFCPJnn9IgIXTztmsiU,False,2025-08-10 04:45:03+00:00,,Sales Tax,True,Colorado,True,{},6.7,2025-08-11 00:33:24.359000+00:00
+txr_1RujdpFCPJnn9IgIyyX64vL0,False,2025-08-11 00:31:09+00:00,,Sales Tax,False,Oklahoma,True,{},6.8,2025-08-11 00:31:09.497000+00:00
+txr_1P4PcMFCPJnn9IgIh1C4bvtW,False,2024-04-11 15:32:50+00:00,,Sales Tax,False,Washington,True,{},7.5,2025-08-12 00:31:24.251000+00:00
+txr_1NEEvXFCPJnn9IgIeHjuDGvJ,False,2023-06-01 17:04:43+00:00,,Sales Tax,False,Arkansas,True,{},10.25,2025-08-12 00:34:06.416000+00:00
+txr_1R5wWEFCPJnn9IgI0q6N9sqF,False,2025-03-23 21:57:22+00:00,,Sales Tax,False,Pennsylvania,True,{},8.0,2025-08-12 00:31:27.862000+00:00
+txr_1OtEeOFCPJnn9IgILeJCQUIj,False,2024-03-11 19:36:44+00:00,,Sales Tax,False,Alabama,True,{},8.25,2025-08-12 00:33:53.698000+00:00
+txr_1PxguLFCPJnn9IgIU3OmV5Fd,False,2024-09-11 03:07:53+00:00,,Sales Tax,False,Colorado,True,{},2.0,2025-08-12 00:33:46.519000+00:00
+txr_1N7SO7FCPJnn9IgIyYJNcnQE,False,2023-05-14 00:02:11+00:00,,Sales Tax,False,Oklahoma,True,{},8.7,2025-08-12 00:33:53.867000+00:00
+txr_1RsbUYFCPJnn9IgIvEHwB0gk,False,2025-08-05 03:24:46+00:00,,Sales Tax,True,Ohio,True,{},7.5,2025-08-12 00:33:57.722000+00:00
+txr_1QfxfHFCPJnn9IgIp2RwNwxj,False,2025-01-11 05:55:19+00:00,,Sales Tax,False,Colorado,True,{},9.15,2025-08-12 00:33:49.504000+00:00
+txr_1RJblKFCPJnn9IgIw5UClxsc,False,2025-04-30 14:37:26+00:00,,Sales Tax,True,Rhode Island,True,{},7.0,2025-08-12 00:33:48.369000+00:00
+txr_1N90hbFCPJnn9IgIrGhDRhO7,False,2023-05-18 06:52:43+00:00,,Sales Tax,False,Wisconsin,True,{},5.0,2025-08-12 00:33:53.869000+00:00
+txr_1NAgR5FCPJnn9IgIcLTy7ZLE,False,2023-05-22 21:38:35+00:00,,Sales Tax,False,Missouri,True,{},9.738,2025-08-12 00:34:08.814000+00:00
+txr_1N6Ok6FCPJnn9IgIqcl90Z97,False,2023-05-11 01:56:30+00:00,,Sales Tax,False,Illinois,True,{},6.85,2025-08-12 00:33:47.063000+00:00
+txr_1N7KAsFCPJnn9IgI9obuaOP1,False,2023-05-13 15:15:58+00:00,,Sales Tax,False,Georgia,True,{},7.75,2025-08-13 00:31:34.371000+00:00
+txr_1PqQU3FCPJnn9IgICZuqgy0P,False,2024-08-22 02:10:43+00:00,,RST,False,Manitoba,True,{},0.0,2025-08-13 00:34:17.374000+00:00
+txr_1RJy50FCPJnn9IgIDbtCYDhe,False,2025-05-01 14:27:14+00:00,,Sales Tax,True,Kentucky,True,{},6.0,2025-08-13 00:34:05.587000+00:00
+txr_1PGXW4FCPJnn9IgIeHqKoRvY,False,2024-05-15 02:24:28+00:00,,Sales Tax,False,Kentucky,True,{},6.0,2025-08-13 00:34:08.067000+00:00
+txr_1N5qW5FCPJnn9IgIF0LsE46p,False,2023-05-09 13:23:45+00:00,,Sales Tax,False,Missouri,True,{},8.475,2025-08-13 00:31:57.348000+00:00
+txr_1RKSrNFCPJnn9IgIUbuJvSOP,False,2025-05-02 23:19:13+00:00,,Sales Tax,True,Wisconsin,True,{},5.5,2025-08-13 00:34:07.896000+00:00
+txr_1OuROGFCPJnn9IgIyVSRnkk2,False,2024-03-15 03:25:04+00:00,,Sales Tax,False,Tennessee,True,{},9.75,2025-08-13 00:31:49.200000+00:00
+txr_1N6jHbFCPJnn9IgIMAXcdZKB,False,2023-05-11 23:52:27+00:00,,Sales Tax,False,Missouri,True,{},7.975,2025-08-13 00:34:04.970000+00:00
+txr_1PgyJsFCPJnn9IgIglvhEg30,False,2024-07-27 00:17:08+00:00,,Sales Tax,True,Tennessee,True,{},2.75,2025-08-13 00:31:49.200000+00:00
+txr_1NwT1jFCPJnn9IgIbquseboO,False,2023-10-01 17:01:55+00:00,,Sales Tax,False,Minnesota,True,{},8.525,2025-08-13 00:34:07.639000+00:00
+txr_1N6pH3FCPJnn9IgIGGYh2qVp,False,2023-05-12 06:16:17+00:00,,Sales Tax,False,North Carolina,True,{},7.5,2025-08-13 00:34:07.895000+00:00
+txr_1N6Nu9FCPJnn9IgIAy3vGt6G,False,2023-05-11 01:02:49+00:00,,Sales Tax,False,Illinois,True,{},7.0,2025-08-13 00:32:02.301000+00:00
+txr_1RK2wrFCPJnn9IgIRv8siYVm,False,2025-05-01 19:39:09+00:00,,Sales Tax,True,Florida,True,{},7.0,2025-08-13 00:34:08.069000+00:00
+txr_1N5t4MFCPJnn9IgIY3oicm8k,False,2023-05-09 16:07:18+00:00,,Sales Tax,False,Michigan,True,{},6.0,2025-08-13 00:34:08.422000+00:00
+txr_1N5viaFCPJnn9IgID2tbbcMM,False,2023-05-09 18:57:00+00:00,,Sales Tax,False,Illinois,True,{},8.5,2025-08-13 00:31:24.971000+00:00
+txr_1N5zTMFCPJnn9IgISQBkMugR,False,2023-05-09 22:57:32+00:00,,Sales Tax,False,Idaho,True,{},6.0,2025-08-13 00:34:08.067000+00:00
+txr_1R98AbFCPJnn9IgIAzof9bIX,False,2025-04-01 17:00:13+00:00,,Sales Tax,False,Utah,True,{},7.3,2025-08-13 00:34:04.971000+00:00
+txr_1RNm6oFCPJnn9IgI65dQh3Fb,False,2025-05-12 02:28:50+00:00,,Sales Tax,True,North Carolina,True,{},7.0,2025-08-13 00:34:08.417000+00:00
+txr_1R9A8YFCPJnn9IgImDCjkG6J,False,2025-04-01 19:06:14+00:00,,HST,False,Canada,True,{},14.0,2025-08-13 00:34:01.490000+00:00
+txr_1RJBrDFCPJnn9IgITV4UpOLR,False,2025-04-29 10:57:47+00:00,,Sales Tax,True,Pennsylvania,True,{},6.0,2025-08-13 00:34:05.339000+00:00
+txr_1N6dnMFCPJnn9IgIuHsbT2zi,False,2023-05-11 18:00:52+00:00,,Sales Tax,False,Utah,True,{},6.75,2025-08-13 00:34:08.421000+00:00
+txr_1N5ziaFCPJnn9IgIkjzhD4GA,False,2023-05-09 23:13:16+00:00,,Sales Tax,False,California,True,{},9.125,2025-08-13 00:34:00.745000+00:00
+txr_1RJckBFCPJnn9IgIGv01ui7o,False,2025-04-30 15:40:19+00:00,,Sales Tax,True,Idaho,True,{},6.0,2025-08-13 00:34:05.586000+00:00
+txr_1N6Fi1FCPJnn9IgIi6eKm9Nq,False,2023-05-10 16:17:45+00:00,,Sales Tax,False,South Carolina,True,{},9.0,2025-08-13 00:34:02.986000+00:00
+txr_1NG0QYFCPJnn9IgIGHr7anmr,False,2023-06-06 14:00:02+00:00,,Sales Tax,False,Minnesota,True,{},8.375,2025-08-13 00:34:05.338000+00:00
+txr_1RKgDgFCPJnn9IgIaGup7sQd,False,2025-05-03 13:35:08+00:00,,Sales Tax,True,Michigan,True,{},6.0,2025-08-13 00:34:08.420000+00:00
+txr_1NwT1cFCPJnn9IgIz9J6KJJK,False,2023-10-01 17:01:48+00:00,,Sales Tax,False,Minnesota,True,{},9.025,2025-08-13 00:34:20.154000+00:00
+txr_1N6L3BFCPJnn9IgIuVMXlHjR,False,2023-05-10 21:59:57+00:00,,Sales Tax,False,Colorado,True,{},4.5,2025-08-13 00:34:07.638000+00:00
+txr_1N5rI6FCPJnn9IgIingicRDX,False,2023-05-09 14:13:22+00:00,,Sales Tax,False,California,True,{},9.375,2025-08-13 00:34:07.638000+00:00
+txr_1N6BlfFCPJnn9IgIHKMYP9Zh,False,2023-05-10 12:05:15+00:00,,Sales Tax,False,Mississippi,True,{},7.0,2025-08-13 00:34:08.416000+00:00
+txr_1N6JXIFCPJnn9IgIUWe9sKxF,False,2023-05-10 20:22:56+00:00,,Sales Tax,False,New York,True,{},8.75,2025-08-13 00:34:15.299000+00:00
+txr_1N5xLEFCPJnn9IgIUKHnoEvR,False,2023-05-09 20:41:00+00:00,,Sales Tax,False,Nevada,True,{},8.375,2025-08-13 00:34:08.419000+00:00
+txr_1PeV26FCPJnn9IgIbtyyoEqP,False,2024-07-20 04:36:34+00:00,,PST,False,British Columbia,True,{},7.0,2025-08-13 00:34:18.958000+00:00
+txr_1N5xt8FCPJnn9IgIKSs3QeBv,False,2023-05-09 21:16:02+00:00,,Sales Tax,False,New York,True,{},8.0,2025-08-13 00:34:16.552000+00:00
+txr_1N5s7VFCPJnn9IgIIFLqimqD,False,2023-05-09 15:06:29+00:00,,Sales Tax,False,Wisconsin,True,{},5.5,2025-08-13 00:34:08.067000+00:00
+txr_1N5w7pFCPJnn9IgIKebq3iFr,False,2023-05-09 19:23:05+00:00,,Sales Tax,False,Colorado,True,{},3.07,2025-08-13 00:34:07.894000+00:00
+txr_1N5qW7FCPJnn9IgIwo8j6hax,False,2023-05-09 13:23:47+00:00,,Sales Tax,False,Kentucky,True,{},6.0,2025-08-13 00:34:08.419000+00:00
+txr_1N65qQFCPJnn9IgIPSBTNPbY,False,2023-05-10 05:45:46+00:00,,Sales Tax,False,Minnesota,True,{},7.375,2025-08-13 00:34:04.857000+00:00
+txr_1N5qlXFCPJnn9IgIa2CTCqta,False,2023-05-09 13:39:43+00:00,,Sales Tax,False,Massachusetts,True,{},6.25,2025-08-13 00:34:19.580000+00:00
+txr_1N5qZhFCPJnn9IgIn7aFFdKR,False,2023-05-09 13:27:29+00:00,,Sales Tax,False,Indiana,True,{},7.0,2025-08-13 00:34:15.226000+00:00
+txr_1N6DMIFCPJnn9IgI6NFlZ1cM,False,2023-05-10 13:47:10+00:00,,Sales Tax,False,Illinois,True,{},10.25,2025-08-13 00:34:07.958000+00:00
+txr_1N5zibFCPJnn9IgIId9OgxXU,False,2023-05-09 23:13:17+00:00,,Sales Tax,False,Arizona,True,{},8.3,2025-08-13 00:34:19.233000+00:00
+txr_1QMl2TFCPJnn9IgIwYS3hBoc,False,2024-11-19 06:35:53+00:00,,VAT,True,United Kingdom,True,{},20.0,2025-08-13 00:34:19.637000+00:00
+txr_1QPRGJFCPJnn9IgI84jMqWeJ,False,2024-11-26 16:05:15+00:00,,Sales Tax,False,South Carolina,True,{},8.0,2025-08-01 00:32:04.128000+00:00
+txr_1ONjWRFCPJnn9IgIvG17j6no,False,2023-12-15 22:06:19+00:00,,Sales Tax,False,Arizona,True,{},6.6,2025-08-01 00:31:59.936000+00:00
+txr_1RK2fhFCPJnn9IgIDtHFObcJ,False,2025-05-01 19:21:25+00:00,,Sales Tax,True,Louisiana,True,{},8.5,2025-08-01 00:31:53.327000+00:00
+txr_1N7p2lFCPJnn9IgIo4oxWn7V,False,2023-05-15 00:13:39+00:00,,Sales Tax,False,Ohio,True,{},7.5,2025-08-01 00:34:26.819000+00:00
+txr_1NDxwDFCPJnn9IgIsP9O1r3t,False,2023-05-31 22:56:17+00:00,,Sales Tax,False,Arizona,True,{},9.18,2025-08-01 00:34:30.904000+00:00
+txr_1RdtkWFCPJnn9IgI6yq1TPMz,False,2025-06-25 13:52:28+00:00,,Sales Tax,True,Missouri,True,{},6.95,2025-08-01 00:31:14.126000+00:00
+txr_1RaJgcFCPJnn9IgIM5IfQOJ7,False,2025-06-15 16:45:38+00:00,,Sales Tax,True,New York,True,{},8.625,2025-08-01 00:31:04.763000+00:00
+txr_1RRkUWFCPJnn9IgIEvYxJuXC,False,2025-05-23 01:33:44+00:00,,Sales Tax,True,Colorado,True,{},5.9,2025-08-01 00:31:47.494000+00:00
+txr_1N6Lr9FCPJnn9IgIopw34A0e,False,2023-05-10 22:51:35+00:00,,Sales Tax,False,California,True,{},8.125,2025-08-01 00:34:24.032000+00:00
+txr_1Rr6sEFCPJnn9IgIG1Z7TnkK,False,2025-08-01 00:31:02+00:00,,Sales Tax,True,Ohio,True,{},6.5,2025-08-01 00:31:02.617000+00:00
+txr_1PFOwkFCPJnn9IgIGCI7oJbI,False,2024-05-11 23:03:18+00:00,,Sales Tax,False,Washington,True,{},10.5,2025-08-02 00:32:59.830000+00:00
+txr_1NK29iFCPJnn9IgIpfDGGS22,False,2023-06-17 16:39:18+00:00,,Sales Tax,False,Alaska,True,{},5.5,2025-08-02 00:31:53.335000+00:00
+txr_1RZPH7FCPJnn9IgIrKHyW88O,False,2025-06-13 04:31:33+00:00,,Sales Tax,True,Alaska,True,{},5.5,2025-08-02 00:31:53.335000+00:00
+txr_1Of3d2FCPJnn9IgIq7o92BoN,False,2024-02-01 17:00:44+00:00,,Sales Tax,False,Colorado,True,{},8.27,2025-08-02 00:37:01.731000+00:00
+txr_1N8pBAFCPJnn9IgIdY1G7ngj,False,2023-05-17 18:34:28+00:00,,Sales Tax,False,Arizona,True,{},10.35,2025-08-02 00:37:32.321000+00:00
+txr_1RlNgcFCPJnn9IgI9nRFJZFP,False,2025-07-16 05:15:22+00:00,,Sales Tax,True,North Dakota,True,{},8.0,2025-08-02 00:33:08.872000+00:00
+txr_1N73LgFCPJnn9IgIiB9lB3Vw,False,2023-05-12 21:18:00+00:00,,Sales Tax,False,North Dakota,True,{},7.5,2025-08-02 00:36:57.943000+00:00
+txr_1Nj8rNFCPJnn9IgIbw2MfwgV,False,2023-08-25 22:52:09+00:00,,Sales Tax,False,Oklahoma,True,{},6.25,2025-08-02 00:36:59.725000+00:00
+txr_1Rj4UUFCPJnn9IgIrRmpHOc0,False,2025-07-09 20:21:18+00:00,,Sales Tax,True,Illinois,True,{},8.35,2025-08-03 00:33:36.412000+00:00
+txr_1N99yfFCPJnn9IgI3joVMfWv,False,2023-05-18 16:46:57+00:00,,Sales Tax,False,Tennessee,True,{},12.0,2025-08-03 00:31:09.176000+00:00
+txr_1NXRlkFCPJnn9IgIuhOjJGei,False,2023-07-24 16:38:00+00:00,,Sales Tax,False,Colorado,True,{},5.4,2025-08-03 00:33:35.523000+00:00
+txr_1N5w91FCPJnn9IgIP7eSrUII,False,2023-05-09 19:24:19+00:00,,Sales Tax,False,Kansas,True,{},8.975,2025-08-03 00:33:52.072000+00:00
+txr_1QBIPjFCPJnn9IgIlLBMFr3v,False,2024-10-18 15:48:31+00:00,,Sales Tax,False,Oklahoma,True,{},9.583,2025-08-03 00:33:35.522000+00:00
+txr_1RbuYlFCPJnn9IgIvlw92ZyK,False,2025-06-20 02:20:07+00:00,,Sales Tax,True,Kansas,True,{},8.975,2025-08-03 00:33:39.487000+00:00
+txr_1NF2IqFCPJnn9IgI9pt9grtl,False,2023-06-03 21:48:04+00:00,,Sales Tax,False,Missouri,True,{},7.45,2025-08-04 00:33:16.482000+00:00
+txr_1RaoBIFCPJnn9IgIwCbjaau1,False,2025-06-17 01:19:20+00:00,,Sales Tax,True,California,True,{},8.375,2025-08-04 00:31:26.706000+00:00
+txr_1NCwYWFCPJnn9IgIRIqKnDIm,False,2023-05-29 03:15:36+00:00,,Sales Tax,False,Ohio,True,{},7.8,2025-08-05 00:32:21.656000+00:00
+txr_1N7JSgFCPJnn9IgIMYCPGlzJ,False,2023-05-13 14:30:18+00:00,,Sales Tax,False,Colorado,True,{},7.01,2025-08-05 00:34:17.387000+00:00
+txr_1RgQVkFCPJnn9IgIfVYQ4m75,False,2025-07-02 13:15:40+00:00,,Sales Tax,False,Oklahoma,True,{},10.05,2025-08-05 00:34:22.079000+00:00
+txr_1RfOJWFCPJnn9IgIhVff5vVl,False,2025-06-29 16:42:46+00:00,,Sales Tax,True,Washington,True,{},8.1,2025-08-05 00:34:26.012000+00:00
+txr_1RRP4IFCPJnn9IgINdMuOJVj,False,2025-05-22 02:41:14+00:00,,Sales Tax,True,Arizona,True,{},8.55,2025-08-05 00:32:00.353000+00:00
+txr_1OUKQgFCPJnn9IgI8ko3apDa,False,2024-01-03 02:43:38+00:00,,Sales Tax,False,Arizona,True,{},8.55,2025-08-05 00:32:00.353000+00:00
+txr_1RM87mFCPJnn9IgI6vuFGyXB,False,2025-05-07 13:35:02+00:00,,Sales Tax,True,California,True,{},8.35,2025-08-06 00:33:46.383000+00:00
+txr_1RZyE0FCPJnn9IgIKntIUgKF,False,2025-06-14 17:50:40+00:00,,Sales Tax,True,Arkansas,True,{},9.75,2025-08-06 00:33:46.978000+00:00
+txr_1NPqxEFCPJnn9IgI5wwBsvnG,False,2023-07-03 17:54:28+00:00,,Sales Tax,False,Georgia,True,{},9.0,2025-08-06 00:33:46.754000+00:00
+txr_1NCaJxFCPJnn9IgI06SCxejv,False,2023-05-28 03:31:05+00:00,,Sales Tax,False,Colorado,True,{},5.13,2025-08-06 00:33:40.084000+00:00
+txr_1NQhrgFCPJnn9IgIflPVKbHF,False,2023-07-06 02:24:16+00:00,,Sales Tax,False,Nevada,True,{},7.1,2025-08-06 00:33:42.748000+00:00
+txr_1RTppBFCPJnn9IgI8Z10eImi,False,2025-05-28 19:39:41+00:00,,Sales Tax,True,South Dakota,True,{},4.2,2025-08-06 00:31:38.948000+00:00
+txr_1P99mFFCPJnn9IgIK5woOpLG,False,2024-04-24 17:38:39+00:00,,Sales Tax,False,Minnesota,True,{},9.875,2025-08-06 00:31:53.294000+00:00
+txr_1NDiC5FCPJnn9IgIMGeqxcGM,False,2023-05-31 06:07:37+00:00,,Sales Tax,False,Minnesota,True,{},8.125,2025-08-06 00:33:47.136000+00:00
+txr_1RstT7FCPJnn9IgI5gP2qQzI,False,2025-08-05 22:36:29+00:00,,Sales Tax,True,Tennessee,True,{},12.0,2025-08-06 00:33:46.912000+00:00
+txr_1RsvFsFCPJnn9IgItuP1oG0E,False,2025-08-06 00:30:56+00:00,,Sales Tax,True,Utah,True,{},6.65,2025-08-06 00:30:56.804000+00:00
+txr_1NAjn8FCPJnn9IgIjZJVMGnr,False,2023-05-23 01:13:34+00:00,,Sales Tax,False,North Dakota,True,{},6.5,2025-08-07 00:31:13.863000+00:00
+txr_1RkSg7FCPJnn9IgIqCBPcceM,False,2025-07-13 16:23:03+00:00,,Sales Tax,False,New Mexico,True,{},8.39,2025-08-07 00:31:05.158000+00:00
+txr_1PIeIOFCPJnn9IgI1iScgq5y,False,2024-05-20 22:03:04+00:00,,Sales Tax,False,Alabama,True,{},7.75,2025-08-07 00:34:17.806000+00:00
+txr_1RUdTLFCPJnn9IgIumhr8lcA,False,2025-05-31 00:40:27+00:00,,Sales Tax,True,Washington,True,{},8.6,2025-08-07 00:31:46.094000+00:00
+txr_1N7fihFCPJnn9IgINMEQaywh,False,2023-05-14 14:16:19+00:00,,Sales Tax,False,Colorado,True,{},6.55,2025-08-07 00:31:38.869000+00:00
+txr_1NBkBmFCPJnn9IgI0gq3WvHW,False,2023-05-25 19:51:10+00:00,,Sales Tax,False,Oklahoma,True,{},6.5,2025-08-07 00:34:02.268000+00:00
+txr_1N8aypFCPJnn9IgIk2KAU43z,False,2023-05-17 03:24:47+00:00,,Sales Tax,False,Missouri,True,{},8.6,2025-08-07 00:34:02.822000+00:00
+txr_1RrMywFCPJnn9IgI6XOFwLZa,False,2025-08-01 17:43:02+00:00,,Sales Tax,True,Ohio,True,{},7.25,2025-08-07 00:34:02.824000+00:00
+txr_1RjszhFCPJnn9IgIZzWB7ASK,False,2025-07-12 02:16:53+00:00,,Sales Tax,True,Utah,True,{},8.45,2025-08-07 00:34:05.786000+00:00
+txr_1NDs09FCPJnn9IgIWmSaNy5s,False,2023-05-31 16:35:57+00:00,,Sales Tax,False,Illinois,True,{},8.5,2025-08-07 00:34:05.788000+00:00
+txr_1RW4r3FCPJnn9IgIBHPO4kcs,False,2025-06-04 00:06:53+00:00,,Sales Tax,True,Wyoming,True,{},5.0,2025-08-07 00:32:05.918000+00:00
+txr_1NuxtbFCPJnn9IgIk2qCg6bh,False,2023-09-27 13:35:19+00:00,,Sales Tax,False,Arkansas,True,{},8.75,2025-08-08 00:33:38.037000+00:00
+txr_1RomUjFCPJnn9IgIIflhjtgv,False,2025-07-25 14:21:09+00:00,,Sales Tax,True,Colorado,True,{},3.7,2025-08-08 00:33:40.774000+00:00
+txr_1N6jPWFCPJnn9IgIJBI3xPiA,False,2023-05-12 00:00:38+00:00,,Sales Tax,False,Kansas,True,{},8.95,2025-08-08 00:33:45.393000+00:00
+txr_1OrVMzFCPJnn9IgIl5cDOYta,False,2024-03-07 01:03:37+00:00,,Sales Tax,False,Arizona,True,{},6.35,2025-08-08 00:30:59.585000+00:00
+txr_1QefulFCPJnn9IgIGgL6UUJE,False,2025-01-07 16:45:59+00:00,,Sales Tax,False,Louisiana,True,{},10.35,2025-08-08 00:33:41.810000+00:00
+txr_1NP7B1FCPJnn9IgI4G0wO16X,False,2023-07-01 17:01:39+00:00,,Sales Tax,False,New Mexico,True,{},6.5,2025-08-08 00:33:45.037000+00:00
+txr_1Q1UKXFCPJnn9IgImC9jHHfK,False,2024-09-21 14:30:37+00:00,,Sales Tax,False,Iowa,True,{},6.0,2025-08-08 00:32:01.321000+00:00
+txr_1RhEHUFCPJnn9IgIwCW9szuI,False,2025-07-04 18:24:16+00:00,,Sales Tax,True,Oklahoma,True,{},6.05,2025-08-08 00:31:37.855000+00:00
+txr_1ROkyMFCPJnn9IgIxJPqRpTK,False,2025-05-14 19:28:10+00:00,,Sales Tax,True,Colorado,True,{},8.5,2025-08-08 00:30:54.063000+00:00
+txr_1NBoAqFCPJnn9IgIx6moRxDO,False,2023-05-26 00:06:28+00:00,,Sales Tax,False,Colorado,True,{},8.5,2025-08-08 00:30:54.063000+00:00
+txr_1RNNdAFCPJnn9IgIlEEYWbSj,False,2025-05-11 00:20:36+00:00,,Sales Tax,False,Washington,True,{},8.9,2025-08-08 00:32:03.015000+00:00
+txr_1PZgbgFCPJnn9IgIrUty13QQ,False,2024-07-06 21:57:24+00:00,,Sales Tax,False,Missouri,True,{},5.35,2025-08-08 00:33:45.054000+00:00
+txr_1RVdNpFCPJnn9IgI3XpFScNJ,False,2025-06-02 18:46:53+00:00,,Sales Tax,True,South Carolina,True,{},6.0,2025-08-08 00:31:36.880000+00:00
+txr_1N73FMFCPJnn9IgI8wJiOhm9,False,2023-05-12 21:11:28+00:00,,Sales Tax,False,Colorado,True,{},3.9,2025-08-09 00:33:43.808000+00:00
+txr_1RejDaFCPJnn9IgIe2Wy15zz,False,2025-06-27 20:49:54+00:00,,Sales Tax,True,Arizona,True,{},6.43,2025-08-09 00:31:38.970000+00:00
+txr_1Rdh2pFCPJnn9IgIcbELt0SR,False,2025-06-25 00:18:31+00:00,,Sales Tax,True,Arizona,True,{},9.2,2025-08-09 00:31:38.487000+00:00
+txr_1OTsAtFCPJnn9IgIzuwjzmVH,False,2024-01-01 20:33:27+00:00,,Sales Tax,False,Wisconsin,True,{},5.9,2025-08-09 00:33:38.038000+00:00
+txr_1N8o4GFCPJnn9IgIzx1aBMRi,False,2023-05-17 17:23:16+00:00,,Sales Tax,False,Missouri,True,{},8.45,2025-08-09 00:30:58.959000+00:00
+txr_1PJ7cCFCPJnn9IgIH5LVheXr,False,2024-05-22 05:21:28+00:00,,Sales Tax,False,Colorado,True,{},8.66,2025-08-09 00:31:27.237000+00:00
+txr_1N6HKLFCPJnn9IgI4FOLnjFf,False,2023-05-10 18:01:25+00:00,,Sales Tax,False,Illinois,True,{},7.75,2025-08-12 00:31:22.594000+00:00
+txr_1N6N5jFCPJnn9IgIJcDqVJmC,False,2023-05-11 00:10:43+00:00,,Sales Tax,False,Utah,True,{},6.45,2025-08-12 00:31:54.713000+00:00
+txr_1N6IzNFCPJnn9IgIIkeDT3fe,False,2023-05-10 19:47:53+00:00,,Sales Tax,False,Arizona,True,{},8.55,2025-08-12 00:33:50.293000+00:00
+txr_1N5wPOFCPJnn9IgIE7J4dBz1,False,2023-05-09 19:41:14+00:00,,Sales Tax,False,Wisconsin,True,{},5.5,2025-08-12 00:33:51.419000+00:00
+txr_1N6Mm3FCPJnn9IgIFb2zE4kW,False,2023-05-10 23:50:23+00:00,,Sales Tax,False,Arizona,True,{},7.8,2025-08-12 00:32:00.635000+00:00
+txr_1N7KVNFCPJnn9IgItDZapCiW,False,2023-05-13 15:37:09+00:00,,Sales Tax,False,Colorado,True,{},3.7,2025-08-12 00:33:53.851000+00:00
+txr_1N6DmiFCPJnn9IgIUs8j8yJq,False,2023-05-10 14:14:28+00:00,,Sales Tax,False,South Carolina,True,{},8.0,2025-08-12 00:33:53.397000+00:00
+txr_1RJjURFCPJnn9IgI3Z5bqPvP,False,2025-04-30 22:52:31+00:00,,Sales Tax,True,California,True,{},7.75,2025-08-12 00:33:47.928000+00:00
+txr_1N7SO7FCPJnn9IgI3hn3xkgc,False,2023-05-14 00:02:11+00:00,,Sales Tax,False,California,True,{},10.75,2025-08-12 00:33:49.503000+00:00
+txr_1RgXsoFCPJnn9IgINrxGcuVf,False,2025-07-02 21:07:58+00:00,,Retail Delivery Fee,False,Colorado,True,{},0.0,2025-08-12 00:33:49.504000+00:00
+txr_1N5tZZFCPJnn9IgI257hpdtT,False,2023-05-09 16:39:33+00:00,,Sales Tax,False,North Carolina,True,{},7.0,2025-08-12 00:33:53.398000+00:00
+txr_1N5tHIFCPJnn9IgIbzMM2UIn,False,2023-05-09 16:20:40+00:00,,Sales Tax,False,Arizona,True,{},6.1,2025-08-12 00:33:46.443000+00:00
+txr_1OUuoAFCPJnn9IgIRfHoeMpi,False,2024-01-04 17:34:18+00:00,,,True,Oregon,True,{},0.0,2025-08-12 00:33:53.397000+00:00
+txr_1NAaQ5FCPJnn9IgIWZcPD4jY,False,2023-05-22 15:13:09+00:00,,Sales Tax,False,Arkansas,True,{},7.5,2025-08-13 00:34:07.637000+00:00
+txr_1N8qdNFCPJnn9IgIdstAbtKI,False,2023-05-17 20:07:41+00:00,,Sales Tax,False,Tennessee,True,{},12.5,2025-08-13 00:34:05.336000+00:00
+txr_1RbnnGFCPJnn9IgINGV4XxOc,False,2025-06-19 19:06:38+00:00,,Sales Tax,True,Oklahoma,True,{},8.517,2025-08-13 00:31:14.747000+00:00
+txr_1NzugRFCPJnn9IgI3mCApgiQ,False,2023-10-11 05:10:11+00:00,,Sales Tax,False,Utah,True,{},8.35,2025-08-13 00:31:39.088000+00:00
+txr_1RKLRhFCPJnn9IgILhKP7OM1,False,2025-05-02 15:24:13+00:00,,Sales Tax,False,Washington,True,{},8.0,2025-08-13 00:31:50.817000+00:00
+txr_1RQIiuFCPJnn9IgIm6FJEHv8,False,2025-05-19 01:42:36+00:00,,Sales Tax,True,Colorado,True,{},7.01,2025-08-13 00:31:44.033000+00:00
+txr_1RKo11FCPJnn9IgIDalkoxrN,False,2025-05-03 21:54:35+00:00,,Sales Tax,True,Utah,True,{},7.35,2025-08-13 00:34:04.857000+00:00
+txr_1NDuyvFCPJnn9IgIhVnIRBXc,False,2023-05-31 19:46:53+00:00,,Sales Tax,False,Colorado,True,{},5.27,2025-08-13 00:34:05.586000+00:00
+txr_1N88ViFCPJnn9IgIfNolojfH,False,2023-05-15 21:00:50+00:00,,Sales Tax,False,Florida,True,{},6.0,2025-08-13 00:34:05.587000+00:00
+txr_1OK8rWFCPJnn9IgIMZFBg2cH,False,2023-12-06 00:21:14+00:00,,Sales Tax,False,Arizona,True,{},8.7,2025-08-13 00:31:48.434000+00:00
+txr_1ROBUnFCPJnn9IgIAa4rW2TX,False,2025-05-13 05:35:17+00:00,,Sales Tax,False,Washington,True,{},8.8,2025-08-13 00:34:17.972000+00:00
+txr_1N8EbtFCPJnn9IgIwQKOdLSF,False,2023-05-16 03:31:37+00:00,,Sales Tax,False,Arkansas,True,{},8.5,2025-08-13 00:31:38.228000+00:00
+txr_1RMWySFCPJnn9IgIwACqALDV,False,2025-05-08 16:07:04+00:00,,Sales Tax,True,Colorado,True,{},5.13,2025-08-13 00:31:48.713000+00:00
+txr_1N9fDtFCPJnn9IgIz3xlRgsr,False,2023-05-20 02:08:45+00:00,,Sales Tax,False,Illinois,True,{},7.25,2025-08-13 00:34:01.488000+00:00
+txr_1NCoLgFCPJnn9IgIzDN7oUqh,False,2023-05-28 18:29:48+00:00,,Sales Tax,False,Utah,True,{},6.65,2025-08-13 00:34:07.638000+00:00
+txr_1N5zzgFCPJnn9IgI238LTfjJ,False,2023-05-09 23:30:56+00:00,,Sales Tax,False,Washington,True,{},10.1,2025-08-13 00:31:29.234000+00:00
+txr_1RdE5SFCPJnn9IgI0eYQMnYk,False,2025-06-23 17:23:18+00:00,,,True,Montana,True,{},0.0,2025-08-13 00:34:01.511000+00:00
+txr_1N6cJlFCPJnn9IgIxW1WNyeh,False,2023-05-11 16:26:13+00:00,,Sales Tax,False,Colorado,True,{},4.11,2025-08-13 00:31:44.033000+00:00
+txr_1N7RmxFCPJnn9IgIwrO5cA6X,False,2023-05-13 23:23:47+00:00,,Sales Tax,False,North Carolina,True,{},7.25,2025-08-13 00:34:01.509000+00:00
+txr_1RMpMiFCPJnn9IgICKWCAxr0,False,2025-05-09 11:45:20+00:00,,Sales Tax,True,Mississippi,True,{},7.0,2025-08-13 00:31:50.775000+00:00
+txr_1N6ESxFCPJnn9IgI8BU25OVb,False,2023-05-10 14:58:07+00:00,,Sales Tax,False,New York,True,{},8.625,2025-08-13 00:34:08.069000+00:00
+txr_1N8RyIFCPJnn9IgIxgUpfEk6,False,2023-05-16 17:47:38+00:00,,Sales Tax,False,Nebraska,True,{},7.0,2025-08-13 00:31:14.785000+00:00
+txr_1RJgLSFCPJnn9IgIQWLupThT,False,2025-04-30 19:31:02+00:00,,Sales Tax,True,Massachusetts,True,{},6.25,2025-08-13 00:34:07.895000+00:00
+txr_1N6GwAFCPJnn9IgIozCOeNlq,False,2023-05-10 17:36:26+00:00,,Sales Tax,False,Minnesota,True,{},7.875,2025-08-13 00:31:24.573000+00:00
+txr_1N6F6kFCPJnn9IgItfwpEZn9,False,2023-05-10 15:39:14+00:00,,Sales Tax,False,Kansas,True,{},7.75,2025-08-13 00:31:22.571000+00:00
+txr_1N5zD0FCPJnn9IgItKLGtXl7,False,2023-05-09 22:40:38+00:00,,Sales Tax,False,Washington,True,{},9.0,2025-08-13 00:34:08.417000+00:00
+txr_1N5vQsFCPJnn9IgIRqF1Adlq,False,2023-05-09 18:38:42+00:00,,Sales Tax,False,Arizona,True,{},9.2,2025-08-13 00:31:43.107000+00:00
+txr_1O2k32FCPJnn9IgIkhkSnzuA,False,2023-10-19 00:25:12+00:00,,Sales Tax,False,Utah,True,{},8.45,2025-08-13 00:34:17.520000+00:00
+txr_1N6ISXFCPJnn9IgI6OxDDnaz,False,2023-05-10 19:13:57+00:00,,Sales Tax,False,New York,True,{},7.5,2025-08-13 00:34:07.958000+00:00
+txr_1RJMIIFCPJnn9IgIrIhSRWMR,False,2025-04-29 22:06:26+00:00,,Sales Tax,True,New York,True,{},8.0,2025-08-13 00:34:02.988000+00:00
+txr_1PORJqFCPJnn9IgImr9KiRxI,False,2024-06-05 21:24:30+00:00,,Sales Tax,False,New York,True,{},8.0,2025-08-13 00:31:49.269000+00:00
+txr_1NOocXFCPJnn9IgIw0aKhsPb,False,2023-06-30 21:12:49+00:00,,Sales Tax,False,Arizona,True,{},8.3,2025-08-13 00:34:19.233000+00:00
+txr_1N6jPOFCPJnn9IgIFKTG53Us,False,2023-05-12 00:00:30+00:00,,Sales Tax,False,Oklahoma,True,{},8.25,2025-08-13 00:31:31.179000+00:00
+txr_1ROR8GFCPJnn9IgInqEJTM1m,False,2025-05-13 22:17:04+00:00,,Sales Tax,True,Alabama,True,{},8.5,2025-08-13 00:34:01.513000+00:00
+txr_1NSqY3FCPJnn9IgIFdiHo2fc,False,2023-07-12 00:04:51+00:00,,Sales Tax,False,New Mexico,True,{},8.0625,2025-08-13 00:32:02.677000+00:00
+txr_1N6jPNFCPJnn9IgIXLwUfYAw,False,2023-05-12 00:00:29+00:00,,Sales Tax,False,Arizona,True,{},8.412,2025-08-13 00:32:12.812000+00:00
+txr_1NpfzvFCPJnn9IgIoxlTb7no,False,2023-09-12 23:27:59+00:00,,Sales Tax,False,North Dakota,True,{},7.25,2025-08-13 00:34:08.421000+00:00
+txr_1N6jPLFCPJnn9IgIhyWrOlCN,False,2023-05-12 00:00:27+00:00,,Sales Tax,False,Kansas,True,{},9.975,2025-08-13 00:32:03.516000+00:00
+txr_1NAjn8FCPJnn9IgIByRXB3qd,False,2023-05-23 01:13:34+00:00,,Sales Tax,False,Illinois,True,{},10.25,2025-08-13 00:31:25.463000+00:00
+txr_1N7SO9FCPJnn9IgILB7WsZIB,False,2023-05-14 00:02:13+00:00,,Sales Tax,False,Missouri,True,{},7.738,2025-08-13 00:34:08.417000+00:00
+txr_1QcVLjFCPJnn9IgIUQPA09qH,False,2025-01-01 17:04:51+00:00,,Sales Tax,False,Louisiana,True,{},10.5,2025-08-13 00:31:40.475000+00:00
+txr_1OWA9FFCPJnn9IgIBN2hVvvK,False,2024-01-08 04:09:13+00:00,,Sales Tax,False,California,True,{},10.5,2025-08-13 00:34:07.637000+00:00
+txr_1PMCbSFCPJnn9IgInEULhQZw,False,2024-05-30 17:17:26+00:00,,Sales Tax,False,Alabama,True,{},8.5,2025-08-13 00:34:15.268000+00:00
+txr_1N5w8hFCPJnn9IgI8lFpYKpD,False,2023-05-09 19:23:59+00:00,,Sales Tax,False,Nevada,True,{},7.1,2025-08-13 00:32:08.460000+00:00
+txr_1N6Mz1FCPJnn9IgIH3lqvwQb,False,2023-05-11 00:03:47+00:00,,Sales Tax,False,New Jersey,True,{},6.625,2025-08-13 00:34:08.421000+00:00
+txr_1NE3mBFCPJnn9IgINnekTYns,False,2023-06-01 05:10:19+00:00,,Sales Tax,True,Iowa,True,{},7.0,2025-08-13 00:31:09.120000+00:00
+txr_1RJ0JNFCPJnn9IgICWAMUimU,False,2025-04-28 22:38:05+00:00,,Sales Tax,True,Utah,True,{},7.25,2025-08-13 00:34:01.507000+00:00
+txr_1QGMZPFCPJnn9IgIGfiDVKPx,False,2024-11-01 15:15:27+00:00,,PST,False,Saskatchewan,True,{},6.0,2025-08-13 00:34:07.956000+00:00
+txr_1N6JH9FCPJnn9IgIj27WqCKU,False,2023-05-10 20:06:15+00:00,,Sales Tax,False,Arizona,True,{},8.6,2025-08-13 00:31:13.259000+00:00
+txr_1PgVPvFCPJnn9IgItVnIam62,False,2024-07-25 17:25:27+00:00,,HST,False,Canada,True,{},15.0,2025-08-13 00:31:29.884000+00:00
+txr_1N6cQrFCPJnn9IgIIkNjo4k0,False,2023-05-11 16:33:33+00:00,,Sales Tax,False,Illinois,True,{},9.75,2025-08-13 00:34:17.707000+00:00
+txr_1N846yFCPJnn9IgIQUl2k4U4,False,2023-05-15 16:19:00+00:00,,Sales Tax,False,Colorado,True,{},8.0,2025-08-13 00:34:18.927000+00:00
+txr_1NeBTPFCPJnn9IgIbjUIfHTM,False,2023-08-12 06:38:55+00:00,,Sales Tax,False,Massachusetts,True,{},6.25,2025-08-13 00:34:19.580000+00:00
+txr_1QcRY0FCPJnn9IgIrZAWLoiM,False,2025-01-01 13:01:16+00:00,,Sales Tax,False,Louisiana,True,{},9.25,2025-08-13 00:31:43.573000+00:00
+txr_1N8YUuFCPJnn9IgIyJGiDYpJ,False,2023-05-17 00:45:44+00:00,,Sales Tax,False,Utah,True,{},7.25,2025-08-13 00:34:14.914000+00:00
+txr_1N5w7HFCPJnn9IgIwhV60d3C,False,2023-05-09 19:22:31+00:00,,Sales Tax,False,Illinois,True,{},7.25,2025-08-13 00:34:14.969000+00:00
+txr_1N6nhxFCPJnn9IgIC3wsr7j9,False,2023-05-12 04:35:57+00:00,,Sales Tax,False,Washington,True,{},8.3,2025-08-13 00:34:15.624000+00:00
+txr_1N8Yz5FCPJnn9IgIrsBO3aET,False,2023-05-17 01:16:55+00:00,,Sales Tax,False,Minnesota,True,{},8.875,2025-08-13 00:34:01.490000+00:00
+txr_1PC57gFCPJnn9IgIkr7pOVMh,False,2024-05-02 19:16:52+00:00,,Sales Tax,False,Alabama,True,{},10.0,2025-08-13 00:34:14.891000+00:00
+txr_1NDqt9FCPJnn9IgIZL7FKEF6,False,2023-05-31 15:24:39+00:00,,Sales Tax,False,Utah,True,{},7.55,2025-08-13 00:34:01.511000+00:00
+txr_1N74wqFCPJnn9IgIypWCfX9H,False,2023-05-12 23:00:28+00:00,,Sales Tax,False,Alabama,True,{},6.0,2025-08-13 00:31:33.761000+00:00
+txr_1PCNZtFCPJnn9IgIrV2LIpRj,False,2024-05-03 14:59:13+00:00,,Sales Tax,False,New York,True,{},8.875,2025-08-13 00:34:04.317000+00:00
+txr_1NyL8GFCPJnn9IgIuiCkGHV2,False,2023-10-06 21:00:24+00:00,,Sales Tax,False,Iowa,True,{},7.0,2025-08-13 00:31:09.120000+00:00
+txr_1N6JRxFCPJnn9IgIa05VlhhZ,False,2023-05-10 20:17:25+00:00,,Sales Tax,False,Texas,True,{},7.75,2025-08-13 00:34:04.628000+00:00
+txr_1N5zaqFCPJnn9IgI7tMVJoI6,False,2023-05-09 23:05:16+00:00,,Sales Tax,False,Ohio,True,{},7.5,2025-08-13 00:34:07.958000+00:00
+txr_1N5w74FCPJnn9IgI8zws23Su,False,2023-05-09 19:22:18+00:00,,Sales Tax,False,Washington,True,{},8.2,2025-08-13 00:34:08.067000+00:00
+txr_1N5xLgFCPJnn9IgIuZblCdJT,False,2023-05-09 20:41:28+00:00,,Sales Tax,False,Arizona,True,{},6.7,2025-08-13 00:34:04.972000+00:00
+txr_1N6JIjFCPJnn9IgIbHwfok7E,False,2023-05-10 20:07:53+00:00,,Sales Tax,False,Colorado,True,{},5.185,2025-08-13 00:32:04.629000+00:00
+txr_1N5w8VFCPJnn9IgIokYq5Euh,False,2023-05-09 19:23:47+00:00,,Sales Tax,False,New York,True,{},8.125,2025-08-13 00:34:01.512000+00:00
+txr_1N5uHDFCPJnn9IgI9yYdW519,False,2023-05-09 17:24:39+00:00,,Sales Tax,False,Florida,True,{},7.0,2025-08-13 00:34:01.511000+00:00
+txr_1N6JKfFCPJnn9IgI8W9cyJo4,False,2023-05-10 20:09:53+00:00,,Sales Tax,False,Arizona,True,{},8.7,2025-08-13 00:31:48.434000+00:00
+txr_1QMl2TFCPJnn9IgIkdUrhxqC,False,2024-11-19 06:35:53+00:00,,Sales Tax,True,Texas,True,{},8.0,2025-08-13 00:34:08.071000+00:00
+txr_1N8VChFCPJnn9IgIC0LSHHzN,False,2023-05-16 21:14:43+00:00,,Sales Tax,False,California,True,{},8.75,2025-08-13 00:34:08.418000+00:00
+txr_1OaTfuFCPJnn9IgIIifhotk5,False,2024-01-20 01:48:46+00:00,,Sales Tax,False,Pennsylvania,True,{},6.0,2025-08-13 00:34:17.924000+00:00
+txr_1N5w8vFCPJnn9IgIJnLh88oZ,False,2023-05-09 19:24:13+00:00,,Sales Tax,False,Hawaii,True,{},4.712,2025-08-13 00:34:00.745000+00:00
+txr_1N5qvGFCPJnn9IgIincgNkjz,False,2023-05-09 13:49:46+00:00,,,False,Alaska,True,{},0.0,2025-08-13 00:34:08.422000+00:00
+txr_1N5sJFFCPJnn9IgI8pEHVD2L,False,2023-05-09 15:18:37+00:00,,Sales Tax,False,Colorado,True,{},4.0,2025-08-13 00:34:04.856000+00:00
+txr_1REqW3FCPJnn9IgIQ0fcQilO,False,2025-04-17 11:21:59+00:00,,GST,True,Australia,True,{},10.0,2025-08-13 00:34:07.637000+00:00
+txr_1N5wUSFCPJnn9IgINsa8ie1E,False,2023-05-09 19:46:28+00:00,,Sales Tax,False,South Carolina,True,{},6.0,2025-08-13 00:34:07.404000+00:00
+txr_1N5p5oFCPJnn9IgIMFqFNXRJ,False,2023-05-09 11:52:32+00:00,,Sales Tax,False,Texas,True,{},6.25,2025-08-13 00:34:00.747000+00:00
+txr_1N5pWrFCPJnn9IgIq2rbz1e1,False,2023-05-09 12:20:29+00:00,,Sales Tax,False,Texas,True,{},6.75,2025-08-13 00:34:07.959000+00:00
+txr_1N5w8MFCPJnn9IgItwuRZbnd,False,2023-05-09 19:23:38+00:00,,Sales Tax,False,Connecticut,True,{},6.35,2025-08-13 00:34:15.796000+00:00
+txr_1Pdw0LFCPJnn9IgI9Hxg0Kwf,False,2024-07-18 15:12:25+00:00,,GST,False,Canada,True,{},5.0,2025-08-13 00:34:18.958000+00:00
+txr_1N5pnDFCPJnn9IgIUBKJWquK,False,2023-05-09 12:37:23+00:00,,Sales Tax,False,Ohio,True,{},6.75,2025-08-13 00:34:07.960000+00:00
+txr_1N5w7XFCPJnn9IgIss9MogTM,False,2023-05-09 19:22:47+00:00,,Sales Tax,False,Colorado,True,{},5.13,2025-08-13 00:34:07.894000+00:00
+txr_1N5roTFCPJnn9IgIzhxouHVT,False,2023-05-09 14:46:49+00:00,,Sales Tax,False,North Carolina,True,{},7.0,2025-08-13 00:34:08.417000+00:00
+txr_1N5sAvFCPJnn9IgIoO9nbXbv,False,2023-05-09 15:10:01+00:00,,Sales Tax,False,Maryland,True,{},6.0,2025-08-13 00:34:19.592000+00:00
+txr_1N5vMZFCPJnn9IgIUrgoRxjq,False,2023-05-09 18:34:15+00:00,,Sales Tax,False,California,True,{},10.25,2025-08-13 00:34:07.640000+00:00
+txr_1N5r6PFCPJnn9IgIhrkTwPFb,False,2023-05-09 14:01:17+00:00,,Sales Tax,False,South Carolina,True,{},7.0,2025-08-13 00:34:08.420000+00:00
+txr_1N5qlVFCPJnn9IgI8TkWvOcb,False,2023-05-09 13:39:41+00:00,,Sales Tax,False,Pennsylvania,True,{},6.0,2025-08-13 00:34:19.538000+00:00
+txr_1PdOHtFCPJnn9IgI4viUmrvl,False,2024-07-17 03:12:17+00:00,,HST,False,Canada,True,{},13.0,2025-08-13 00:34:16.763000+00:00
+txr_1N7JGQFCPJnn9IgIU0aonffh,False,2023-05-13 14:17:38+00:00,,Sales Tax,False,Utah,True,{},7.45,2025-08-13 00:34:18.939000+00:00
+txr_1NBlicFCPJnn9IgIJwRHr3HN,False,2023-05-25 21:29:10+00:00,,Sales Tax,False,Arkansas,True,{},11.0,2025-08-13 00:34:02.987000+00:00
+txr_1RvGicFCPJnn9IgIHdAxBmY1,False,2025-08-12 11:50:18+00:00,,Sales Tax,True,Arkansas,True,{},11.0,2025-08-13 00:34:02.987000+00:00
+txr_1RvMCTFCPJnn9IgIctXHGYHh,False,2025-08-12 17:41:29+00:00,,Sales Tax,True,Florida,True,{},6.0,2025-08-13 00:34:05.587000+00:00
+txr_1RvQv0FCPJnn9IgIqTcn8tez,False,2025-08-12 22:43:46+00:00,,Sales Tax,True,Utah,True,{},6.65,2025-08-13 00:34:07.638000+00:00
+txr_1RWQxHFCPJnn9IgI3aonbntx,False,2025-06-04 23:42:47+00:00,,Sales Tax,True,Missouri,True,{},5.975,2025-08-09 00:33:40.971000+00:00
+txr_1OWkaqFCPJnn9IgIoAMTwB0n,False,2024-01-09 19:04:08+00:00,,Sales Tax,False,Missouri,True,{},6.975,2025-08-09 00:33:38.465000+00:00
+txr_1N8ngeFCPJnn9IgIvuKDWIjw,False,2023-05-17 16:58:52+00:00,,Sales Tax,False,Oklahoma,True,{},5.5,2025-08-09 00:33:39.387000+00:00
+txr_1N9Bn7FCPJnn9IgI9FSuwTSG,False,2023-05-18 18:43:09+00:00,,Sales Tax,False,Missouri,True,{},7.475,2025-08-09 00:31:57.605000+00:00
+txr_1N5w8LFCPJnn9IgIEEZomrcu,False,2023-05-09 19:23:37+00:00,,Sales Tax,False,Texas,True,{},8.0,2025-08-09 00:30:58.705000+00:00
+txr_1RQfILFCPJnn9IgIOA1vIkGW,False,2025-05-20 01:48:41+00:00,,Sales Tax,True,Kansas,True,{},9.475,2025-08-09 00:31:40.094000+00:00
+txr_1PH4TxFCPJnn9IgIO6CzTS6a,False,2024-05-16 13:36:29+00:00,,Sales Tax,False,Colorado,True,{},8.9,2025-08-09 00:31:31.680000+00:00
+txr_1RilemFCPJnn9IgITK5CuFsa,False,2025-07-09 00:14:40+00:00,,Sales Tax,True,Colorado,True,{},6.75,2025-08-09 00:33:39.443000+00:00
+txr_1Oouf4FCPJnn9IgIpNooEnNZ,False,2024-02-28 21:27:34+00:00,,Sales Tax,False,Washington,True,{},10.1,2025-08-09 00:31:54.422000+00:00
+txr_1Ri3brFCPJnn9IgIAHm2CjQG,False,2025-07-07 01:12:43+00:00,,Sales Tax,False,Louisiana,True,{},9.25,2025-08-09 00:31:39.151000+00:00
+txr_1RKeVqFCPJnn9IgImYeoDIvN,False,2025-05-03 11:45:46+00:00,,Sales Tax,True,Maine,True,{},5.5,2025-08-09 00:31:56.043000+00:00
+txr_1QB0SiFCPJnn9IgIc7ri0rID,False,2024-10-17 20:38:24+00:00,,Sales Tax,False,Utah,True,{},7.65,2025-08-09 00:31:29.748000+00:00
+txr_1N9WbDFCPJnn9IgIRD4bw6xF,False,2023-05-19 16:56:15+00:00,,Sales Tax,False,Oklahoma,True,{},8.917,2025-08-09 00:33:37.980000+00:00
+txr_1NBPl7FCPJnn9IgIFzNyGMIm,False,2023-05-24 22:02:17+00:00,,Sales Tax,True,Arizona,True,{},7.8,2025-08-09 00:33:38.468000+00:00
+txr_1RN0wTFCPJnn9IgIlblavCwO,False,2025-05-10 00:07:01+00:00,,Sales Tax,True,Arizona,True,{},8.6,2025-08-10 00:33:25.117000+00:00
+txr_1Nm0c7FCPJnn9IgIYH3DWunW,False,2023-09-02 20:40:15+00:00,,Sales Tax,False,Missouri,True,{},6.975,2025-08-10 00:33:25.086000+00:00
+txr_1RboG3FCPJnn9IgI4eIfuZwh,False,2025-06-19 19:36:23+00:00,,Sales Tax,True,New Mexico,True,{},7.625,2025-08-10 00:33:30.540000+00:00
+txr_1RQZHVFCPJnn9IgIkIR88st5,False,2025-05-19 19:23:25+00:00,,Sales Tax,True,Oklahoma,True,{},4.875,2025-08-10 00:33:25.116000+00:00
+txr_1NBkMVFCPJnn9IgIOplKDiHP,False,2023-05-25 20:02:15+00:00,,Sales Tax,False,Oklahoma,True,{},4.875,2025-08-10 00:33:37.582000+00:00
+txr_1QyS2wFCPJnn9IgIOjZ7aEtD,False,2025-03-03 06:00:10+00:00,,Sales Tax,False,Louisiana,True,{},11.35,2025-08-10 00:33:24.416000+00:00
+txr_1RLXOkFCPJnn9IgIZXn2LWSJ,False,2025-05-05 22:22:06+00:00,,Sales Tax,False,New York,True,{},8.125,2025-08-10 00:31:32.219000+00:00
+txr_1NDTicFCPJnn9IgIVDGBOJJR,False,2023-05-30 14:40:14+00:00,,Sales Tax,False,Missouri,True,{},7.1,2025-08-10 00:33:25.118000+00:00
+txr_1N8UZqFCPJnn9IgITZZWtyH5,False,2023-05-16 20:34:34+00:00,,Sales Tax,False,Washington,True,{},9.9,2025-08-10 00:31:12.764000+00:00
+txr_1Re2nvFCPJnn9IgIOEozbjcL,False,2025-06-25 23:32:35+00:00,,Sales Tax,False,Oklahoma,True,{},6.05,2025-08-10 00:30:56.320000+00:00
+txr_1RPl65FCPJnn9IgIbOChpjyv,False,2025-05-17 13:48:17+00:00,,Sales Tax,True,New York,True,{},8.375,2025-08-10 00:31:35.411000+00:00
+txr_1QsVEYFCPJnn9IgIhxY99zJU,False,2025-02-14 20:11:34+00:00,,Sales Tax,False,Missouri,True,{},7.1,2025-08-10 00:33:25.118000+00:00
+txr_1Pv8IzFCPJnn9IgIdST6SsB1,False,2024-09-04 01:46:45+00:00,,Sales Tax,False,New York,True,{},8.375,2025-08-10 00:31:35.411000+00:00
+txr_1NBAeVFCPJnn9IgIlkRz1WZs,False,2023-05-24 05:54:27+00:00,,Sales Tax,False,Oklahoma,True,{},8.9,2025-08-10 00:33:25.116000+00:00
+txr_1N89vaFCPJnn9IgIXVYd6ECE,False,2023-05-15 22:31:38+00:00,,Sales Tax,False,Missouri,True,{},5.95,2025-08-10 00:33:30.622000+00:00
+txr_1N7JlcFCPJnn9IgIq29HII1O,False,2023-05-13 14:49:52+00:00,,Sales Tax,False,Missouri,True,{},8.225,2025-08-10 00:33:25.115000+00:00
+txr_1NfUBwFCPJnn9IgI7hYLFiIa,False,2023-08-15 20:50:16+00:00,,Sales Tax,False,Colorado,True,{},6.5,2025-08-10 00:33:24.417000+00:00
+txr_1RuGLLFCPJnn9IgImHgPjl80,False,2025-08-09 17:14:07+00:00,,Sales Tax,True,Massachusetts,True,{},6.25,2025-08-10 00:33:28.408000+00:00
+txr_1N7V5VFCPJnn9IgIUQNdkcxX,False,2023-05-14 02:55:09+00:00,,Sales Tax,False,Georgia,True,{},7.75,2025-08-11 00:33:27.576000+00:00
+txr_1Qn2poFCPJnn9IgIiY24XemV,False,2025-01-30 18:51:28+00:00,,Sales Tax,False,Arkansas,True,{},8.875,2025-08-11 00:31:32.027000+00:00
+txr_1PrpMOFCPJnn9IgIQphghMA4,False,2024-08-25 22:56:36+00:00,,Sales Tax,False,Arizona,True,{},8.35,2025-08-11 00:31:18.818000+00:00
+txr_1RVIaqFCPJnn9IgITjXtT4EL,False,2025-06-01 20:34:56+00:00,,Sales Tax,False,Washington,True,{},9.4,2025-08-11 00:31:30.342000+00:00
+txr_1RrnPQFCPJnn9IgIp8kmB3WB,False,2025-08-02 21:56:08+00:00,,Sales Tax,True,Alabama,True,{},5.5,2025-08-11 00:33:30.152000+00:00
+txr_1RNL1tFCPJnn9IgInxpzQlxL,False,2025-05-10 21:33:57+00:00,,Sales Tax,True,Illinois,True,{},7.5,2025-08-11 00:33:30.284000+00:00
+txr_1QfqBRFCPJnn9IgIxShw2A56,False,2025-01-10 21:56:01+00:00,,Sales Tax,False,Louisiana,True,{},9.6,2025-08-11 00:33:30.283000+00:00
+txr_1NLUJgFCPJnn9IgILPwyKMQt,False,2023-06-21 16:55:36+00:00,,Sales Tax,False,Missouri,True,{},6.6,2025-08-11 00:33:27.562000+00:00
+txr_1RsUgKFCPJnn9IgINYarz68m,False,2025-08-04 20:08:28+00:00,,Sales Tax,True,Missouri,True,{},5.85,2025-08-11 00:33:26.763000+00:00
+txr_1N8XBzFCPJnn9IgIkbyVEuId,False,2023-05-16 23:22:07+00:00,,Sales Tax,False,Georgia,True,{},9.0,2025-08-11 00:31:31.168000+00:00
+txr_1RNKVcFCPJnn9IgI1CNu0xUH,False,2025-05-10 21:00:36+00:00,,Sales Tax,True,Illinois,True,{},8.5,2025-08-11 00:31:28.436000+00:00
+txr_1RQA6VFCPJnn9IgIfzY0lf4J,False,2025-05-18 16:30:23+00:00,,Sales Tax,True,California,True,{},9.25,2025-08-11 00:33:27.574000+00:00
+txr_1NVNm1FCPJnn9IgIBH82rWWv,False,2023-07-18 23:57:45+00:00,,Sales Tax,False,Colorado,True,{},3.7,2025-08-11 00:33:30.154000+00:00
+txr_1NP7AxFCPJnn9IgI6616J3RS,False,2023-07-01 17:01:35+00:00,,Sales Tax,False,New Mexico,True,{},7.4375,2025-08-11 00:31:26.233000+00:00
+txr_1P1XRwFCPJnn9IgIRzMVC8xV,False,2024-04-03 17:18:12+00:00,,Sales Tax,False,Oklahoma,True,{},9.667,2025-08-11 00:31:10.572000+00:00
+txr_1PgyJsFCPJnn9IgITRZUomKN,False,2024-07-27 00:17:08+00:00,,Sales Tax,True,Tennessee,True,{},9.25,2025-08-11 00:33:27.733000+00:00
+txr_1N8tjDFCPJnn9IgI3Uome3k5,False,2023-05-17 23:25:55+00:00,,Sales Tax,False,Kansas,True,{},7.975,2025-08-11 00:31:24.159000+00:00
+txr_1NKZ6lFCPJnn9IgINrcbcWXO,False,2023-06-19 03:50:27+00:00,,Sales Tax,False,Missouri,True,{},4.225,2025-08-11 00:33:29.431000+00:00
+txr_1NBHKpFCPJnn9IgI8YelnQA6,False,2023-05-24 13:02:35+00:00,,Sales Tax,False,Oklahoma,True,{},9.5,2025-08-11 00:33:30.282000+00:00
+txr_1N8sAyFCPJnn9IgIrarHaFfD,False,2023-05-17 21:46:28+00:00,,Sales Tax,True,Ohio,True,{},6.75,2025-08-11 00:31:04.654000+00:00
+txr_1RMVAVFCPJnn9IgISTkaGF72,False,2025-05-08 14:11:23+00:00,,Sales Tax,True,South Carolina,True,{},7.0,2025-08-11 00:33:29.873000+00:00
+txr_1N7L21FCPJnn9IgIhrSTHZIH,False,2023-05-13 16:10:53+00:00,,Sales Tax,False,Missouri,True,{},8.1,2025-08-11 00:31:08.064000+00:00
+txr_1RK5eAFCPJnn9IgIbvPyxcU4,False,2025-05-01 22:32:02+00:00,,Sales Tax,True,Virginia,True,{},5.3,2025-08-11 00:31:23.595000+00:00
+txr_1N611hFCPJnn9IgIq2z9ZCtQ,False,2023-05-10 00:37:05+00:00,,Sales Tax,False,Florida,True,{},7.5,2025-08-11 00:33:27.735000+00:00
+txr_1N6JXJFCPJnn9IgIsggNAyGw,False,2023-05-10 20:22:57+00:00,,Sales Tax,False,Washington,True,{},8.5,2025-08-11 00:33:30.156000+00:00
+txr_1N6dEjFCPJnn9IgIXmcn0yR9,False,2023-05-11 17:25:05+00:00,,Sales Tax,False,Alabama,True,{},5.0,2025-08-11 00:31:25.056000+00:00
+txr_1N5s6CFCPJnn9IgIUK6VLskk,False,2023-05-09 15:05:08+00:00,,Sales Tax,False,Alabama,True,{},5.5,2025-08-11 00:33:40.175000+00:00
+txr_1QcVLkFCPJnn9IgI7YAsDVV9,False,2025-01-01 17:04:52+00:00,,Sales Tax,False,Utah,True,{},8.25,2025-08-12 00:31:05.831000+00:00
+txr_1NVIVBFCPJnn9IgIe6apMII8,False,2023-07-18 18:20:01+00:00,,Sales Tax,False,Missouri,True,{},9.35,2025-08-12 00:31:21.197000+00:00
+txr_1NOvrYFCPJnn9IgIorUrEfIk,False,2023-07-01 04:56:48+00:00,,Sales Tax,False,New Mexico,True,{},7.0625,2025-08-12 00:31:38.021000+00:00
+txr_1PVj9RFCPJnn9IgIXKCPv1LY,False,2024-06-25 23:51:53+00:00,,Sales Tax,False,Colorado,True,{},3.5,2025-08-12 00:31:42.884000+00:00
+txr_1N7QVPFCPJnn9IgInL1YHhr2,False,2023-05-13 22:01:35+00:00,,Sales Tax,False,New Mexico,True,{},7.0,2025-08-12 00:33:53.696000+00:00
+txr_1RYcm9FCPJnn9IgIJUC8hUTD,False,2025-06-11 00:44:21+00:00,,VAT,False,Philippines,True,{},12.0,2025-08-12 00:33:46.839000+00:00
+txr_1OKoFdFCPJnn9IgIGp9nBt89,False,2023-12-07 20:32:53+00:00,,Sales Tax,False,Illinois,True,{},7.6,2025-08-12 00:33:54.026000+00:00
+txr_1NGngLFCPJnn9IgIsESPCu8h,False,2023-06-08 18:35:37+00:00,,Sales Tax,False,Oklahoma,True,{},9.375,2025-08-12 00:31:45.391000+00:00
+txr_1RkcdMFCPJnn9IgI4h2ZvhqP,False,2025-07-14 03:00:52+00:00,,Sales Tax,True,Missouri,True,{},5.725,2025-08-12 00:33:53.397000+00:00
+txr_1N9K4IFCPJnn9IgIIIIGAyY4,False,2023-05-19 03:33:26+00:00,,Sales Tax,False,Missouri,True,{},5.725,2025-08-12 00:33:53.397000+00:00
+txr_1N6HfiFCPJnn9IgIgGjw2ePz,False,2023-05-10 18:23:30+00:00,,Sales Tax,False,Minnesota,True,{},7.875,2025-08-12 00:31:01.697000+00:00
+txr_1Q7KdCFCPJnn9IgIRndQPqxH,False,2024-10-07 17:22:02+00:00,,Sales Tax,False,Kansas,True,{},8.15,2025-08-12 00:33:46.521000+00:00
+txr_1N6jPPFCPJnn9IgIzKvR9UB4,False,2023-05-12 00:00:31+00:00,,Sales Tax,False,Missouri,True,{},6.85,2025-08-12 00:33:57.062000+00:00
+txr_1NaLvpFCPJnn9IgIgn4UKMUW,False,2023-08-01 17:00:25+00:00,,Sales Tax,False,Colorado,True,{},4.15,2025-08-12 00:33:57.058000+00:00
+txr_1RNayIFCPJnn9IgIhpoj7jhu,False,2025-05-11 14:35:18+00:00,,Sales Tax,False,Pennsylvania,True,{},7.0,2025-08-12 00:33:49.938000+00:00
+txr_1NsByRFCPJnn9IgI5ixklm95,False,2023-09-19 22:00:51+00:00,,Sales Tax,False,Minnesota,True,{},8.375,2025-08-12 00:33:46.522000+00:00
+txr_1PvLEnFCPJnn9IgIBVUH6EAl,False,2024-09-04 15:35:17+00:00,,Sales Tax,False,Arkansas,True,{},9.875,2025-08-12 00:31:11.444000+00:00
+txr_1N71DyFCPJnn9IgIwpJCxi2h,False,2023-05-12 19:01:54+00:00,,Sales Tax,False,California,True,{},8.375,2025-08-12 00:31:30.896000+00:00
+txr_1N6n6uFCPJnn9IgIq0ZsnCZ8,False,2023-05-12 03:57:40+00:00,,Sales Tax,False,Ohio,True,{},6.85,2025-08-12 00:31:34.820000+00:00
+txr_1N6bgpFCPJnn9IgIhT5bElGy,False,2023-05-11 15:45:59+00:00,,Sales Tax,False,Colorado,True,{},3.46,2025-08-12 00:33:57.065000+00:00
+txr_1RJZ7LFCPJnn9IgIihKr7pR2,False,2025-04-30 11:47:59+00:00,,Sales Tax,True,Indiana,True,{},7.0,2025-08-12 00:33:54.028000+00:00
+txr_1N8QzvFCPJnn9IgI0TQngH7d,False,2023-05-16 16:45:15+00:00,,Sales Tax,False,Nebraska,True,{},5.5,2025-08-12 00:33:46.521000+00:00
+txr_1PH1UrFCPJnn9IgIzKEiD2Rg,False,2024-05-16 10:25:13+00:00,,Sales Tax,False,New Mexico,True,{},6.5625,2025-08-12 00:33:53.868000+00:00
+txr_1QgwUWFCPJnn9IgIaMqQqZDp,False,2025-01-13 22:52:16+00:00,,Sales Tax,False,Louisiana,True,{},10.55,2025-08-12 00:31:41.441000+00:00
+txr_1N5w7UFCPJnn9IgIFlckPtKD,False,2023-05-09 19:22:44+00:00,,Sales Tax,False,Oklahoma,True,{},4.867,2025-08-12 00:30:55.060000+00:00
+txr_1RMes2FCPJnn9IgI9ri1VXEd,False,2025-05-09 00:32:58+00:00,,Sales Tax,True,Illinois,True,{},10.25,2025-08-12 00:31:40.713000+00:00
+txr_1N6GC2FCPJnn9IgI5ObdKYCt,False,2023-05-10 16:48:46+00:00,,Sales Tax,False,Utah,True,{},7.0,2025-08-12 00:32:02.851000+00:00
+txr_1N5wA0FCPJnn9IgI69z0ZmH8,False,2023-05-09 19:25:20+00:00,,Sales Tax,False,Colorado,True,{},3.9,2025-08-12 00:31:23.338000+00:00
+txr_1RVwafFCPJnn9IgI0d02OSxG,False,2025-06-03 15:17:25+00:00,,Sales Tax,True,California,True,{},7.875,2025-08-12 00:33:57.723000+00:00
+txr_1RpdhYFCPJnn9IgI7BXtiZgL,False,2025-07-27 23:09:56+00:00,,Sales Tax,True,District of Columbia,True,{},6.0,2025-08-12 00:33:53.855000+00:00
+txr_1OUbS8FCPJnn9IgI4wJnVuMt,False,2024-01-03 20:54:16+00:00,,Sales Tax,False,Colorado,True,{},3.775,2025-08-12 00:33:49.540000+00:00
+txr_1N6jHaFCPJnn9IgI8EQUUgCC,False,2023-05-11 23:52:26+00:00,,Sales Tax,False,Kansas,True,{},9.15,2025-08-12 00:33:54.028000+00:00
+txr_1NA1E1FCPJnn9IgIUo7qehBF,False,2023-05-21 01:38:21+00:00,,Sales Tax,False,North Dakota,True,{},5.5,2025-08-12 00:32:06.950000+00:00
+txr_1N6jPOFCPJnn9IgIHiyQg3My,False,2023-05-12 00:00:30+00:00,,Sales Tax,False,Arkansas,True,{},9.75,2025-08-12 00:30:53.825000+00:00
+txr_1N6jPLFCPJnn9IgIutOcAvVi,False,2023-05-12 00:00:27+00:00,,Sales Tax,False,California,True,{},7.975,2025-08-12 00:31:33.421000+00:00
+txr_1N61rVFCPJnn9IgIsqRt4hEQ,False,2023-05-10 01:30:37+00:00,,Sales Tax,False,Virginia,True,{},6.3,2025-08-12 00:31:27.353000+00:00
+txr_1RLnLoFCPJnn9IgIVKkk9Sdt,False,2025-05-06 15:24:08+00:00,,Sales Tax,True,Minnesota,True,{},7.375,2025-08-12 00:33:47.065000+00:00
+txr_1N72DSFCPJnn9IgIgyIJEjpb,False,2023-05-12 20:05:26+00:00,,Sales Tax,False,Virginia,True,{},5.3,2025-08-12 00:33:54.024000+00:00
+txr_1N74p0FCPJnn9IgINU0WPbbi,False,2023-05-12 22:52:22+00:00,,Sales Tax,False,West Virginia,True,{},6.0,2025-08-12 00:33:47.963000+00:00
+txr_1OGxVYFCPJnn9IgIa4XJCi6h,False,2023-11-27 05:37:24+00:00,,Sales Tax,False,Arkansas,True,{},10.25,2025-08-12 00:33:49.540000+00:00
+txr_1RuwFwFCPJnn9IgIGirdq3Ec,False,2025-08-11 13:59:20+00:00,,Sales Tax,True,Arkansas,True,{},10.25,2025-08-12 00:33:49.540000+00:00
+txr_1N9WkXFCPJnn9IgIfnCgmlKc,False,2023-05-19 17:05:53+00:00,,Sales Tax,False,Oklahoma,True,{},9.583,2025-08-13 00:31:43.328000+00:00
+txr_1NMwOxFCPJnn9IgIzgcb7zdC,False,2023-06-25 17:07:03+00:00,,Sales Tax,False,Illinois,True,{},9.75,2025-08-13 00:34:04.855000+00:00
+txr_1OIMeuFCPJnn9IgIDQpRkwNO,False,2023-12-01 02:40:52+00:00,,Sales Tax,False,Minnesota,True,{},9.025,2025-08-13 00:34:09.406000+00:00
+txr_1RsCasFCPJnn9IgIOHuBpjTD,False,2025-08-04 00:49:38+00:00,,Sales Tax,True,Illinois,True,{},9.75,2025-08-13 00:34:04.855000+00:00
+txr_1N6tP6FCPJnn9IgIC9UxvqQ9,False,2023-05-12 10:40:52+00:00,,Sales Tax,False,Illinois,True,{},8.1,2025-08-13 00:34:02.391000+00:00
+txr_1QfojoFCPJnn9IgIsXIDRyeo,False,2025-01-10 20:23:24+00:00,,Sales Tax,False,Utah,True,{},6.65,2025-08-13 00:34:07.638000+00:00
+txr_1NGVVBFCPJnn9IgIyEnmYCxc,False,2023-06-07 23:10:53+00:00,,Sales Tax,False,Maine,True,{},5.5,2025-08-13 00:34:05.585000+00:00
+txr_1RNlddFCPJnn9IgIaXgfOikl,False,2025-05-12 01:58:41+00:00,,Sales Tax,True,South Carolina,True,{},9.0,2025-08-13 00:34:02.986000+00:00
+txr_1N6gIsFCPJnn9IgIl2otlhWY,False,2023-05-11 20:41:34+00:00,,Sales Tax,False,Nevada,True,{},6.85,2025-08-13 00:34:02.334000+00:00
+txr_1N6GJXFCPJnn9IgIoCViTNDW,False,2023-05-10 16:56:31+00:00,,Sales Tax,False,Utah,True,{},6.7,2025-08-13 00:31:11.209000+00:00
+txr_1QfnMtFCPJnn9IgIpy08kkQJ,False,2025-01-10 18:55:39+00:00,,Sales Tax,False,Alabama,True,{},9.5,2025-08-13 00:31:12.417000+00:00
+txr_1RcvEJFCPJnn9IgITKnrdeiC,False,2025-06-22 21:15:11+00:00,,Sales Tax,True,Kansas,True,{},9.35,2025-08-13 00:34:01.197000+00:00
+txr_1RU7VHFCPJnn9IgIau7hPCiu,False,2025-05-29 14:32:19+00:00,,Sales Tax,True,Illinois,True,{},7.25,2025-08-13 00:34:01.488000+00:00
+txr_1N6N5jFCPJnn9IgIMhVn5Lg5,False,2023-05-11 00:10:43+00:00,,Sales Tax,False,Utah,True,{},6.9,2025-08-13 00:31:33.488000+00:00
+txr_1RR3wAFCPJnn9IgIAiUzrtiE,False,2025-05-21 04:07:26+00:00,,Sales Tax,True,California,True,{},7.25,2025-08-13 00:31:50.153000+00:00
+txr_1N7MDRFCPJnn9IgIOvz7F5T8,False,2023-05-13 17:26:45+00:00,,Sales Tax,False,Georgia,True,{},6.0,2025-08-13 00:34:05.337000+00:00
+txr_1N8xlBFCPJnn9IgI0XeCfaKB,False,2023-05-18 03:44:13+00:00,,Sales Tax,False,California,True,{},8.875,2025-08-13 00:31:09.199000+00:00
+txr_1RJKBEFCPJnn9IgIJY2IQZ8e,False,2025-04-29 19:51:00+00:00,,Sales Tax,True,Florida,True,{},7.5,2025-08-13 00:34:08.071000+00:00
+txr_1P16wYFCPJnn9IgIR1ecyPXw,False,2024-04-02 13:00:02+00:00,,Sales Tax,False,Washington,True,{},9.7,2025-08-13 00:31:40.475000+00:00
+txr_1N5xV1FCPJnn9IgIRK3Z1DrA,False,2023-05-09 20:51:07+00:00,,Sales Tax,False,Colorado,True,{},8.0,2025-08-13 00:34:07.895000+00:00
+txr_1NP3PJFCPJnn9IgI0pAeYrtv,False,2023-07-01 13:00:09+00:00,,Sales Tax,False,South Dakota,True,{},4.2,2025-08-13 00:31:11.761000+00:00
+txr_1NS0GOFCPJnn9IgILoJBdGJE,False,2023-07-09 16:15:08+00:00,,Sales Tax,False,Kansas,True,{},9.6,2025-08-13 00:32:03.201000+00:00
+txr_1Q5Cb6FCPJnn9IgIAbNUqETD,False,2024-10-01 20:23:04+00:00,,Sales Tax,False,Minnesota,True,{},8.0,2025-08-13 00:31:57.539000+00:00
+txr_1N7ShuFCPJnn9IgIsP7HXrEi,False,2023-05-14 00:22:38+00:00,,Sales Tax,False,Missouri,True,{},9.1,2025-08-13 00:32:01.108000+00:00
+txr_1N6NJPFCPJnn9IgI4czrs9Vo,False,2023-05-11 00:24:51+00:00,,Sales Tax,False,Oklahoma,True,{},8.517,2025-08-13 00:31:22.691000+00:00
+txr_1N64efFCPJnn9IgIOKR4RbiG,False,2023-05-10 04:29:33+00:00,,Sales Tax,False,Oklahoma,True,{},8.975,2025-08-13 00:34:05.584000+00:00
+txr_1N6NjeFCPJnn9IgIbDEjNPEM,False,2023-05-11 00:51:58+00:00,,Sales Tax,False,Arkansas,True,{},7.5,2025-08-13 00:34:19.530000+00:00
+txr_1N6lC2FCPJnn9IgI1E90OUMN,False,2023-05-12 01:54:50+00:00,,Sales Tax,False,California,True,{},7.75,2025-08-13 00:34:00.746000+00:00
+txr_1N5yjkFCPJnn9IgIREwakbHW,False,2023-05-09 22:10:24+00:00,,Sales Tax,False,Kansas,True,{},9.475,2025-08-13 00:34:17.876000+00:00
+txr_1NP7AwFCPJnn9IgIIzfA2xdo,False,2023-07-01 17:01:34+00:00,,Sales Tax,False,South Dakota,True,{},6.2,2025-08-13 00:34:07.896000+00:00
+txr_1N9ZZqFCPJnn9IgIHEs37OyR,False,2023-05-19 20:07:02+00:00,,Sales Tax,False,Illinois,True,{},8.25,2025-08-13 00:31:39.304000+00:00
+txr_1N6jPOFCPJnn9IgIKtg1jcXW,False,2023-05-12 00:00:30+00:00,,Sales Tax,False,Tennessee,True,{},9.0,2025-08-13 00:32:10.041000+00:00
+txr_1PAFC3FCPJnn9IgI60s9b3eM,False,2024-04-27 17:37:47+00:00,,Sales Tax,False,Missouri,True,{},9.975,2025-08-13 00:34:00.746000+00:00
+txr_1NA06BFCPJnn9IgI5Qibnjcw,False,2023-05-21 00:26:11+00:00,,Sales Tax,False,Illinois,True,{},6.25,2025-08-13 00:34:08.422000+00:00
+txr_1N5w6iFCPJnn9IgII2QX6LxT,False,2023-05-09 19:21:56+00:00,,Sales Tax,False,California,True,{},9.5,2025-08-13 00:34:07.957000+00:00
+txr_1N6nPVFCPJnn9IgIaFCKshHQ,False,2023-05-12 04:16:53+00:00,,Sales Tax,False,California,True,{},9.875,2025-08-13 00:34:00.744000+00:00
+txr_1N6H2NFCPJnn9IgIFzhoRbYS,False,2023-05-10 17:42:51+00:00,,Sales Tax,False,Missouri,True,{},6.725,2025-08-13 00:32:01.726000+00:00
+txr_1RPSXQFCPJnn9IgIeeFcdFdm,False,2025-05-16 17:59:16+00:00,,Sales Tax,True,North Carolina,True,{},6.75,2025-08-13 00:31:49.999000+00:00
+txr_1N6aWhFCPJnn9IgI3zrSkkHu,False,2023-05-11 14:31:27+00:00,,Sales Tax,False,Kansas,True,{},9.5,2025-08-13 00:34:08.068000+00:00
+txr_1N87MtFCPJnn9IgIwrQ6tVkg,False,2023-05-15 19:47:39+00:00,,Sales Tax,False,Alabama,True,{},8.5,2025-08-13 00:34:15.268000+00:00
+txr_1OTor8FCPJnn9IgIDXTx10lQ,False,2024-01-01 17:00:50+00:00,,Sales Tax,False,Wisconsin,True,{},5.9,2025-08-13 00:34:07.637000+00:00
+txr_1N6R8tFCPJnn9IgIkeQkX4wL,False,2023-05-11 04:30:15+00:00,,Sales Tax,False,Colorado,True,{},2.9,2025-08-13 00:31:44.033000+00:00
+txr_1N8S4ZFCPJnn9IgI7oQTyFkA,False,2023-05-16 17:54:07+00:00,,Sales Tax,False,Missouri,True,{},8.738,2025-08-13 00:34:18.919000+00:00
+txr_1N9GokFCPJnn9IgINy3X4aPj,False,2023-05-19 00:05:10+00:00,,Sales Tax,False,Missouri,True,{},8.988,2025-08-12 00:31:09.625000+00:00
+txr_1NMxi8FCPJnn9IgIaIALG0JU,False,2023-06-25 18:30:56+00:00,,Sales Tax,False,Colorado,True,{},6.75,2025-08-12 00:33:46.442000+00:00
+txr_1N6jPOFCPJnn9IgIrX7WKfRc,False,2023-05-12 00:00:30+00:00,,Sales Tax,False,Arkansas,True,{},8.25,2025-08-12 00:33:53.398000+00:00
+txr_1N9HX9FCPJnn9IgIEcld6WwB,False,2023-05-19 00:51:03+00:00,,Sales Tax,False,Arizona,True,{},9.43,2025-08-12 00:31:06.970000+00:00
+txr_1OnODPFCPJnn9IgIYCy9iygt,False,2024-02-24 16:36:43+00:00,,,False,Puerto Rico,True,{},0.0,2025-08-12 00:32:05.153000+00:00
+txr_1NNjOsFCPJnn9IgIR3fRgLmH,False,2023-06-27 21:26:14+00:00,,Sales Tax,False,Kansas,True,{},7.5,2025-08-12 00:33:47.066000+00:00
+txr_1N6Kg3FCPJnn9IgI93z0VEfD,False,2023-05-10 21:36:03+00:00,,Sales Tax,False,Wyoming,True,{},5.0,2025-08-12 00:31:37.520000+00:00
+txr_1N6drrFCPJnn9IgIK3ZsnBcS,False,2023-05-11 18:05:31+00:00,,Sales Tax,False,Utah,True,{},6.35,2025-08-12 00:34:04.724000+00:00
+txr_1RRwNhFCPJnn9IgIBzdW5Jhd,False,2025-05-23 14:15:29+00:00,,Sales Tax,True,Missouri,True,{},4.225,2025-08-12 00:31:46.259000+00:00
+txr_1N7MEpFCPJnn9IgIfBfuHcFt,False,2023-05-13 17:28:11+00:00,,Sales Tax,True,Georgia,True,{},6.0,2025-08-12 00:30:58.128000+00:00
+txr_1Pfn6bFCPJnn9IgIl8wDGxP1,False,2024-07-23 18:06:33+00:00,,Sales Tax,True,Hawaii,True,{},4.712,2025-08-12 00:31:43.164000+00:00
+txr_1N6ENQFCPJnn9IgImDj4kbDe,False,2023-05-10 14:52:24+00:00,,Sales Tax,False,Arizona,True,{},8.05,2025-08-12 00:32:01.009000+00:00
+txr_1NPICpFCPJnn9IgISkWa3tCC,False,2023-07-02 04:48:15+00:00,,Sales Tax,False,New Mexico,True,{},6.875,2025-08-12 00:31:23.594000+00:00
+txr_1QcTyQFCPJnn9IgIMCB1xmag,False,2025-01-01 15:36:42+00:00,,Sales Tax,False,Louisiana,True,{},9.5,2025-08-12 00:33:57.063000+00:00
+txr_1N9DYjFCPJnn9IgI4WFLn42f,False,2023-05-18 20:36:25+00:00,,Sales Tax,False,Missouri,True,{},6.308,2025-08-12 00:31:34.325000+00:00
+txr_1RL7UIFCPJnn9IgI9WrNiV0W,False,2025-05-04 18:42:06+00:00,,Sales Tax,True,Minnesota,True,{},9.025,2025-08-12 00:33:53.868000+00:00
+txr_1QCKd8FCPJnn9IgIsippa8Rz,False,2024-10-21 12:22:38+00:00,,Sales Tax,False,South Carolina,True,{},7.0,2025-08-12 00:33:46.522000+00:00
+txr_1P0n0KFCPJnn9IgIXdQQYYSw,False,2024-04-01 15:42:36+00:00,,Sales Tax,False,Minnesota,True,{},9.875,2025-08-12 00:31:25.400000+00:00
+txr_1N6FuJFCPJnn9IgIrWWn0zg3,False,2023-05-10 16:30:27+00:00,,Sales Tax,False,Illinois,True,{},9.0,2025-08-12 00:31:08.913000+00:00
+txr_1N6FaQFCPJnn9IgIaXEtvM0d,False,2023-05-10 16:09:54+00:00,,Sales Tax,False,Missouri,True,{},5.975,2025-08-12 00:33:53.400000+00:00
+txr_1N6GRVFCPJnn9IgIl2huU7we,False,2023-05-10 17:04:45+00:00,,Sales Tax,False,Colorado,True,{},6.75,2025-08-12 00:34:04.717000+00:00
+txr_1RKUDwFCPJnn9IgI5hPbsyGR,False,2025-05-03 00:46:36+00:00,,Sales Tax,False,Connecticut,True,{},6.35,2025-08-12 00:34:08.489000+00:00
+txr_1N87CqFCPJnn9IgISMxY5A3c,False,2023-05-15 19:37:16+00:00,,Sales Tax,False,Minnesota,True,{},8.125,2025-08-12 00:33:50.293000+00:00
+txr_1PRQYCFCPJnn9IgIIZHe2VTn,False,2024-06-14 03:11:40+00:00,,Sales Tax,False,Oklahoma,True,{},6.625,2025-08-13 00:31:40.460000+00:00
+txr_1RX8R3FCPJnn9IgIuQAmsOvr,False,2025-06-06 22:08:25+00:00,,Sales Tax,True,Arizona,True,{},8.7,2025-08-13 00:31:48.434000+00:00
+txr_1RKLRhFCPJnn9IgImcR9nf7H,False,2025-05-02 15:24:13+00:00,,Sales Tax,True,Washington,True,{},8.0,2025-08-13 00:31:50.817000+00:00
+txr_1RS3O2FCPJnn9IgIKQn5xKzT,False,2025-05-23 21:44:18+00:00,,Sales Tax,False,Texas,True,{},7.25,2025-08-13 00:34:15.137000+00:00
+txr_1RQIiuFCPJnn9IgIPy3pF5Q2,False,2025-05-19 01:42:36+00:00,,Sales Tax,False,Colorado,True,{},7.01,2025-08-13 00:31:44.033000+00:00
+txr_1N719jFCPJnn9IgI5smcBlQ9,False,2023-05-12 18:57:31+00:00,,Sales Tax,False,Texas,True,{},7.0,2025-08-13 00:34:05.341000+00:00
+txr_1N77q2FCPJnn9IgIAmG6TM5y,False,2023-05-13 02:05:38+00:00,,Sales Tax,False,Alabama,True,{},7.5,2025-08-13 00:34:08.417000+00:00
+txr_1OWjEYFCPJnn9IgICTla6CR9,False,2024-01-09 17:37:02+00:00,,Sales Tax,False,Utah,True,{},7.35,2025-08-13 00:34:18.128000+00:00
+txr_1ROBUnFCPJnn9IgIsBz2flAv,False,2025-05-13 05:35:17+00:00,,Sales Tax,True,Washington,True,{},8.8,2025-08-13 00:34:05.588000+00:00
+txr_1N77G0FCPJnn9IgIVbBm4R9a,False,2023-05-13 01:28:24+00:00,,Sales Tax,False,Kansas,True,{},8.0,2025-08-13 00:31:27.308000+00:00
+txr_1N8WI0FCPJnn9IgINXYUwVDu,False,2023-05-16 22:24:16+00:00,,Sales Tax,False,Arizona,True,{},6.35,2025-08-13 00:31:32.080000+00:00
+txr_1N9VXxFCPJnn9IgIFVA9dnRD,False,2023-05-19 15:48:49+00:00,,Sales Tax,False,Missouri,True,{},6.475,2025-08-13 00:31:34.095000+00:00
+txr_1N8xFwFCPJnn9IgIFmjuungj,False,2023-05-18 03:11:56+00:00,,Sales Tax,False,Kansas,True,{},9.35,2025-08-13 00:34:07.638000+00:00
+txr_1N5w8rFCPJnn9IgIdsMr1TN7,False,2023-05-09 19:24:09+00:00,,Sales Tax,False,Alabama,True,{},8.0,2025-08-13 00:31:31.398000+00:00
+txr_1RK8oLFCPJnn9IgIgxuYY9IO,False,2025-05-02 01:54:45+00:00,,Sales Tax,True,New York,True,{},8.75,2025-08-13 00:31:07.303000+00:00
+txr_1Q18m0FCPJnn9IgI0tsUHenL,False,2024-09-20 15:29:32+00:00,,Sales Tax,False,Minnesota,True,{},8.0,2025-08-13 00:32:02.746000+00:00
+txr_1QL5ggFCPJnn9IgIF3Qv2eC6,False,2024-11-14 16:14:30+00:00,,RST,False,Manitoba,True,{},7.0,2025-08-13 00:34:04.858000+00:00
+txr_1N7htmFCPJnn9IgINqT8PGo7,False,2023-05-14 16:35:54+00:00,,Sales Tax,False,Georgia,True,{},8.9,2025-08-13 00:31:25.154000+00:00
+txr_1NA0gQFCPJnn9IgISMtM3f6C,False,2023-05-21 01:03:38+00:00,,Sales Tax,False,California,True,{},9.375,2025-08-13 00:31:41.077000+00:00
+txr_1RKZyWFCPJnn9IgIz8oWdKXe,False,2025-05-03 06:55:04+00:00,,Sales Tax,True,Alabama,True,{},9.0,2025-08-13 00:31:38.645000+00:00
+txr_1N8OlcFCPJnn9IgIAwNOV5ZB,False,2023-05-16 14:22:20+00:00,,Sales Tax,False,Utah,True,{},6.95,2025-08-13 00:31:35.240000+00:00
+txr_1RNlddFCPJnn9IgIsSvBeDtq,False,2025-05-12 01:58:41+00:00,,Sales Tax,False,South Carolina,True,{},9.0,2025-08-13 00:34:02.986000+00:00
+txr_1N5xsvFCPJnn9IgIutWDxpBY,False,2023-05-09 21:15:49+00:00,,Sales Tax,False,Arizona,True,{},9.3,2025-08-13 00:34:14.847000+00:00
+txr_1OfRhSFCPJnn9IgIfcpjPi95,False,2024-02-02 18:42:54+00:00,,Sales Tax,False,New York,True,{},8.75,2025-08-13 00:31:07.304000+00:00
+txr_1N6EA6FCPJnn9IgIZ0CuX5Dj,False,2023-05-10 14:38:38+00:00,,Sales Tax,False,Missouri,True,{},8.6,2025-08-13 00:34:04.969000+00:00
+txr_1RLFpjFCPJnn9IgIZunJaCnh,False,2025-05-05 03:36:47+00:00,,Sales Tax,True,California,True,{},10.25,2025-08-13 00:31:48.347000+00:00
+txr_1N71E3FCPJnn9IgI3LavmKnF,False,2023-05-12 19:01:59+00:00,,Sales Tax,False,Illinois,True,{},7.85,2025-08-13 00:34:07.958000+00:00
+txr_1N9ZhfFCPJnn9IgI5h3Bwm0B,False,2023-05-19 20:15:07+00:00,,Sales Tax,False,Oklahoma,True,{},4.5,2025-08-13 00:31:30.206000+00:00
+txr_1N6JIjFCPJnn9IgI8YGJifrN,False,2023-05-10 20:07:53+00:00,,Sales Tax,False,Colorado,True,{},3.86,2025-08-13 00:31:06.600000+00:00
+txr_1RLyHtFCPJnn9IgIB9VitGZW,False,2025-05-07 03:04:49+00:00,,Sales Tax,True,Arizona,True,{},8.3,2025-08-13 00:34:07.404000+00:00
+txr_1QcW1MFCPJnn9IgIPpsY1bXm,False,2025-01-01 17:47:52+00:00,,Sales Tax,False,Louisiana,True,{},9.0,2025-08-13 00:34:04.318000+00:00
+txr_1N7t9GFCPJnn9IgIS7HqrL4V,False,2023-05-15 04:36:38+00:00,,Sales Tax,False,Alabama,True,{},6.75,2025-08-13 00:31:22.440000+00:00
+txr_1O7WNMFCPJnn9IgIQHpptOg1,False,2023-11-01 04:49:56+00:00,,Sales Tax,False,Utah,True,{},7.55,2025-08-13 00:32:08.145000+00:00
+txr_1RMI0IFCPJnn9IgIMYLXznxB,False,2025-05-08 00:07:58+00:00,,Sales Tax,True,Washington,True,{},10.35,2025-08-13 00:31:14.811000+00:00
+txr_1RJxa7FCPJnn9IgIg03Lhlyr,False,2025-05-01 13:55:19+00:00,,Sales Tax,True,Utah,True,{},7.3,2025-08-13 00:34:04.971000+00:00
+txr_1N8aSwFCPJnn9IgIImLbLqju,False,2023-05-17 02:51:50+00:00,,Sales Tax,False,Oklahoma,True,{},5.75,2025-08-13 00:34:05.338000+00:00
+txr_1RMI0IFCPJnn9IgIjUxR2Mzw,False,2025-05-08 00:07:58+00:00,,Sales Tax,False,Washington,True,{},10.35,2025-08-13 00:31:14.811000+00:00
+txr_1N6H9PFCPJnn9IgI0eFnCXpc,False,2023-05-10 17:50:07+00:00,,Sales Tax,False,Arizona,True,{},8.1,2025-08-13 00:34:07.958000+00:00
+txr_1RLDmpFCPJnn9IgIGSuq0m5n,False,2025-05-05 01:25:39+00:00,,Sales Tax,True,California,True,{},10.5,2025-08-13 00:32:03.637000+00:00
+txr_1N6dnaFCPJnn9IgI7tMmEkFU,False,2023-05-11 18:01:06+00:00,,Sales Tax,False,Florida,True,{},6.0,2025-08-13 00:34:17.696000+00:00
+txr_1N6jPOFCPJnn9IgITub6I1VV,False,2023-05-12 00:00:30+00:00,,Sales Tax,False,Washington,True,{},8.4,2025-08-13 00:34:00.577000+00:00
+txr_1Ra3PGFCPJnn9IgIPeobGrLp,False,2025-06-14 23:22:38+00:00,,Sales Tax,True,Colorado,True,{},8.0,2025-08-13 00:34:07.895000+00:00
+txr_1N6IalFCPJnn9IgIzS66DHYa,False,2023-05-10 19:22:27+00:00,,Sales Tax,False,Missouri,True,{},8.725,2025-08-13 00:31:25.768000+00:00
+txr_1N7kT6FCPJnn9IgIgcjlX2Og,False,2023-05-14 19:20:32+00:00,,Sales Tax,False,Washington,True,{},9.5,2025-08-13 00:34:05.339000+00:00
+txr_1N63RXFCPJnn9IgINJOqHHgn,False,2023-05-10 03:11:55+00:00,,Sales Tax,False,Nebraska,True,{},5.5,2025-08-13 00:32:13.508000+00:00
+txr_1N5z82FCPJnn9IgI88x6KxmS,False,2023-05-09 22:35:30+00:00,,Sales Tax,False,Maine,True,{},5.5,2025-08-13 00:34:08.418000+00:00
+txr_1N6jPNFCPJnn9IgI3PEQx7b5,False,2023-05-12 00:00:29+00:00,,Sales Tax,False,Arkansas,True,{},8.0,2025-08-13 00:34:01.489000+00:00
+txr_1RNM9fFCPJnn9IgIiREU3Gdh,False,2025-05-10 22:46:03+00:00,,Sales Tax,True,New Jersey,True,{},6.625,2025-08-13 00:34:08.421000+00:00
+txr_1P1AgWFCPJnn9IgIhWeivSjU,False,2024-04-02 16:59:44+00:00,,Sales Tax,False,Washington,True,{},10.4,2025-08-13 00:31:42.395000+00:00
+txr_1N7LDyFCPJnn9IgIBgS2MnPo,False,2023-05-13 16:23:14+00:00,,Sales Tax,False,Washington,True,{},8.1,2025-08-13 00:34:05.588000+00:00
+txr_1N7HkWFCPJnn9IgIPyVQD86E,False,2023-05-13 12:40:36+00:00,,Sales Tax,False,West Virginia,True,{},7.0,2025-08-13 00:31:45.036000+00:00
+txr_1N71IIFCPJnn9IgIblRqnzTD,False,2023-05-12 19:06:22+00:00,,Sales Tax,False,Illinois,True,{},8.25,2025-08-13 00:34:07.957000+00:00
+txr_1N6clvFCPJnn9IgIoNuU9fh9,False,2023-05-11 16:55:19+00:00,,Sales Tax,False,Tennessee,True,{},9.5,2025-08-13 00:32:09.221000+00:00
+txr_1N627GFCPJnn9IgIkLdOarV5,False,2023-05-10 01:46:54+00:00,,,False,Delaware,True,{},0.0,2025-08-13 00:34:04.627000+00:00
+txr_1N5s5XFCPJnn9IgI9erESt9E,False,2023-05-09 15:04:27+00:00,,Sales Tax,False,Nevada,True,{},8.265,2025-08-13 00:32:03.508000+00:00
+txr_1N6AuFFCPJnn9IgIa5VMNcIE,False,2023-05-10 11:10:03+00:00,,Sales Tax,False,North Carolina,True,{},6.75,2025-08-13 00:34:08.421000+00:00
+txr_1N5w8bFCPJnn9IgI97z21MjG,False,2023-05-09 19:23:53+00:00,,Sales Tax,False,Wisconsin,True,{},5.0,2025-08-13 00:34:05.587000+00:00
+txr_1N6G6WFCPJnn9IgIEvzEEouL,False,2023-05-10 16:43:04+00:00,,Sales Tax,False,Colorado,True,{},3.0,2025-08-13 00:34:07.638000+00:00
+txr_1Of1nbFCPJnn9IgIAafpBy1L,False,2024-02-01 15:03:31+00:00,,Sales Tax,False,Texas,True,{},8.0,2025-08-13 00:34:08.071000+00:00
+txr_1N6jPRFCPJnn9IgIdmo8bmcd,False,2023-05-12 00:00:33+00:00,,Sales Tax,False,Washington,True,{},7.9,2025-08-13 00:32:05.346000+00:00
+txr_1QcUAXFCPJnn9IgI6tZlM1xj,False,2025-01-01 15:49:13+00:00,,Chicago Lease Tax,False,Illinois,True,{},11.0,2025-08-13 00:34:07.637000+00:00
+txr_1NE3mCFCPJnn9IgIAX3o63E1,False,2023-06-01 05:10:20+00:00,,Sales Tax,True,Tennessee,True,{},9.75,2025-08-13 00:31:49.200000+00:00
+txr_1N5xz1FCPJnn9IgIytLTYh9O,False,2023-05-09 21:22:07+00:00,,Sales Tax,False,District of Columbia,True,{},6.0,2025-08-13 00:31:30.386000+00:00
+txr_1N7LnLFCPJnn9IgIaI0vmZ0I,False,2023-05-13 16:59:47+00:00,,Sales Tax,False,Missouri,True,{},8.85,2025-08-13 00:32:03.273000+00:00
+txr_1N5tUHFCPJnn9IgIQNf1ETib,False,2023-05-09 16:34:05+00:00,,Sales Tax,False,Washington,True,{},8.7,2025-08-13 00:31:22.907000+00:00
+txr_1N7RIfFCPJnn9IgIltNVC3PZ,False,2023-05-13 22:52:29+00:00,,Sales Tax,False,Louisiana,True,{},10.0,2025-08-13 00:34:19.092000+00:00
+txr_1NCnZHFCPJnn9IgIqMjmm7je,False,2023-05-28 17:39:47+00:00,,Sales Tax,False,Maryland,True,{},6.0,2025-08-13 00:34:19.592000+00:00
+txr_1N6OiPFCPJnn9IgIYpCUMFuS,False,2023-05-11 01:54:45+00:00,,Sales Tax,False,Washington,True,{},10.2,2025-08-13 00:34:08.421000+00:00
+txr_1N5t0CFCPJnn9IgIkJejetRR,False,2023-05-09 16:03:00+00:00,,Sales Tax,False,Ohio,True,{},6.5,2025-08-13 00:31:25.793000+00:00
+txr_1Ph98cFCPJnn9IgIKWDNatbm,False,2024-07-27 11:50:14+00:00,,QST,False,Quebec,True,{},9.975,2025-08-13 00:34:07.639000+00:00
+txr_1N6HvYFCPJnn9IgIodoFTOlq,False,2023-05-10 18:39:52+00:00,,Sales Tax,False,Virginia,True,{},6.0,2025-08-13 00:34:09.407000+00:00
+txr_1N6zfsFCPJnn9IgI71rb7Xfl,False,2023-05-12 17:22:36+00:00,,Sales Tax,False,Kansas,True,{},9.35,2025-08-13 00:34:15.576000+00:00
+txr_1N5w8WFCPJnn9IgIh2EyUY4B,False,2023-05-09 19:23:48+00:00,,Sales Tax,False,Alabama,True,{},10.0,2025-08-13 00:34:14.891000+00:00
+txr_1N5xtBFCPJnn9IgIx8mG82Li,False,2023-05-09 21:16:05+00:00,,Sales Tax,False,Arkansas,True,{},9.5,2025-08-13 00:34:08.419000+00:00
+txr_1N6FZAFCPJnn9IgIxxJgI0nb,False,2023-05-10 16:08:36+00:00,,Sales Tax,False,California,True,{},9.25,2025-08-13 00:34:00.576000+00:00
+txr_1N63zXFCPJnn9IgIM7YntHa0,False,2023-05-10 03:47:03+00:00,,Sales Tax,False,Arizona,True,{},6.3,2025-08-13 00:34:05.585000+00:00
+txr_1N6OzEFCPJnn9IgI4hyVeCjO,False,2023-05-11 02:12:08+00:00,,Sales Tax,False,Washington,True,{},9.1,2025-08-13 00:32:08.079000+00:00
+txr_1N5pgfFCPJnn9IgIrGNB4oY9,False,2023-05-09 12:30:37+00:00,,Sales Tax,False,Indiana,True,{},7.0,2025-08-13 00:34:00.745000+00:00
+txr_1N6boyFCPJnn9IgIJ8HqSqsE,False,2023-05-11 15:54:24+00:00,,Sales Tax,False,Tennessee,True,{},2.75,2025-08-13 00:34:05.338000+00:00
+txr_1N5w8xFCPJnn9IgIaHWyQmrx,False,2023-05-09 19:24:15+00:00,,Sales Tax,False,Kansas,True,{},7.5,2025-08-13 00:34:07.897000+00:00
+txr_1OHa0JFCPJnn9IgIe9jRdYpa,False,2023-11-28 22:43:43+00:00,,Sales Tax,False,Utah,True,{},7.45,2025-08-13 00:34:18.870000+00:00
+txr_1N6AYwFCPJnn9IgISaMe1ezt,False,2023-05-10 10:48:02+00:00,,Sales Tax,False,Nebraska,True,{},7.0,2025-08-13 00:31:28.889000+00:00
+txr_1N5sFrFCPJnn9IgIEgPU3UmC,False,2023-05-09 15:15:07+00:00,,Sales Tax,False,Washington,True,{},8.9,2025-08-13 00:34:02.366000+00:00
+txr_1P0oEAFCPJnn9IgIWynvao3K,False,2024-04-01 17:00:58+00:00,,Sales Tax,False,Washington,True,{},10.35,2025-08-13 00:34:07.406000+00:00
+txr_1N5w7SFCPJnn9IgI4Kc6ahr0,False,2023-05-09 19:22:42+00:00,,Sales Tax,False,Rhode Island,True,{},7.0,2025-08-13 00:32:12.711000+00:00
+txr_1NE3mBFCPJnn9IgIiZbfbloO,False,2023-06-01 05:10:19+00:00,,Sales Tax,True,Texas,True,{},8.25,2025-08-13 00:34:07.959000+00:00
+txr_1N5yLmFCPJnn9IgI4ZUFdkk5,False,2023-05-09 21:45:38+00:00,,Sales Tax,False,New York,True,{},8.375,2025-08-13 00:34:07.957000+00:00
+txr_1N5w8yFCPJnn9IgIv8JEhYbk,False,2023-05-09 19:24:16+00:00,,,False,New Hampshire,True,{},0.0,2025-08-13 00:34:05.585000+00:00
+txr_1N5q5UFCPJnn9IgI5EGWj8DB,False,2023-05-09 12:56:16+00:00,,Sales Tax,False,Florida,True,{},6.5,2025-08-13 00:34:08.417000+00:00
+txr_1N5xLfFCPJnn9IgIp0gAQcbj,False,2023-05-09 20:41:27+00:00,,Sales Tax,False,New Jersey,True,{},6.625,2025-08-13 00:34:19.353000+00:00
+txr_1N6CpoFCPJnn9IgIFjsJwPuS,False,2023-05-10 13:13:36+00:00,,Sales Tax,False,Iowa,True,{},7.0,2025-08-13 00:34:01.489000+00:00
+txr_1N5slHFCPJnn9IgIcjYEVnE5,False,2023-05-09 15:47:35+00:00,,Sales Tax,False,Tennessee,True,{},9.75,2025-08-13 00:34:07.405000+00:00
+txr_1N5wA6FCPJnn9IgIxqxgInji,False,2023-05-09 19:25:26+00:00,,Sales Tax,False,Tennessee,True,{},9.25,2025-08-13 00:34:08.419000+00:00
+txr_1N5w7bFCPJnn9IgIft3Ci4BQ,False,2023-05-09 19:22:51+00:00,,Sales Tax,False,New York,True,{},8.875,2025-08-13 00:34:05.588000+00:00
+txr_1N5pEgFCPJnn9IgI7W1A1aFt,False,2023-05-09 12:01:42+00:00,,Sales Tax,False,Virginia,True,{},6.0,2025-08-13 00:34:20.143000+00:00
+txr_1N5sJZFCPJnn9IgIv3VX5p8S,False,2023-05-09 15:18:57+00:00,,Sales Tax,False,Georgia,True,{},7.0,2025-08-13 00:34:01.486000+00:00
+txr_1N7pe8FCPJnn9IgI1VZhMy5o,False,2023-05-15 00:52:16+00:00,,Sales Tax,False,California,True,{},9.75,2025-08-13 00:34:19.417000+00:00
+txr_1N5sJFFCPJnn9IgIg17aZk6g,False,2023-05-09 15:18:37+00:00,,Sales Tax,False,Michigan,True,{},6.0,2025-08-13 00:34:19.654000+00:00
+txr_1N5yLeFCPJnn9IgI6mkEp8RU,False,2023-05-09 21:45:30+00:00,,Sales Tax,False,Georgia,True,{},8.0,2025-08-13 00:34:08.416000+00:00
+txr_1N5xLfFCPJnn9IgINNnYPeeL,False,2023-05-09 20:41:27+00:00,,Sales Tax,False,California,True,{},7.75,2025-08-13 00:34:15.313000+00:00
+txr_1N5qlTFCPJnn9IgIPnQUsFam,False,2023-05-09 13:39:39+00:00,,Sales Tax,False,Idaho,True,{},6.0,2025-08-13 00:34:17.816000+00:00
+txr_1N5xsvFCPJnn9IgI6VxD1UX2,False,2023-05-09 21:15:49+00:00,,Sales Tax,False,North Carolina,True,{},6.75,2025-08-13 00:34:07.896000+00:00
+txr_1NAuayFCPJnn9IgINwtWCIpr,False,2023-05-23 12:45:44+00:00,,Sales Tax,False,Missouri,True,{},5.35,2025-08-13 00:34:05.340000+00:00
+txr_1Rv81GFCPJnn9IgIsbFBMunq,False,2025-08-12 02:32:58+00:00,,Sales Tax,False,Kansas,True,{},8.85,2025-08-13 00:34:15.772000+00:00
+txr_1N5xLLFCPJnn9IgIHNziXbik,False,2023-05-09 20:41:07+00:00,,Sales Tax,False,Alabama,True,{},9.5,2025-08-13 00:34:05.338000+00:00
+txr_1N6xeQFCPJnn9IgI7oGeL6Iy,False,2023-05-12 15:12:58+00:00,,Sales Tax,False,Iowa,True,{},6.0,2025-08-13 00:34:08.416000+00:00
+txr_1RKsGDFCPJnn9IgIhRfsNazQ,False,2025-05-04 02:26:33+00:00,,Sales Tax,True,Ohio,True,{},8.0,2025-08-13 00:31:44.785000+00:00
+txr_1N6vCkFCPJnn9IgIgFcCzFok,False,2023-05-12 12:36:14+00:00,,Sales Tax,False,Wyoming,True,{},4.0,2025-08-13 00:34:04.319000+00:00
+txr_1N6jPLFCPJnn9IgIPEeaQ7IS,False,2023-05-12 00:00:27+00:00,,Sales Tax,False,New Mexico,True,{},8.1875,2025-08-13 00:34:01.489000+00:00
+txr_1N6jPNFCPJnn9IgISpoZ2sa5,False,2023-05-12 00:00:29+00:00,,Sales Tax,False,Arkansas,True,{},7.75,2025-08-13 00:34:07.406000+00:00
+txr_1RJFklFCPJnn9IgIkOZDe3bM,False,2025-04-29 15:07:23+00:00,,Sales Tax,True,California,True,{},8.75,2025-08-13 00:34:08.418000+00:00
+txr_1N5wVtFCPJnn9IgIMPTc58Oh,False,2023-05-09 19:47:57+00:00,,Sales Tax,False,California,True,{},7.25,2025-08-13 00:34:02.333000+00:00
+txr_1N8VqSFCPJnn9IgI8ugtLdB2,False,2023-05-16 21:55:48+00:00,,Sales Tax,False,Minnesota,True,{},6.875,2025-08-13 00:34:07.640000+00:00
+txr_1N73AiFCPJnn9IgIbABPUwAP,False,2023-05-12 21:06:40+00:00,,Sales Tax,False,Colorado,True,{},3.75,2025-08-13 00:34:18.927000+00:00
+txr_1RJ0V5FCPJnn9IgIspoWFoZR,False,2025-04-28 22:50:11+00:00,,Sales Tax,True,California,True,{},9.75,2025-08-13 00:31:50.132000+00:00
+txr_1N5wUYFCPJnn9IgIegGCqVil,False,2023-05-09 19:46:34+00:00,,Sales Tax,False,Ohio,True,{},7.8,2025-08-13 00:34:00.576000+00:00
+txr_1N8r6iFCPJnn9IgIqa7Zw13o,False,2023-05-17 20:38:00+00:00,,Sales Tax,False,Utah,True,{},7.35,2025-08-13 00:34:18.128000+00:00
+txr_1N73AOFCPJnn9IgIrt1ZDhQW,False,2023-05-12 21:06:20+00:00,,Sales Tax,False,Arizona,True,{},2.0,2025-08-13 00:34:01.486000+00:00
+txr_1N6EbuFCPJnn9IgI9l5EAGzd,False,2023-05-10 15:07:22+00:00,,Sales Tax,False,Illinois,True,{},10.0,2025-08-13 00:31:39.789000+00:00
+txr_1NAxtBFCPJnn9IgIqBnTVsc3,False,2023-05-23 16:16:45+00:00,,Sales Tax,False,Oklahoma,True,{},8.85,2025-08-13 00:31:46.101000+00:00
+txr_1N62dpFCPJnn9IgIulHoXVJ5,False,2023-05-10 02:20:33+00:00,,Sales Tax,False,Washington,True,{},10.5,2025-08-13 00:32:13.212000+00:00
+txr_1NRipKFCPJnn9IgIzFSjuS1D,False,2023-07-08 21:38:02+00:00,,Sales Tax,False,Vermont,True,{},6.0,2025-08-13 00:31:42.646000+00:00
+txr_1NCRXMFCPJnn9IgIySaK5rJa,False,2023-05-27 18:08:20+00:00,,Sales Tax,False,California,True,{},9.75,2025-08-13 00:34:08.072000+00:00
+txr_1N6wyDFCPJnn9IgI7HK2VYFb,False,2023-05-12 14:29:21+00:00,,Sales Tax,False,Missouri,True,{},8.975,2025-08-13 00:31:19.568000+00:00
+txr_1N5w7oFCPJnn9IgIcSDjDevl,False,2023-05-09 19:23:04+00:00,,Sales Tax,False,California,True,{},8.25,2025-08-13 00:34:07.959000+00:00
+txr_1N5w9yFCPJnn9IgIASIqKIji,False,2023-05-09 19:25:18+00:00,,Sales Tax,False,Illinois,True,{},8.0,2025-08-13 00:34:07.956000+00:00
+txr_1N5yzPFCPJnn9IgIPqFIBC5u,False,2023-05-09 22:26:35+00:00,,Sales Tax,False,Ohio,True,{},7.25,2025-08-13 00:34:07.895000+00:00
+txr_1N5xLLFCPJnn9IgIlfv05fa4,False,2023-05-09 20:41:07+00:00,,Sales Tax,False,Washington,True,{},8.8,2025-08-13 00:34:17.972000+00:00
+txr_1Qn55TFCPJnn9IgIhQ4THsX3,False,2025-01-30 21:15:47+00:00,,Sales Tax,True,Utah,True,{},7.45,2025-08-13 00:34:07.897000+00:00
+txr_1QcVS5FCPJnn9IgIAcYNxNR6,False,2025-01-01 17:11:25+00:00,,Sales Tax,False,Colorado,True,{},5.15,2025-08-13 00:34:04.856000+00:00
+txr_1N6G6WFCPJnn9IgIZsbXxP7c,False,2023-05-10 16:43:04+00:00,,Sales Tax,False,Colorado,True,{},5.0,2025-08-13 00:34:07.896000+00:00
+txr_1N6LTwFCPJnn9IgIcg52k72b,False,2023-05-10 22:27:36+00:00,,Sales Tax,False,Oklahoma,True,{},8.625,2025-08-13 00:32:11.794000+00:00
+txr_1RCl9IFCPJnn9IgIpSumCAJ9,False,2025-04-11 17:13:52+00:00,,Sales Tax,False,Texas,True,{},8.25,2025-08-13 00:34:19.626000+00:00
+txr_1N5usuFCPJnn9IgI1810DAj7,False,2023-05-09 18:03:36+00:00,,Sales Tax,False,Washington,True,{},10.3,2025-08-13 00:31:36.098000+00:00
+txr_1N6jPSFCPJnn9IgIpQOEsdIA,False,2023-05-12 00:00:34+00:00,,Sales Tax,False,Arizona,True,{},9.1,2025-08-13 00:34:15.871000+00:00
+txr_1N6lFwFCPJnn9IgIBo2zPjPr,False,2023-05-12 01:58:52+00:00,,Sales Tax,False,Ohio,True,{},8.0,2025-08-13 00:34:04.971000+00:00
+txr_1OWA9FFCPJnn9IgI3fXL18Mm,False,2024-01-08 04:09:13+00:00,,Sales Tax,False,California,True,{},10.5,2025-08-13 00:34:18.830000+00:00
+txr_1N5yJBFCPJnn9IgIgSd2jlWu,False,2023-05-09 21:42:57+00:00,,Sales Tax,False,Alabama,True,{},9.0,2025-08-13 00:34:04.627000+00:00
+txr_1N6HRnFCPJnn9IgI98tA85VX,False,2023-05-10 18:09:07+00:00,,,False,Montana,True,{},0.0,2025-08-13 00:34:15.624000+00:00
+txr_1N5pHXFCPJnn9IgISKR4YF5n,False,2023-05-09 12:04:39+00:00,,Sales Tax,False,North Carolina,True,{},7.25,2025-08-13 00:34:18.081000+00:00
+txr_1N5rI5FCPJnn9IgIv2OQofD9,False,2023-05-09 14:13:21+00:00,,Sales Tax,False,Florida,True,{},7.5,2025-08-13 00:34:08.071000+00:00
+txr_1N5skfFCPJnn9IgIabyGuvt5,False,2023-05-09 15:46:57+00:00,,Sales Tax,False,California,True,{},8.75,2025-08-13 00:34:19.112000+00:00
+txr_1N5rnSFCPJnn9IgIyIVlhMoI,False,2023-05-09 14:45:46+00:00,,Sales Tax,False,Utah,True,{},7.25,2025-08-13 00:34:14.914000+00:00
+txr_1N5oOqFCPJnn9IgIxGnfAIbU,False,2023-05-09 11:08:08+00:00,,Sales Tax,False,Florida,True,{},7.0,2025-08-13 00:34:15.816000+00:00
+txr_1N5qECFCPJnn9IgI6xI7IwlW,False,2023-05-09 13:05:16+00:00,,Sales Tax,False,Texas,True,{},8.25,2025-08-13 00:34:19.626000+00:00
+txr_1N5xKlFCPJnn9IgIngbkwm4g,False,2023-05-09 20:40:31+00:00,,Sales Tax,False,Georgia,True,{},6.0,2025-08-13 00:34:17.557000+00:00
+txr_1N5pulFCPJnn9IgIFSKipeJA,False,2023-05-09 12:45:11+00:00,,Sales Tax,False,Virginia,True,{},5.3,2025-08-13 00:34:08.069000+00:00
+txr_1N5wVtFCPJnn9IgIYLCpOkJf,False,2023-05-09 19:47:57+00:00,,Sales Tax,False,California,True,{},7.25,2025-08-13 00:34:08.419000+00:00
+txr_1N5oxLFCPJnn9IgIYPBxH6si,False,2023-05-09 11:43:47+00:00,,,False,Oregon,True,{},0.0,2025-08-13 00:34:17.789000+00:00
+txr_1NDZ5MFCPJnn9IgIkN18KBMW,False,2023-05-30 20:24:04+00:00,,Sales Tax,False,Missouri,True,{},7.225,2025-08-13 00:31:42.286000+00:00
+txr_1Rv81GFCPJnn9IgIwupwsF7p,False,2025-08-12 02:32:58+00:00,,Sales Tax,False,Kansas,True,{},8.85,2025-08-13 00:34:01.489000+00:00
+txr_1RvINiFCPJnn9IgIlingKCu0,False,2025-08-12 13:36:50+00:00,,Sales Tax,True,Missouri,True,{},5.35,2025-08-13 00:34:05.340000+00:00

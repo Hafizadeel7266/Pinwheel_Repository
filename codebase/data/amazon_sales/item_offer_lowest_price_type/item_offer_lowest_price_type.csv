@@ -1,0 +1,5 @@
+asin,condition,fulfillment_channel,offer_type,quantity_tier,quantity_discount_type,landed_price_currency_code,landed_price_amount,listing_price_currency_code,listing_price_amount,shipping_currency_code,shipping_amount,points_points_number,pointspoints_monetary_value_currency_code,pointspoints_monetary_value_amount,_fivetran_synced
+B0BKR4XZGJ,new,Amazon,,,,USD,489.0,USD,489.0,USD,0.0,,,,2023-07-06 14:32:42.404000+00:00
+B0BKR4YKB2,new,Amazon,,,,USD,239.0,USD,239.0,USD,0.0,,,,2023-07-06 14:32:42.053000+00:00
+B0BKR3VM44,new,Amazon,,,,USD,369.0,USD,369.0,USD,0.0,,,,2023-07-06 14:32:42.742000+00:00
+B0BKRXGT52,new,Amazon,,,,USD,359.0,USD,359.0,USD,0.0,,,,2023-07-06 14:33:53.266000+00:00

@@ -1,0 +1,2 @@
+_fivetran_id,financial_event_group_id,debt_recovery_type,recovery_amount_currency_code,recovery_amount_currency_amount,over_payment_credit_currency_code,over_payment_credit_currency_amount,_fivetran_synced
+98RFcSPluaJYXrSaQoGnJawOrgg=,WUU9RwYr6bkHOtCQNalDQ2dYhyLGe3WS4BIQXpk5Tpw,DebtPayment,USD,39.99,,,2023-05-10 17:31:50.548000+00:00

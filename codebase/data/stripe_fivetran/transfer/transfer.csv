@@ -1,0 +1,1 @@
+id,amount,amount_reversed,created,currency,description,destination,destination_payment,destination_payment_id,livemode,metadata,reversed,source_transaction,source_transaction_id,source_type,transfer_group,balance_transaction_id,_fivetran_synced

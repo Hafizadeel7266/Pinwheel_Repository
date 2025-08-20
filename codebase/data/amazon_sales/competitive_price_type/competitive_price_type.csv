@@ -1,0 +1,5 @@
+asin,id,landed_currency_code,listing_currency_code,shipping_currency_code,points_number,points_monetary_value_currency_code,condition,subcondition,offer_type,quantity_tier,quantity_discount_type,seller_id,belongs_to_requester,_fivetran_synced,shipping_amount,points_monetary_value_amount,listing_amount,landed_amount
+B0BKRXGT52,1,USD,USD,USD,,,New,New,,,,,True,2023-07-06 14:32:41.660000+00:00,0.0,,359.0,359.0
+B0BKR3VM44,1,USD,USD,USD,,,New,New,,,,,True,2023-07-06 14:32:41.571000+00:00,0.0,,369.0,369.0
+B0BKR4YKB2,1,USD,USD,USD,,,New,New,,,,,True,2023-07-06 14:32:41.403000+00:00,0.0,,239.0,239.0
+B0BKR4XZGJ,1,USD,USD,USD,,,New,New,,,,,True,2023-07-06 14:32:41.485000+00:00,0.0,,489.0,489.0

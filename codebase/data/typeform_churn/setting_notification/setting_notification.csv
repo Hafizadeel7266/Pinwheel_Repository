@@ -1,0 +1,54 @@
+form_id,_fivetran_id,self_subject,self_message,self_reply_to,self_enabled,respondent_subject,respondent_recipient,respondent_message,respondent_enabled,_fivetran_deleted,_fivetran_synced
+TXOxFsVH,2e6dYballJPzslsqUQmQJ59/Hzw=,,,,,"Typeform: Thank you for filling out {{form:title}}.
+",{{field:f9e7ad53-0d00-4f83-a79a-8bf9855e5b3e}},"Hello {{field:b6d5dcc7-cc9d-4ba1-ad1a-3569774f0135}},
+We’ve received your submission.
+Thank you & have a nice day!",True,True,2023-10-17 14:29:44.472000+00:00
+vgBnsZ5t,zrPu0/Cev05VXe42FhOmPEeRt5I=,,,,,Pinwheel - Thank you for taking our Quiz! Here's your free guide.,{{field:3eabc27c-d399-494e-8a45-07c6842dc642}},"Hello {{field:24b514e5-b227-4350-a8c6-456e48f8f2b3}},
+
+I've received your submission!
+
+Linked here is your free [Tech Parenting Guide](https://f.hubspotusercontent30.net/hubfs/9026932/Healthy%20Tech%20Habits%20for%20Parents.pdf) :)
+
+Please call, text, or email if you have any other questions!
+
+-Sam at Pinwheel
+Call or Text 888.903.7977
+Email [sam@pinwheel.com](mailto:sam@pinwheel.com)",True,True,2023-10-17 14:31:50.879000+00:00
+F8jt6tYB,RtUd4Mo/7/4I/3XJVEneZrFOb7o=,Typeform: New response for {{form:title}},"Your typeform {{form:title}} has a new response:
+{{form:all_answers}}
+Log in to view or download your responses at
+https://admin.typeform.com/form/F8jt6tYB/results
+
+You can turn off or configure self notifications for this typeform at
+https://admin.typeform.com/form/F8jt6tYB/create/hash/notifications
+
+Team Typeform
+How you ask is everything
+
+Want your responses automatically sent to a Google Sheet, MailChimp, Trello, or your own CRM? *Set up an integration to do that and much more:*
+https://admin.typeform.com/form/F8jt6tYB/connect
+",,True,,,,,True,2023-10-17 14:32:01.391000+00:00
+bVLUqNNk,aWBMxX+HaOUys+GhMtcRY+igfLs=,,,,,"Typeform: Thank you for filling out {{form:title}}.
+",{{field:f9e7ad53-0d00-4f83-a79a-8bf9855e5b3e}},"Hello {{field:b6d5dcc7-cc9d-4ba1-ad1a-3569774f0135}},
+We’ve received your submission.
+Thank you & have a nice day!",True,True,2023-10-17 14:29:46.058000+00:00
+o12nvR2G,N7GavdZB6IMI/02OmL3jKpaULKc=,,,,,"Typeform: Thank you for filling out {{form:title}}.
+",{{field:f9e7ad53-0d00-4f83-a79a-8bf9855e5b3e}},"Hello {{field:b6d5dcc7-cc9d-4ba1-ad1a-3569774f0135}},
+We’ve received your submission for {{form:title}}.
+Thank you & have a nice day!",True,True,2023-10-17 14:29:47.243000+00:00
+SlUPej,/PeBC0P3xcd67OYefH/xQLddeY0=,Typeform: New response for {{form:title}},"Your typeform {{form:title}} has a new response
+
+{{form:all_answers}}",,True,,,,,True,2023-10-17 14:32:17.552000+00:00
+Txo4Ri0C,r6HuYbpV98KbNyzgRUpSSFUunk4=,Typeform Affiliate Response ,"Your typeform {{form:title}} has a new response:
+{{form:all_answers}}
+Log in to view or download your responses at
+[https://admin.typeform.com/form/Txo4Ri0C/results](https://admin.typeform.com/form/Txo4Ri0C/results)
+",{{field:79bbd17cee403288}},True,,,,,True,2023-10-17 14:31:44.123000+00:00
+PKWjsMGg,LX2LHV9HDhNB+rWNJysANTt8z3Q=,,,,,"Typeform: Thank you for filling out {{form:title}}.
+",{{field:f9e7ad53-0d00-4f83-a79a-8bf9855e5b3e}},"Hello {{field:b6d5dcc7-cc9d-4ba1-ad1a-3569774f0135}},
+We’ve received your submission for {{form:title}}.
+Thank you & have a nice day!",True,True,2023-10-17 14:29:47.847000+00:00
+CBJ5YM86,5evIbiTU1jNip87Dv67O8Tp/FgY=,,,,,,,,,True,2023-10-17 14:29:51.821000+00:00
+xs0tZs,keJ13+4HZcRVrDxdQHj+heijxew=,Typeform: New response for {{form:title}},"Your typeform {{form:title}} has a new response
+
+{{form:all_answers}}",,True,,,,,True,2023-10-17 14:32:19.404000+00:00

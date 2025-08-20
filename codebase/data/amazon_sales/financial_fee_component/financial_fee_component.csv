@@ -1,0 +1,12 @@
+financial_event_id,financial_event_type,fee_type,index,currency_code,currency_amount,_fivetran_synced
+vpAfnS95R4iBwmzDKJp+t8BR4WQ=,service_fee_event,FBARemovalFee,1,USD,-2.2,2023-05-10 17:47:34.297000+00:00
+XFDtEBeXrLGs3wd+uFXy9nYZMH8=,service_fee_event,FBADisposalFee,1,USD,-2.2,2023-05-10 17:44:32.177000+00:00
+oIqzjWDBJ2MamX9tbzJ6u+Ck6Ek=,service_fee_event,FBACustomerReturnPerUnitFee,1,USD,0.0,2023-05-10 17:47:34.284000+00:00
+sPtioyNKh+tXQ9ATfle5WRAS5UI=,service_fee_event,FBARemovalFee,1,USD,-2.2,2023-06-26 20:31:42.721000+00:00
+ei0IXpTgJmlU+k9fkmOz8ltQTXA=,service_fee_event,FBARemovalFee,1,USD,-2.2,2023-05-10 17:46:18.391000+00:00
+Z+onm9VY6sac92z8xvWBH+vnN6A=,service_fee_event,FBARemovalFee,1,USD,-2.2,2023-05-10 17:39:44.388000+00:00
+3Yu7utMPzCzPDw9oDrkZaTrAZDY=,service_fee_event,FBARemovalFee,1,USD,-2.2,2023-06-16 20:30:21.440000+00:00
+DM5PDsDX9bZ4GwuPyrGNtoeJMBY=,service_fee_event,FBADisposalFee,1,USD,-2.2,2023-05-10 17:35:05.128000+00:00
+00y4gkDYzIN2NPiHJJVKZwcYm7g=,service_fee_event,FBARemovalFee,1,USD,-2.2,2023-05-27 20:31:46.199000+00:00
+/V8NKHHJmkJ/yqav/7TgJm7nHoM=,service_fee_event,Subscription,1,USD,-39.99,2023-07-04 08:34:04.890000+00:00
+czOlBonLTsxX18zFjHBb8XwFMeo=,service_fee_event,FBACustomerReturnPerUnitFee,1,USD,0.0,2023-05-10 17:47:34.283000+00:00

@@ -1,0 +1,97 @@
+id,active,aggregate_usage,amount,billing_scheme,created,currency,interval,interval_count,livemode,metadata,nickname,tiers_mode,transform_usage_divide_by,transform_usage_round,trial_period_days,usage_type,is_deleted,product_id,_fivetran_synced
+price_1QN5urFCPJnn9IgIylDmytMG,False,,1499.0,per_unit,2024-11-20 04:53:25+00:00,usd,month,1,True,{},Regular Monthly,,,,,licensed,True,prod_RFb7a0KctgZOJx,2024-11-20 15:39:58.059000+00:00
+price_1QN3ehFCPJnn9IgIoHEAFSe9,False,,1499.0,per_unit,2024-11-20 02:28:35+00:00,usd,month,1,True,{},US Legacy Monthly,,,,,licensed,True,prod_RFYmbLQ5SXKPdo,2024-11-21 16:54:39.652000+00:00
+plan_HAFybBSOR4tqJp,True,,23900.0,per_unit,2020-04-25 21:22:24+00:00,usd,year,1,True,{},First Crew - Annual,,,,,licensed,False,prod_HAFwegSvmBmsqL,2025-08-13 00:33:00.206000+00:00
+price_1QLYohFCPJnn9IgIQAzUh2gQ,True,,,tiered,2024-11-15 23:20:43+00:00,gbp,year,1,True,{},,volume,,,,licensed,False,prod_LsPjJF8MUZjUdR,2025-08-13 00:33:00.206000+00:00
+price_1J8rRQFCPJnn9IgIawYUXir3,True,,,tiered,2021-07-02 18:50:20+00:00,usd,month,1,True,{},,graduated,,,,licensed,False,prod_JmQHiO3BDY2eCN,2025-08-13 00:33:00.206000+00:00
+price_1QN3ehFCPJnn9IgIPKvlX3zA,True,,1699.0,per_unit,2024-11-20 02:28:35+00:00,cad,month,1,True,"{""Discounted"":""true""}",CAN Multiple Monthly,,,,,licensed,False,prod_RFYmbLQ5SXKPdo,2025-08-13 00:33:00.206000+00:00
+plan_HAFsP3xD0294id,True,,8900.0,per_unit,2020-04-25 21:17:01+00:00,usd,year,1,True,{},Homebody - Annual,,,,,licensed,False,prod_HAFqUnlxqqCvsE,2025-08-13 00:33:00.206000+00:00
+price_1Pj2UgFCPJnn9IgIaOWMpgdT,True,,6999.0,per_unit,2024-08-01 17:08:50+00:00,cad,year,1,True,{},,,,,,licensed,False,prod_O0f5rLM9x32Dyu,2025-08-13 00:33:00.206000+00:00
+price_1OwWrUFCPJnn9IgILRq4ly4V,False,,0.0,per_unit,2024-03-20 21:39:52+00:00,usd,month,1,True,{},,,,,,licensed,False,prod_O0f5XrfqwuzBWV,2025-08-13 00:33:00.206000+00:00
+price_1QIiW4FCPJnn9IgIf9bVlQRb,True,,599.0,per_unit,2024-11-08 03:05:44+00:00,gbp,month,1,True,{},,,,,,licensed,False,prod_O0f5XrfqwuzBWV,2025-08-13 00:33:00.206000+00:00
+price_1QN3ehFCPJnn9IgIVTdYimm8,True,,17499.0,per_unit,2024-11-20 02:28:35+00:00,usd,year,1,True,{},US Regular Annual,,,,,licensed,False,prod_RFYmbLQ5SXKPdo,2025-08-13 00:33:00.205000+00:00
+price_1OEvvGFCPJnn9IgIFJi4Gyfh,True,,4999.0,per_unit,2023-11-21 15:31:34+00:00,usd,month,3,True,{},,,,,,licensed,False,prod_P31zXm1Q8QHsJ0,2025-08-13 00:33:00.206000+00:00
+price_1J8ra3FCPJnn9IgIsMJJpQPI,True,,6000.0,per_unit,2021-07-02 18:59:15+00:00,usd,year,1,True,{},,,,,,licensed,False,prod_JmQQnsiAOBW667,2025-08-13 00:33:00.206000+00:00
+price_1R9XGtFCPJnn9IgI4av9dbS4,True,,8599.0,per_unit,2025-04-02 19:48:23+00:00,aud,year,1,True,{},,,,,,licensed,False,prod_O0f5rLM9x32Dyu,2025-08-13 00:33:00.205000+00:00
+price_1RCPjWFCPJnn9IgIVBAvXtfu,True,,1020.0,per_unit,2025-04-10 18:21:50+00:00,usd,month,1,True,"{""Discounted"":""true"",""GigsPlanID-ATT"":""pln_0UgZo2zW2UMojt0OGofMdkkXsnBW"",""GigsPlanID-TMO"":""pln_0UhzOroP2UMojt3dwGE537oGF98v""}",US Multiple Monthly,,,,,licensed,False,prod_S6cuMZ6CPdnzhP,2025-08-13 00:33:00.205000+00:00
+price_1RCPeRFCPJnn9IgIouS4VljH,True,,11000.0,per_unit,2025-04-10 18:16:35+00:00,usd,year,1,True,"{""GigsPlanID-ATT"":""pln_0UgZpF7i2UMojt2yBhmy4m5ASWmG"",""GigsPlanID-TMO"":""pln_0UhzOyW42UMojt2HWmSwpFcn2YHS""}",US Regular Annual,,,,,licensed,False,prod_S6cuMZ6CPdnzhP,2025-08-13 00:33:00.205000+00:00
+price_1RCPeRFCPJnn9IgIiEHgkyMz,False,,1000.0,per_unit,2025-04-10 18:16:35+00:00,usd,month,1,True,"{""GigsPlanID"":""pln_0UgZo2zW2UMojt0OGofMdkkXsnBW""}",US Regular Monthly,,,,,licensed,False,prod_S6cuMZ6CPdnzhP,2025-08-13 00:33:00.205000+00:00
+price_1RCloqFCPJnn9IgItYbcYWvq,True,,1274.0,per_unit,2025-04-11 17:56:48+00:00,usd,month,1,True,"{""Discounted"":""true"",""GigsPlanID"":""pln_0UgZqjhX2UMojt1x8CBVTqvp1RjX""}",US Multiple Monthly,,,,,licensed,False,prod_S6zoXOnKOJAHl9,2025-08-13 00:33:00.205000+00:00
+price_1RDuVEFCPJnn9IgIjLKK762c,True,,2209.0,per_unit,2025-04-14 21:25:16+00:00,aud,month,1,True,"{""Discounted"":""true""}",AUS Multiple Monthly,,,,,licensed,False,prod_RFYmbLQ5SXKPdo,2025-08-13 00:33:00.205000+00:00
+price_1RDuYPFCPJnn9IgIqq3a72bU,True,,6374.0,per_unit,2025-04-14 21:28:33+00:00,aud,month,3,True,"{""Discounted"":""true""}",AUS Multiple Quarterly,,,,,licensed,False,prod_RFYmbLQ5SXKPdo,2025-08-13 00:33:00.205000+00:00
+price_1QN5urFCPJnn9IgIri1jMTjM,False,,1274.0,per_unit,2024-11-20 04:53:25+00:00,usd,month,1,True,"{""Discounted"":""true""}",Discounted Monthly,,,,,licensed,True,prod_RFb7a0KctgZOJx,2024-11-20 15:39:58.058000+00:00
+price_1QO9W5FCPJnn9IgI9QZTyh3X,False,,4999.0,per_unit,2024-11-23 02:56:13+00:00,usd,month,3,True,{},US Regular Quarterly,,,,,licensed,True,prod_RGgtEiEJ0WRxIN,2024-11-25 18:35:07.970000+00:00
+price_1JO119FCPJnn9IgIySHnZYhv,False,,,tiered,2021-08-13 14:05:51+00:00,usd,month,1,True,{},,graduated,,,,licensed,False,prod_JozFMTbFy4Objk,2025-08-13 00:33:00.206000+00:00
+price_1PMf84FCPJnn9IgIk3CcnfRY,True,,,tiered,2024-05-31 23:45:00+00:00,cad,month,1,True,{},,graduated,,,,licensed,False,prod_JozFMTbFy4Objk,2025-08-13 00:33:00.206000+00:00
+price_1QN3ehFCPJnn9IgItbxpWGok,True,,1529.0,per_unit,2024-11-20 02:28:35+00:00,usd,month,1,True,"{""Discounted"":""true""}",US Multiple Monthly,,,,,licensed,False,prod_RFYmbLQ5SXKPdo,2025-08-13 00:33:00.206000+00:00
+price_1QN3egFCPJnn9IgIffo5EnDv,True,,21999.0,per_unit,2024-11-20 02:28:34+00:00,cad,year,1,True,{},CAN Regular Annual,,,,,licensed,False,prod_RFYmbLQ5SXKPdo,2025-08-13 00:33:00.206000+00:00
+price_1QN3egFCPJnn9IgInIlCdNC7,True,,18699.0,per_unit,2024-11-20 02:28:34+00:00,cad,year,1,True,"{""Discounted"":""true""}",CAN Multiple Annual,,,,,licensed,False,prod_RFYmbLQ5SXKPdo,2025-08-13 00:33:00.206000+00:00
+price_1QLYnPFCPJnn9IgI6UWJmcFy,True,,,tiered,2024-11-15 23:19:23+00:00,gbp,month,1,True,{},,volume,,,,licensed,False,prod_JozFMTbFy4Objk,2025-08-13 00:33:00.206000+00:00
+price_1Pj2VDFCPJnn9IgIJwhsv6ot,True,,599.0,per_unit,2024-08-01 17:09:23+00:00,usd,month,1,True,{},,,,,,licensed,False,prod_O0f5XrfqwuzBWV,2025-08-13 00:33:00.206000+00:00
+price_1L7o3SFCPJnn9IgI3PdOah0s,False,,25900.0,per_unit,2022-06-06 22:05:46+00:00,usd,month,1,True,{},,,,,,licensed,False,prod_LpSzeeC0XXIbjW,2025-08-13 00:33:00.206000+00:00
+plan_HAFs5xiVLfmztk,True,,999.0,per_unit,2020-04-25 21:16:21+00:00,usd,month,1,True,{},Homebody Monthly,,,,,licensed,False,prod_HAFqUnlxqqCvsE,2025-08-13 00:33:00.206000+00:00
+plan_HAFxOh2YeaSjTT,True,,2299.0,per_unit,2020-04-25 21:21:38+00:00,usd,month,1,True,{},First Crew - Monthly,,,,,licensed,False,prod_HAFwegSvmBmsqL,2025-08-13 00:33:00.206000+00:00
+price_1PmrgbFCPJnn9IgI3YKv4adr,True,,6999.0,per_unit,2024-08-12 06:24:57+00:00,cad,month,3,True,{},,,,,,licensed,False,prod_P31zXm1Q8QHsJ0,2025-08-13 00:33:00.206000+00:00
+price_1OCRwYFCPJnn9IgImcNQuZD8,True,,4999.0,per_unit,2023-11-14 19:06:38+00:00,usd,month,3,True,{},,,,,,licensed,False,prod_P0Ss4aBE7tPFG0,2025-08-13 00:33:00.206000+00:00
+price_1Pj2W4FCPJnn9IgIXLv7kch4,True,,799.0,per_unit,2024-08-01 17:10:16+00:00,cad,month,1,True,{},,,,,,licensed,False,prod_O0f5XrfqwuzBWV,2025-08-13 00:33:00.206000+00:00
+plan_HAFuiTbubLgmSE,True,,1599.0,per_unit,2020-04-25 21:18:22+00:00,usd,month,1,True,{},Free Range Kid - Monthly,,,,,licensed,False,prod_HAFtRsX04IYRix,2025-08-13 00:33:00.206000+00:00
+price_1RCCKyFCPJnn9IgIatIoOd9S,True,,7599.0,per_unit,2025-04-10 04:03:36+00:00,aud,month,3,True,{},AUS Regular Quarterly,,,,,licensed,False,prod_RFYmbLQ5SXKPdo,2025-08-13 00:33:00.205000+00:00
+price_1RDuVyFCPJnn9IgI3MfpA5aU,True,,23799.0,per_unit,2025-04-14 21:26:02+00:00,aud,year,1,True,"{""Discounted"":""true""}",AUS Multiple Annual,,,,,licensed,False,prod_RFYmbLQ5SXKPdo,2025-08-13 00:33:00.205000+00:00
+price_1RdGFpFCPJnn9IgIFKOqHg0Q,True,,3654.0,per_unit,2025-06-23 19:42:09+00:00,usd,month,3,True,"{""Discounted"":""true"",""GigsPlanID"":""pln_0UgZqvEP2UMojt1RSuaaKxL7tyoO""}",US Multiple Quarterly,,,,,licensed,False,prod_S6zoXOnKOJAHl9,2025-08-13 00:33:00.204000+00:00
+price_1RdGAGFCPJnn9IgI1bKwhuAB,True,,4299.0,per_unit,2025-06-23 19:36:24+00:00,usd,month,3,True,"{""GigsPlanID"":""pln_0UgZqvEP2UMojt1RSuaaKxL7tyoO""}",US Regular Quarterly,,,,,licensed,False,prod_S6zoXOnKOJAHl9,2025-08-13 00:33:00.205000+00:00
+price_1LE0DTFCPJnn9IgIaO6xqkKa,False,,,tiered,2022-06-24 00:17:43+00:00,usd,year,1,True,{},,graduated,,,,licensed,True,prod_LsPjJF8MUZjUdR,2022-06-24 02:30:04.165000+00:00
+price_1NEHryFCPJnn9IgIibhUD8tD,False,,0.0,per_unit,2023-06-01 20:13:14+00:00,usd,month,1,True,{},,,,,,licensed,True,prod_O0ISJiv9kJeaIx,2023-06-08 14:31:03.266000+00:00
+price_1QN5urFCPJnn9IgIJeS5tLfe,False,,16499.0,per_unit,2024-11-20 04:53:25+00:00,usd,year,1,True,{},Regular Annual,,,,,licensed,True,prod_RFb7a0KctgZOJx,2024-11-20 15:39:58.060000+00:00
+price_1QN3ehFCPJnn9IgIeoYctGob,False,,1274.0,per_unit,2024-11-20 02:28:35+00:00,usd,month,1,True,"{""Discounted"":""true""}",US Legacy Multiple Monthly,,,,,licensed,True,prod_RFYmbLQ5SXKPdo,2024-11-21 16:54:39.680000+00:00
+price_1QN3egFCPJnn9IgIGJ7IVL0k,False,,14024.0,per_unit,2024-11-20 02:28:34+00:00,usd,year,1,True,"{""Discounted"":""true""}",US Legacy Multiple Annual,,,,,licensed,True,prod_RFYmbLQ5SXKPdo,2024-11-21 16:54:39.667000+00:00
+price_1RWQCRFCPJnn9IgIld1GaFVO,False,,5799.0,per_unit,2025-06-04 22:54:23+00:00,cad,month,3,True,{},CAN Regular Quarterly,,,,,licensed,True,prod_SRIoaZHKJlnZog,2025-06-05 00:30:17.146000+00:00
+price_1QN3ehFCPJnn9IgITAdNVw4t,False,,23999.0,per_unit,2024-11-20 02:28:35+00:00,cad,year,1,True,{},CAN BFCM Annual,,,,,licensed,False,prod_RFYmbLQ5SXKPdo,2025-08-13 00:33:00.206000+00:00
+price_1J8rYYFCPJnn9IgI7ezmCKAP,True,,500.0,per_unit,2021-07-02 18:57:42+00:00,usd,month,1,True,{},,,,,,licensed,False,prod_JmQPxZ7HuTYuZ5,2025-08-13 00:33:00.206000+00:00
+plan_HAFybbHt21XOQf,True,,2999.0,per_unit,2020-04-25 21:23:11+00:00,usd,month,1,True,{},Wingspan - Monthly,,,,,licensed,False,prod_HAFy5KmKyvi4LR,2025-08-13 00:33:00.206000+00:00
+price_1NEdllFCPJnn9IgI0yLTkLve,False,,7999.0,per_unit,2023-06-02 19:36:17+00:00,usd,year,1,True,{},,,,,,licensed,False,prod_O0f5rLM9x32Dyu,2025-08-13 00:33:00.206000+00:00
+price_1JBLGhFCPJnn9IgIxYy1cqhA,False,,,tiered,2021-07-09 15:05:31+00:00,usd,month,1,True,{},,graduated,,,,licensed,False,prod_JozFMTbFy4Objk,2025-08-13 00:33:00.206000+00:00
+price_1NEHryFCPJnn9IgIH7dO2qtd,True,,0.0,per_unit,2023-06-01 20:13:14+00:00,usd,year,1,True,{},,,,,,licensed,False,prod_O0ISJiv9kJeaIx,2025-08-13 00:33:00.206000+00:00
+price_1QN3ehFCPJnn9IgIdc29ji9O,False,,5949.0,per_unit,2024-11-20 02:28:35+00:00,cad,month,3,True,"{""Discounted"":""true""}",CAN BFCM Multiple Quarterly,,,,,licensed,False,prod_RFYmbLQ5SXKPdo,2025-08-13 00:33:00.206000+00:00
+price_1IyMilFCPJnn9IgIRoAgAa6k,True,,,tiered,2021-06-03 20:00:51+00:00,usd,month,1,True,{},,graduated,,,,licensed,False,prod_JbZsLnBClArgFa,2025-08-13 00:33:00.206000+00:00
+price_1Pj2K6FCPJnn9IgIk4bvB0uJ,True,,4999.0,per_unit,2024-08-01 16:57:54+00:00,usd,year,1,True,{},,,,,,licensed,False,prod_O0f5rLM9x32Dyu,2025-08-13 00:33:00.206000+00:00
+price_1IyMjIFCPJnn9IgIFIONmQz8,True,,500.0,per_unit,2021-06-03 20:01:24+00:00,usd,month,1,True,{},,,,,,licensed,False,prod_JbZtcQqHx4PonK,2025-08-13 00:33:00.206000+00:00
+price_1QIiXtFCPJnn9IgIQAda5p8i,True,,4599.0,per_unit,2024-11-08 03:07:37+00:00,gbp,year,1,True,{},,,,,,licensed,False,prod_O0f5rLM9x32Dyu,2025-08-13 00:33:00.206000+00:00
+price_1QN3ehFCPJnn9IgIaZAhd803,True,,12749.0,per_unit,2024-11-20 02:28:35+00:00,gbp,year,1,True,"{""Discounted"":""true""}",UK Multiple Annual,,,,,licensed,False,prod_RFYmbLQ5SXKPdo,2025-08-13 00:33:00.206000+00:00
+price_1JNNT8FCPJnn9IgIUF8DldJW,True,,1499.0,per_unit,2021-08-11 19:52:06+00:00,usd,month,1,True,{},,,,,,licensed,False,prod_JvhevCadQjd4QB,2025-08-13 00:33:00.206000+00:00
+price_1QN3ehFCPJnn9IgI6bybO1ma,True,,1799.0,per_unit,2024-11-20 02:28:35+00:00,usd,month,1,True,{},US Regular Monthly,,,,,licensed,False,prod_RFYmbLQ5SXKPdo,2025-08-13 00:33:00.205000+00:00
+price_1RCQCiFCPJnn9IgI5Y9iDize,True,,2550.0,per_unit,2025-04-10 18:52:00+00:00,usd,month,3,True,"{""Discounted"":""true"",""GigsPlanID-ATT"":""pln_0UgZp4WR2UMojt03ZyqwtdqJdEsB"",""GigsPlanID-TMO"":""pln_0UhzOuUr2UMojt07LPmHHJvDedSE""}",US Multiple Quarterly,,,,,licensed,False,prod_S6cuMZ6CPdnzhP,2025-08-13 00:33:00.205000+00:00
+price_1RCloqFCPJnn9IgIzN7Axhwx,True,,1499.0,per_unit,2025-04-11 17:56:48+00:00,usd,month,1,True,"{""GigsPlanID"":""pln_0UgZqjhX2UMojt1x8CBVTqvp1RjX""}",US Regular Monthly,,,,,licensed,False,prod_S6zoXOnKOJAHl9,2025-08-13 00:33:00.205000+00:00
+price_1RCloqFCPJnn9IgIT1BmgB0Q,True,,16499.0,per_unit,2025-04-11 17:56:48+00:00,usd,year,1,True,"{""GigsPlanID"":""pln_0UgZr3rY2UMojt03hsSAww4idjvh""}",US Regular Annual,,,,,licensed,False,prod_S6zoXOnKOJAHl9,2025-08-13 00:33:00.205000+00:00
+price_1RWAfaFCPJnn9IgIRoHDJyB4,True,,4929.0,per_unit,2025-06-04 06:19:26+00:00,cad,month,3,True,"{""Discounted"":""true""}",CAN Multiple Quarterly,,,,,licensed,False,prod_RFYmbLQ5SXKPdo,2025-08-13 00:33:00.205000+00:00
+price_1MRjg0FCPJnn9IgIKplLvmrS,True,,1499.0,per_unit,2023-01-18 22:00:12+00:00,usd,month,1,True,{},,,,,,licensed,False,prod_NC7v3IUn4oxnIY,2023-01-19 02:30:00.040000+00:00
+price_1NEdlcFCPJnn9IgISOBgE30M,False,,999.0,per_unit,2023-06-02 19:36:08+00:00,usd,month,1,True,{},,,,,,licensed,True,prod_O0f5XrfqwuzBWV,2023-06-02 20:30:58.334000+00:00
+price_1NEdllFCPJnn9IgIskmyCCBq,False,,9999.0,per_unit,2023-06-02 19:36:17+00:00,usd,year,1,True,{},,,,,,licensed,True,prod_O0f5rLM9x32Dyu,2023-06-02 20:30:58.333000+00:00
+price_1QN5urFCPJnn9IgIQPBvrfqT,False,,14024.0,per_unit,2024-11-20 04:53:25+00:00,usd,year,1,True,"{""Discounted"":""true""}",Discounted Annual,,,,,licensed,True,prod_RFb7a0KctgZOJx,2024-11-20 15:39:58.059000+00:00
+price_1QN3egFCPJnn9IgIDyNZ3Fpb,False,,16499.0,per_unit,2024-11-20 02:28:34+00:00,usd,year,1,True,{},US Legacy Annual,,,,,licensed,True,prod_RFYmbLQ5SXKPdo,2024-11-21 16:54:39.679000+00:00
+price_1LAetfFCPJnn9IgIn72MHBKu,True,,,tiered,2022-06-14 18:55:27+00:00,usd,year,1,True,{},,graduated,,,,licensed,False,prod_LsPjJF8MUZjUdR,2025-08-13 00:33:00.206000+00:00
+price_1JQZCDFCPJnn9IgIFVEWlVxH,True,,,tiered,2021-08-20 14:59:49+00:00,usd,month,1,True,{},Exclusive Tax Sub for Customer Porting,graduated,,,,licensed,False,prod_JozFMTbFy4Objk,2025-08-13 00:33:00.206000+00:00
+plan_HAFzQSOQRMlzh9,True,,29900.0,per_unit,2020-04-25 21:23:32+00:00,usd,year,1,True,{},Wingspan - Annual,,,,,licensed,False,prod_HAFy5KmKyvi4LR,2025-08-13 00:33:00.206000+00:00
+plan_HAFuBBx3qRZXbT,True,,16900.0,per_unit,2020-04-25 21:19:04+00:00,usd,year,1,True,{},Free Range Kid - Annual,,,,,licensed,False,prod_HAFtRsX04IYRix,2025-08-13 00:33:00.206000+00:00
+price_1QN3ehFCPJnn9IgIGWc2u0BP,False,,6999.0,per_unit,2024-11-20 02:28:35+00:00,cad,month,3,True,{},CAN BFCM Quarterly,,,,,licensed,False,prod_RFYmbLQ5SXKPdo,2025-08-13 00:33:00.206000+00:00
+price_1PMfDyFCPJnn9IgIY1onr2tn,True,,,tiered,2024-05-31 23:51:06+00:00,cad,year,1,True,{},,graduated,,,,licensed,False,prod_LsPjJF8MUZjUdR,2025-08-13 00:33:00.206000+00:00
+price_1J1FEtFCPJnn9IgIej1GWuH0,True,,,tiered,2021-06-11 18:37:55+00:00,usd,month,1,True,{},,graduated,,,,licensed,False,prod_JeYLYHJOwh35Zp,2025-08-13 00:33:00.206000+00:00
+price_1QN3ehFCPJnn9IgIW9p0C9rz,False,,20399.0,per_unit,2024-11-20 02:28:35+00:00,cad,year,1,True,"{""Discounted"":""true""}",CAN BFCM Multiple Annual,,,,,licensed,False,prod_RFYmbLQ5SXKPdo,2025-08-13 00:33:00.206000+00:00
+price_1QN3ehFCPJnn9IgIg3XCvLam,True,,1999.0,per_unit,2024-11-20 02:28:35+00:00,cad,month,1,True,{},CAN Regular Monthly,,,,,licensed,False,prod_RFYmbLQ5SXKPdo,2025-08-13 00:33:00.206000+00:00
+price_1QN3ehFCPJnn9IgINTlLl2ai,True,,14999.0,per_unit,2024-11-20 02:28:35+00:00,gbp,year,1,True,{},UK Regular Annual,,,,,licensed,False,prod_RFYmbLQ5SXKPdo,2025-08-13 00:33:00.206000+00:00
+price_1JHqEBFCPJnn9IgIdZZV7J9g,False,,500.0,per_unit,2021-07-27 13:21:47+00:00,usd,month,1,True,{},,,,,,licensed,False,prod_JvhdBKbCtu7V25,2025-08-13 00:33:00.206000+00:00
+price_1QN3ehFCPJnn9IgI6dSlgkaa,True,,4999.0,per_unit,2024-11-20 02:28:35+00:00,usd,month,3,True,{},US Regular Quarterly,,,,,licensed,False,prod_RFYmbLQ5SXKPdo,2025-08-13 00:33:00.205000+00:00
+price_1QN3ehFCPJnn9IgIehueSqdF,True,,4249.0,per_unit,2024-11-20 02:28:35+00:00,usd,month,3,True,"{""Discounted"":""true""}",US Multiple Quarterly,,,,,licensed,False,prod_RFYmbLQ5SXKPdo,2025-08-13 00:33:00.206000+00:00
+price_1QN3ehFCPJnn9IgICUnj5d6R,True,,1189.0,per_unit,2024-11-20 02:28:35+00:00,gbp,month,1,True,"{""Discounted"":""true""}",UK Multiple Monthly,,,,,licensed,False,prod_RFYmbLQ5SXKPdo,2025-08-13 00:33:00.206000+00:00
+price_1QN3ehFCPJnn9IgIJwbQXT0S,True,,14874.0,per_unit,2024-11-20 02:28:35+00:00,usd,year,1,True,"{""Discounted"":""true""}",US Multiple Annual,,,,,licensed,False,prod_RFYmbLQ5SXKPdo,2025-08-13 00:33:00.206000+00:00
+price_1JNNUKFCPJnn9IgIPg468R9U,True,,499.0,per_unit,2021-08-11 19:53:20+00:00,usd,month,1,True,{},,,,,,licensed,False,prod_JvhdBKbCtu7V25,2025-08-13 00:33:00.206000+00:00
+price_1JHqF1FCPJnn9IgIpVNvSSMi,False,,1500.0,per_unit,2021-07-27 13:22:39+00:00,usd,month,1,True,{},,,,,,licensed,False,prod_JvhevCadQjd4QB,2025-08-13 00:33:00.206000+00:00
+price_1NEdlcFCPJnn9IgIuiWK0O59,False,,1999.0,per_unit,2023-06-02 19:36:08+00:00,usd,month,1,True,{},,,,,,licensed,False,prod_O0f5XrfqwuzBWV,2025-08-13 00:33:00.206000+00:00
+price_1QN3ehFCPJnn9IgIK7BoKJkv,True,,1399.0,per_unit,2024-11-20 02:28:35+00:00,gbp,month,1,True,{},UK Regular Monthly,,,,,licensed,False,prod_RFYmbLQ5SXKPdo,2025-08-13 00:33:00.206000+00:00
+price_1R9XHsFCPJnn9IgIbP22plFk,True,,999.0,per_unit,2025-04-02 19:49:24+00:00,aud,month,1,True,{},,,,,,licensed,False,prod_O0f5XrfqwuzBWV,2025-08-13 00:33:00.205000+00:00
+price_1RCCGMFCPJnn9IgIM3DiR70e,True,,2599.0,per_unit,2025-04-10 03:58:50+00:00,aud,month,1,True,{},AUS Regular Monthly,,,,,licensed,False,prod_RFYmbLQ5SXKPdo,2025-08-13 00:33:00.205000+00:00
+price_1RCPeRFCPJnn9IgINDUGHFa0,True,,3000.0,per_unit,2025-04-10 18:16:35+00:00,usd,month,3,True,"{""GigsPlanID-ATT"":""pln_0UgZp4WR2UMojt03ZyqwtdqJdEsB"",""GigsPlanID-TMO"":""pln_0UhzOuUr2UMojt07LPmHHJvDedSE""}",US Regular Quarterly,,,,,licensed,False,prod_S6cuMZ6CPdnzhP,2025-08-13 00:33:00.205000+00:00
+price_1RCCLnFCPJnn9IgI15jwi7st,True,,27999.0,per_unit,2025-04-10 04:04:27+00:00,aud,year,1,True,{},AUS Regular Annual,,,,,licensed,False,prod_RFYmbLQ5SXKPdo,2025-08-13 00:33:00.205000+00:00
+price_1RCQIFFCPJnn9IgIfE7nLnU0,True,,9350.0,per_unit,2025-04-10 18:57:43+00:00,usd,year,1,True,"{""Discounted"":""true"",""GigsPlanID-ATT"":""pln_0UgZpF7i2UMojt2yBhmy4m5ASWmG"",""GigsPlanID-TMO"":""pln_0UhzOyW42UMojt2HWmSwpFcn2YHS""}",US Multiple Annual,,,,,licensed,False,prod_S6cuMZ6CPdnzhP,2025-08-13 00:33:00.205000+00:00
+price_1RCloqFCPJnn9IgIkEDBKVmy,True,,14024.0,per_unit,2025-04-11 17:56:48+00:00,usd,year,1,True,"{""Discounted"":""true"",""GigsPlanID"":""pln_0UgZr3rY2UMojt03hsSAww4idjvh""}",US Multiple Annual,,,,,licensed,False,prod_S6zoXOnKOJAHl9,2025-08-13 00:33:00.205000+00:00
+price_1RHV9xFCPJnn9IgI7BYqslh5,True,,1200.0,per_unit,2025-04-24 19:10:09+00:00,usd,month,1,True,"{""GigsPlanID-ATT"":""pln_0UgZo2zW2UMojt0OGofMdkkXsnBW"",""GigsPlanID-TMO"":""pln_0UhzOroP2UMojt3dwGE537oGF98v""}",US Regular Monthly,,,,,licensed,False,prod_S6cuMZ6CPdnzhP,2025-08-13 00:33:00.205000+00:00
+price_1RWAeUFCPJnn9IgI4uxKO1Qj,True,,5799.0,per_unit,2025-06-04 06:18:18+00:00,cad,month,3,True,{},CAN Regular Quarterly,,,,,licensed,False,prod_RFYmbLQ5SXKPdo,2025-08-13 00:33:00.205000+00:00

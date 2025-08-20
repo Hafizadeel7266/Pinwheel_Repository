@@ -1,0 +1,5 @@
+asin,condition,offer_type,quantity_tier,quantity_discount_type,landed_price_currency_code,listing_price_currency_code,shipping_price_currency_code,points_points_number,pointspoints_monetary_value_currency_code,seller_id,_fivetran_synced,listing_price_amount,shipping_price_amount,landed_price_amount,pointspoints_monetary_value_amount
+B0BKR4XZGJ,New,,,,USD,USD,USD,,,,2023-07-06 14:32:42.404000+00:00,489.0,0.0,489.0,
+B0BKR4YKB2,New,,,,USD,USD,USD,,,,2023-07-06 14:32:42.054000+00:00,239.0,0.0,239.0,
+B0BKRXGT52,New,,,,USD,USD,USD,,,,2023-07-06 14:33:53.266000+00:00,359.0,0.0,359.0,
+B0BKR3VM44,New,,,,USD,USD,USD,,,,2023-07-06 14:32:42.742000+00:00,369.0,0.0,369.0,

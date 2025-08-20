@@ -1,0 +1,40 @@
+-- =====================================================
+-- STRIPE_FIVETRAN SCHEMA SETUP
+-- =====================================================
+
+USE DATABASE DEV;
+
+-- Create schema
+CREATE SCHEMA IF NOT EXISTS STRIPE_FIVETRAN
+    DATA_RETENTION_TIME_IN_DAYS = 7
+    COMMENT = 'Schema for Stripe data via Fivetran';
+
+USE SCHEMA STRIPE_FIVETRAN;
+
+-- Create internal stage
+CREATE OR REPLACE STAGE STRIPE_FIVETRAN_STAGE
+    COMMENT = 'Internal stage for loading Stripe Fivetran data'
+    DIRECTORY = (ENABLE = TRUE);
+
+-- Create CSV file format
+CREATE OR REPLACE FILE FORMAT STRIPE_FIVETRAN_CSV_FORMAT
+    TYPE = 'CSV'
+    FIELD_DELIMITER = ','
+    SKIP_HEADER = 1
+    NULL_IF = ('NULL', 'null', '')
+    EMPTY_FIELD_AS_NULL = TRUE
+    FIELD_OPTIONALLY_ENCLOSED_BY = '"'
+    COMPRESSION = 'AUTO'
+    ERROR_ON_COLUMN_COUNT_MISMATCH = FALSE;
+
+-- Create JSON file format
+CREATE OR REPLACE FILE FORMAT STRIPE_FIVETRAN_JSON_FORMAT
+    TYPE = 'JSON'
+    COMPRESSION = 'AUTO'
+    STRIP_OUTER_ARRAY = TRUE
+    DATE_FORMAT = 'AUTO'
+    TIMESTAMP_FORMAT = 'AUTO';
+
+-- Verify creation
+SHOW STAGES IN SCHEMA STRIPE_FIVETRAN;
+SHOW FILE FORMATS IN SCHEMA STRIPE_FIVETRAN;

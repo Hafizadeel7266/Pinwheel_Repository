@@ -1,0 +1,50 @@
+-- =====================================================
+-- AMAZON_SALES SCHEMA SETUP
+-- =====================================================
+
+USE DATABASE DEV;
+
+-- Create schema
+CREATE SCHEMA IF NOT EXISTS AMAZON_SALES
+    DATA_RETENTION_TIME_IN_DAYS = 7
+    COMMENT = 'Schema for Amazon sales data';
+
+USE SCHEMA AMAZON_SALES;
+
+-- Create internal stage
+CREATE OR REPLACE STAGE AMAZON_SALES_STAGE
+    COMMENT = 'Internal stage for loading Amazon sales data'
+    DIRECTORY = (ENABLE = TRUE);
+
+-- Create CSV file format
+CREATE OR REPLACE FILE FORMAT AMAZON_SALES_CSV_FORMAT
+    TYPE = 'CSV'
+    FIELD_DELIMITER = ','
+    SKIP_HEADER = 1
+    NULL_IF = ('NULL', 'null', '')
+    EMPTY_FIELD_AS_NULL = TRUE
+    FIELD_OPTIONALLY_ENCLOSED_BY = '"'
+    COMPRESSION = 'AUTO'
+    ERROR_ON_COLUMN_COUNT_MISMATCH = FALSE;
+
+-- Create JSON file format
+CREATE OR REPLACE FILE FORMAT AMAZON_SALES_JSON_FORMAT
+    TYPE = 'JSON'
+    COMPRESSION = 'AUTO'
+    STRIP_OUTER_ARRAY = TRUE
+    DATE_FORMAT = 'AUTO'
+    TIMESTAMP_FORMAT = 'AUTO';
+
+-- Create TSV file format (for Amazon reports)
+CREATE OR REPLACE FILE FORMAT AMAZON_SALES_TSV_FORMAT
+    TYPE = 'CSV'
+    FIELD_DELIMITER = '\t'
+    SKIP_HEADER = 1
+    NULL_IF = ('NULL', 'null', '')
+    EMPTY_FIELD_AS_NULL = TRUE
+    COMPRESSION = 'AUTO'
+    ERROR_ON_COLUMN_COUNT_MISMATCH = FALSE;
+
+-- Verify creation
+SHOW STAGES IN SCHEMA AMAZON_SALES;
+SHOW FILE FORMATS IN SCHEMA AMAZON_SALES;

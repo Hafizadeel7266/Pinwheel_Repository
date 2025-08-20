@@ -1,0 +1,2 @@
+feature_name,feature_description,seller_eligible,_fivetran_synced
+BLANK_BOX,Enables Shipment in non-Amazon branded boxes,False,2023-07-06 14:33:55.291000+00:00
