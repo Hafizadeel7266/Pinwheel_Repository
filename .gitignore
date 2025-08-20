@@ -1,17 +1,1 @@
-# Ignore dbt build artifacts
-target/
-dbt_packages/
-logs/
-
-# Python
-__pycache__/
-.venv/
-*.pyc
 Pinwheel_Repository/codebase/venv/
-# OS / temp files
-.DS_Store
-*.tmp
-~
-
-# Jupyter
-.ipynb_checkpoints/
